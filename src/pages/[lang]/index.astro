@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ServiceCard from '../../components/ServiceCard.astro';
 import WhatsAppCTA from '../../components/WhatsAppCTA.astro';
+import Marquee from '../../components/Marquee.astro';
 import {
   LANGS,
   type Lang,
@@ -29,9 +30,18 @@ const { Content } = await entry.render();
 const lang = entry.data.lang as Lang;
 const ui = UI[lang];
 
+const services = await getCollection('services', (s) => s.data.lang === lang);
+const serviceImage = (key: string) => services.find((s) => s.data.serviceKey === key);
+
 const coreServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'core');
 const secondaryServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'secondary');
 const commercialServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'commercial');
+
+const marqueeItems: Record<Lang, string[]> = {
+  es: ['Elopement', 'Retratos', 'Mallorca', 'Sóller', 'Deià', 'Luz natural'],
+  de: ['Elopement', 'Porträts', 'Mallorca', 'Sóller', 'Deià', 'Natürliches Licht'],
+  en: ['Elopement', 'Portraits', 'Mallorca', 'Sóller', 'Deià', 'Natural light'],
+};
 
 const alternates: Partial<Record<Lang, string>> = {};
 for (const l of LANGS) alternates[l] = localePath(l, '');
@@ -48,81 +58,100 @@ const path = localePath(lang, '');
   ogImage={entry.data.heroImage}
   jsonLd={[localBusinessSchema()]}
 >
-  <section class="relative">
+  <section class="relative h-[92vh] min-h-[560px] w-full overflow-hidden bg-ink">
     {entry.data.heroImage && (
-      <div class="h-[78vh] min-h-[460px] w-full overflow-hidden bg-line">
+      <div class="absolute inset-0" data-parallax="0.4">
         <img
           src={entry.data.heroImage}
           alt={entry.data.heroImageAlt}
-          class="h-full w-full object-cover"
+          class="h-[130%] w-full object-cover opacity-70"
           loading="eager"
           fetchpriority="high"
         />
       </div>
     )}
+    <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/10 to-transparent"></div>
+
+    <div class="relative flex h-full flex-col justify-end px-5 pb-16 md:px-8 md:pb-20" data-parallax="0.08">
+      <p class="eyebrow mb-4 text-paper/60">{SITE.serviceArea}</p>
+      <h1 class="max-w-4xl font-sans text-display-1 font-bold text-paper">{entry.data.h1}</h1>
+      <p class="mt-6 max-w-xl text-lg text-paper/70">{entry.data.subtitle}</p>
+      <a href={SITE.whatsappLink} target="_blank" rel="noopener noreferrer" class="link-arrow mt-8 w-fit text-lg !border-paper text-paper hover:!border-rust hover:text-rust">
+        {ui.ctaButton} →
+      </a>
+    </div>
   </section>
 
-  <section class="mx-auto max-w-3xl px-5 py-16 text-center md:px-8 md:py-20">
-    <h1 class="font-serif text-4xl leading-tight md:text-5xl">{entry.data.h1}</h1>
-    <p class="mx-auto mt-5 max-w-xl text-lg text-ink/60">{entry.data.subtitle}</p>
-    <a href={SITE.whatsappLink} target="_blank" rel="noopener noreferrer" class="link-arrow mt-8 text-lg">
-      {ui.ctaButton} →
-    </a>
-  </section>
+  <Marquee items={marqueeItems[lang]} />
 
-  <section class="mx-auto max-w-3xl px-5 pb-16 md:px-8">
+  <section class="mx-auto max-w-3xl px-5 py-16 md:px-8 md:py-24" data-reveal>
     <div class="prose-lupo mx-auto">
       <Content />
     </div>
   </section>
 
-  <section class="mx-auto max-w-4xl px-5 py-16 md:px-8">
-    <p class="eyebrow mb-6">{ui.servicesHeading}</p>
+  <section class="mx-auto max-w-5xl px-5 py-16 md:px-8 md:py-24">
+    <p class="eyebrow mb-8">{ui.servicesHeading}</p>
     <div>
-      {coreServices.map((key) => (
-        <ServiceCard serviceKey={key} lang={lang} blurb={HOME_SERVICE_BLURBS[key][lang]} />
+      {coreServices.map((key, i) => (
+        <ServiceCard
+          serviceKey={key}
+          lang={lang}
+          index={i + 1}
+          blurb={HOME_SERVICE_BLURBS[key][lang]}
+          image={serviceImage(key)?.data.heroImage}
+          imageAlt={serviceImage(key)?.data.heroImageAlt}
+        />
       ))}
     </div>
 
     {secondaryServices.length > 0 && (
-      <div class="mt-10 border-t border-line pt-6">
-        <p class="eyebrow mb-4">{ui.secondaryHeading}</p>
-        {secondaryServices.map((key) => (
-          <ServiceCard serviceKey={key} lang={lang} blurb={HOME_SERVICE_BLURBS[key][lang]} />
+      <div class="mt-14 border-t border-line pt-8">
+        <p class="eyebrow mb-6">{ui.secondaryHeading}</p>
+        {secondaryServices.map((key, i) => (
+          <ServiceCard
+            serviceKey={key}
+            lang={lang}
+            index={coreServices.length + i + 1}
+            blurb={HOME_SERVICE_BLURBS[key][lang]}
+            image={serviceImage(key)?.data.heroImage}
+            imageAlt={serviceImage(key)?.data.heroImageAlt}
+          />
         ))}
       </div>
     )}
   </section>
 
   {commercialServices.length > 0 && (
-    <section class="border-t border-line bg-ink py-16 text-paper">
-      <div class="mx-auto max-w-4xl px-5 md:px-8">
-        <p class="eyebrow mb-6 text-paper/50">{ui.commercialHeading}</p>
+    <section class="border-y border-line bg-ink py-16 text-paper md:py-24" data-reveal>
+      <div class="mx-auto max-w-5xl px-5 md:px-8">
+        <p class="eyebrow mb-8 text-paper/50">{ui.commercialHeading}</p>
         {commercialServices.map((key) => (
-          <a
-            href={serviceHref(key, lang)}
-            class="group flex flex-col gap-2 border-t border-paper/20 py-8 first:border-t-0 md:flex-row md:items-baseline md:justify-between md:gap-10"
-          >
-            <h3 class="font-serif text-2xl transition group-hover:text-rust md:w-1/3">{SERVICE_META[key][lang]}</h3>
-            <p class="text-paper/60 md:w-2/3">{HOME_SERVICE_BLURBS[key][lang]}</p>
-          </a>
+          <ServiceCard
+            serviceKey={key}
+            lang={lang}
+            dark
+            blurb={HOME_SERVICE_BLURBS[key][lang]}
+            image={serviceImage(key)?.data.heroImage}
+            imageAlt={serviceImage(key)?.data.heroImageAlt}
+          />
         ))}
       </div>
     </section>
   )}
 
-  <section class="mx-auto max-w-4xl px-5 py-16 md:px-8">
-    <p class="eyebrow mb-6">{ui.areasWeWork}</p>
-    <div class="flex flex-wrap gap-x-8 gap-y-3">
+  <section class="mx-auto max-w-5xl px-5 py-16 md:px-8 md:py-24" data-reveal>
+    <p class="eyebrow mb-8">{ui.areasWeWork}</p>
+    <div class="flex flex-wrap gap-x-10 gap-y-4">
       {LOCATION_KEYS.map((key) => (
-        <a href={locationHref(key, lang)} class="link-arrow">
+        <a href={locationHref(key, lang)} class="font-sans text-2xl font-semibold transition hover:text-rust md:text-3xl">
           {LOCATION_META[key][lang]}
         </a>
       ))}
     </div>
   </section>
 
-  <section class="mx-auto max-w-4xl px-5 pb-16 md:px-8">
+  <section class="mx-auto max-w-4xl px-5 pb-20 md:px-8" data-reveal>
     <WhatsAppCTA lang={lang} />
   </section>
 </Layout>

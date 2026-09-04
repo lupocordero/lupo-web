@@ -41,18 +41,19 @@ const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB'
   jsonLd={[localBusinessSchema()]}
 >
   <div class="mx-auto max-w-4xl px-5 py-16 md:px-8">
-    <h1 class="font-serif text-3xl md:text-4xl">{ui.blogListTitle}</h1>
+    <h1 class="font-sans text-display-2 font-bold">{ui.blogListTitle}</h1>
     <div class="mt-12">
       {posts.map((post) => (
         <a
           href={blogPostHref(post.data.postKey as BlogPostKey, lang)}
           class="group flex flex-col gap-5 border-t border-line py-8 first:border-t-0 md:flex-row md:gap-10"
+          data-reveal
         >
           <div class="aspect-[4/3] w-full overflow-hidden bg-line md:w-1/3">
             <img
               src={post.data.heroImage}
               alt={post.data.heroImageAlt}
-              class="h-full w-full object-cover transition group-hover:scale-105"
+              class="h-full w-full object-cover transition duration-700 group-hover:scale-105"
               loading="lazy"
             />
           </div>
@@ -60,7 +61,7 @@ const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB'
             <p class="eyebrow mb-2">
               {post.data.publishDate.toLocaleDateString(dateLocale[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
             </p>
-            <h2 class="font-serif text-xl transition group-hover:text-rust">{post.data.h1}</h2>
+            <h2 class="font-sans text-2xl font-bold transition group-hover:text-rust">{post.data.h1}</h2>
             <p class="mt-2 text-ink/60">{post.data.excerpt}</p>
             <span class="link-arrow mt-4 text-sm">{ui.readMore} →</span>
           </div>

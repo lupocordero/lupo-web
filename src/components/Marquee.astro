@@ -1,0 +1,20 @@
+---
+export interface Props {
+  items: string[];
+}
+
+const { items } = Astro.props;
+// Duplicate once so the track can loop seamlessly at translateX(-50%).
+const loop = [...items, ...items];
+---
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee__track">
+    {loop.map((item) => (
+      <span class="flex items-center gap-10">
+        {item}
+        <span class="text-rust">＊</span>
+      </span>
+    ))}
+  </div>
+</div>

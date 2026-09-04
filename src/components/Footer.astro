@@ -11,46 +11,52 @@ const nav = NAV[lang];
 const year = new Date().getFullYear();
 ---
 
-<footer class="border-t border-line">
-  <div class="mx-auto grid max-w-6xl gap-10 px-5 py-14 sm:grid-cols-2 md:px-8 lg:grid-cols-4">
-    <div>
-      <p class="font-serif text-lg">{SITE.brand}</p>
-      <p class="mt-2 text-sm text-ink/60">{SITE.serviceArea}</p>
-      <div class="mt-5 flex flex-col gap-1.5 text-sm">
-        <a href={SITE.whatsappLink} class="link-arrow w-fit">WhatsApp</a>
-        <a href={`mailto:${SITE.email}`} class="text-ink/70 hover:text-rust">{SITE.email}</a>
-        <a href={SITE.instagramUrl} class="text-ink/70 hover:text-rust">{SITE.instagram}</a>
+<footer class="border-t border-line bg-ink text-paper">
+  <div class="mx-auto max-w-[1600px] px-5 py-16 md:px-8 md:py-20">
+    <p class="font-sans text-display-3 font-bold leading-none">
+      {SITE.brand}<span class="text-rust">.</span>
+    </p>
+    <p class="mt-4 max-w-sm font-mono text-sm uppercase tracking-widest2 text-paper/50">{SITE.serviceArea}</p>
+
+    <div class="mt-14 grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
+      <div>
+        <p class="eyebrow mb-4 text-paper/40">Contact</p>
+        <div class="flex flex-col gap-2 text-sm">
+          <a href={SITE.whatsappLink} class="link-arrow w-fit !border-paper hover:!border-rust">WhatsApp</a>
+          <a href={`mailto:${SITE.email}`} class="text-paper/70 hover:text-rust">{SITE.email}</a>
+          <a href={SITE.instagramUrl} class="text-paper/70 hover:text-rust">{SITE.instagram}</a>
+        </div>
+      </div>
+
+      <div>
+        <p class="eyebrow mb-4 text-paper/40">{nav.work}</p>
+        <ul class="space-y-2 text-sm">
+          {SERVICE_KEYS.map((key) => (
+            <li><a href={serviceHref(key, lang)} class="text-paper/70 hover:text-rust">{SERVICE_META[key][lang]}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="eyebrow mb-4 text-paper/40">{nav.areas}</p>
+        <ul class="space-y-2 text-sm">
+          {LOCATION_KEYS.map((key) => (
+            <li><a href={locationHref(key, lang)} class="text-paper/70 hover:text-rust">{LOCATION_META[key][lang]}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="eyebrow mb-4 text-paper/40">{SITE.brand}</p>
+        <ul class="space-y-2 text-sm">
+          <li><a href={pageHref('about', lang)} class="text-paper/70 hover:text-rust">{nav.about}</a></li>
+          <li><a href={blogIndexHref(lang)} class="text-paper/70 hover:text-rust">{nav.journal}</a></li>
+          <li><a href={pageHref('contact', lang)} class="text-paper/70 hover:text-rust">{nav.contact}</a></li>
+        </ul>
       </div>
     </div>
-
-    <div>
-      <p class="eyebrow mb-4">{nav.work}</p>
-      <ul class="space-y-2 text-sm">
-        {SERVICE_KEYS.map((key) => (
-          <li><a href={serviceHref(key, lang)} class="text-ink/70 hover:text-rust">{SERVICE_META[key][lang]}</a></li>
-        ))}
-      </ul>
-    </div>
-
-    <div>
-      <p class="eyebrow mb-4">{nav.areas}</p>
-      <ul class="space-y-2 text-sm">
-        {LOCATION_KEYS.map((key) => (
-          <li><a href={locationHref(key, lang)} class="text-ink/70 hover:text-rust">{LOCATION_META[key][lang]}</a></li>
-        ))}
-      </ul>
-    </div>
-
-    <div>
-      <p class="eyebrow mb-4">{SITE.brand}</p>
-      <ul class="space-y-2 text-sm">
-        <li><a href={pageHref('about', lang)} class="text-ink/70 hover:text-rust">{nav.about}</a></li>
-        <li><a href={blogIndexHref(lang)} class="text-ink/70 hover:text-rust">{nav.journal}</a></li>
-        <li><a href={pageHref('contact', lang)} class="text-ink/70 hover:text-rust">{nav.contact}</a></li>
-      </ul>
-    </div>
   </div>
-  <div class="border-t border-line px-5 py-5 text-center text-xs text-ink/40 md:px-8">
+  <div class="border-t border-paper/10 px-5 py-5 text-center font-mono text-xs uppercase tracking-widest2 text-paper/30 md:px-8">
     © {year} {SITE.brand}
   </div>
 </footer>

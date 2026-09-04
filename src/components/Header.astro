@@ -21,22 +21,24 @@ const nav = NAV[lang];
 const home = localePath(lang, '');
 ---
 
-<header class="border-b border-line">
-  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-5 py-5 md:px-8">
-    <a href={home} class="font-serif text-xl tracking-tight">{SITE.brand}</a>
+<header class="sticky top-0 z-40 border-b border-line bg-paper/90 backdrop-blur">
+  <div class="mx-auto flex max-w-[1600px] flex-wrap items-center justify-between gap-4 px-5 py-4 md:px-8">
+    <a href={home} class="font-sans text-xl font-bold uppercase tracking-tight">
+      {SITE.brand}<span class="text-rust">.</span>
+    </a>
 
-    <nav class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
-      <a href={serviceHref('elopement', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+    <nav class="hidden items-center gap-x-7 font-mono text-xs uppercase tracking-widest2 lg:flex">
+      <a href={serviceHref('elopement', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {SERVICE_META.elopement[lang]}
       </a>
-      <a href={serviceHref('portraits', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+      <a href={serviceHref('portraits', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {SERVICE_META.portraits[lang]}
       </a>
 
       <div class="group relative">
-        <button class="border-b border-transparent pb-0.5 hover:border-ink">{nav.areas}</button>
-        <div class="invisible absolute left-0 top-full z-10 min-w-[8rem] pt-3 opacity-0 transition group-hover:visible group-hover:opacity-100">
-          <div class="border border-line bg-paper py-2">
+        <button class="border-b border-transparent pb-1 transition hover:border-ink">{nav.areas}</button>
+        <div class="invisible absolute left-0 top-full z-10 min-w-[9rem] pt-3 opacity-0 transition group-hover:visible group-hover:opacity-100">
+          <div class="border border-line bg-paper py-2 normal-case tracking-normal">
             {LOCATION_KEYS.map((key) => (
               <a href={locationHref(key, lang)} class="block px-4 py-1.5 text-sm hover:text-rust">
                 {LOCATION_META[key][lang]}
@@ -46,15 +48,15 @@ const home = localePath(lang, '');
         </div>
       </div>
 
-      <a href={serviceHref('realestate', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+      <a href={serviceHref('realestate', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {nav.commercial}
       </a>
-      <a href={blogIndexHref(lang)} class="border-b border-transparent pb-0.5 hover:border-ink">{nav.journal}</a>
-      <a href={pageHref('about', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">{nav.about}</a>
+      <a href={blogIndexHref(lang)} class="border-b border-transparent pb-1 transition hover:border-ink">{nav.journal}</a>
+      <a href={pageHref('about', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">{nav.about}</a>
     </nav>
 
-    <div class="flex items-center gap-4 text-sm">
-      <div class="flex items-center gap-1 text-xs uppercase tracking-wide text-ink/50">
+    <div class="flex items-center gap-4">
+      <div class="flex items-center gap-1 font-mono text-xs uppercase tracking-wide text-ink/50">
         {LANGS.map((l, i) => (
           <>
             {i > 0 && <span>/</span>}
@@ -68,7 +70,16 @@ const home = localePath(lang, '');
           </>
         ))}
       </div>
-      <a href={pageHref('contact', lang)} class="link-arrow">{nav.contact}</a>
+      <a href={pageHref('contact', lang)} class="link-arrow text-sm">{nav.contact}</a>
     </div>
   </div>
+
+  <nav class="flex flex-wrap gap-x-5 gap-y-2 border-t border-line px-5 py-3 font-mono text-[0.7rem] uppercase tracking-widest2 lg:hidden">
+    <a href={serviceHref('elopement', lang)}>{SERVICE_META.elopement[lang]}</a>
+    <a href={serviceHref('portraits', lang)}>{SERVICE_META.portraits[lang]}</a>
+    <a href={serviceHref('events', lang)}>{SERVICE_META.events[lang]}</a>
+    <a href={serviceHref('realestate', lang)}>{nav.commercial}</a>
+    <a href={blogIndexHref(lang)}>{nav.journal}</a>
+    <a href={pageHref('about', lang)}>{nav.about}</a>
+  </nav>
 </header>

@@ -6,22 +6,28 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
 body {
   @apply bg-paper text-ink font-sans antialiased;
   font-size: 17px;
 }
 
 h1, h2, h3, h4 {
-  @apply font-serif font-normal;
-  letter-spacing: -0.01em;
+  @apply font-sans font-semibold;
+  letter-spacing: -0.02em;
 }
 
 .eyebrow {
-  @apply text-xs uppercase tracking-widest2 text-ink/50;
+  @apply font-mono text-[0.7rem] uppercase tracking-widest2 text-ink/50;
 }
 
 .link-arrow {
-  @apply inline-flex items-center gap-2 border-b border-ink pb-0.5 transition hover:border-rust hover:text-rust;
+  @apply inline-flex items-center gap-2 border-b-2 border-ink pb-0.5 font-medium transition hover:border-rust hover:text-rust;
 }
 
 .prose-lupo {
@@ -54,4 +60,90 @@ h1, h2, h3, h4 {
 
 .prose-lupo strong {
   @apply font-semibold;
+}
+
+/* ---------------------------------------------------------------------
+   Scroll reveal — elements start slightly offset + transparent and are
+   flipped to their resting state by a small IntersectionObserver script
+   (see /src/scripts/motion.js). Content is always in the DOM and fully
+   readable/crawlable with JS disabled (this rule only fires once JS has
+   added .js-motion to <html>), so this never hides content from SEO.
+   --------------------------------------------------------------------- */
+.js-motion [data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.js-motion [data-reveal].is-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js-motion [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Parallax layers — translated on scroll by motion.js via CSS var */
+.js-motion [data-parallax] {
+  transform: translateY(calc(var(--parallax-y, 0) * 1px));
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js-motion [data-parallax] {
+    transform: none !important;
+  }
+}
+
+/* Marquee ticker */
+.marquee {
+  @apply overflow-hidden border-y border-line py-4;
+}
+
+.marquee__track {
+  @apply flex w-max shrink-0 animate-marquee gap-10 font-mono text-sm uppercase tracking-widest2 text-ink/60;
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 28s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+  }
+}
+
+/* Expand-on-hover image reveal used by the service index rows */
+.reveal-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal-panel > div {
+  overflow: hidden;
+}
+
+@media (hover: hover) {
+  .group:hover .reveal-panel,
+  .group:focus-within .reveal-panel {
+    grid-template-rows: 1fr;
+  }
+}
+
+@media (hover: none) {
+  .reveal-panel {
+    grid-template-rows: 1fr;
+  }
 }

@@ -13,14 +13,14 @@ const { lang, heading, body, compact = false } = Astro.props;
 const ui = UI[lang];
 ---
 
-<div class={`border-t border-line text-center ${compact ? 'py-10' : 'py-16'}`}>
-  <h2 class={`font-serif ${compact ? 'text-2xl' : 'text-3xl md:text-4xl'}`}>{heading ?? ui.ctaHeading}</h2>
-  <p class="mx-auto mt-3 max-w-md text-ink/60">{body ?? ui.ctaBody}</p>
+<div class={`border-t border-line text-center ${compact ? 'py-10' : 'py-16'}`} data-reveal>
+  <h2 class={`font-sans font-bold tracking-tightest ${compact ? 'text-3xl' : 'text-display-2'}`}>{heading ?? ui.ctaHeading}</h2>
+  <p class="mx-auto mt-4 max-w-md text-ink/60">{body ?? ui.ctaBody}</p>
   <a
     href={SITE.whatsappLink}
     target="_blank"
     rel="noopener noreferrer"
-    class="link-arrow mt-6 text-lg"
+    class="link-arrow mt-8 text-lg"
   >
     {ui.ctaButton} →
   </a>

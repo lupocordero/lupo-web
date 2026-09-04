@@ -6,16 +6,50 @@ export interface Props {
   serviceKey: ServiceKey;
   lang: Lang;
   blurb: string;
+  index?: number;
+  image?: string;
+  imageAlt?: string;
+  dark?: boolean;
 }
 
-const { serviceKey, lang, blurb } = Astro.props;
+const { serviceKey, lang, blurb, index, image, imageAlt = '', dark = false } = Astro.props;
 const meta = SERVICE_META[serviceKey];
+const borderCls = dark ? 'border-paper/20' : 'border-line';
+const textCls = dark ? 'text-paper/60' : 'text-ink/60';
 ---
 
 <a
   href={serviceHref(serviceKey, lang)}
-  class="group flex flex-col gap-2 border-t border-line py-8 first:border-t-0 md:flex-row md:items-baseline md:justify-between md:gap-10"
+  class={`group block border-t ${borderCls} py-7 first:border-t-0 md:py-9`}
+  data-reveal
 >
-  <h3 class="font-serif text-2xl transition group-hover:text-rust md:w-1/3">{meta[lang]}</h3>
-  <p class="text-ink/60 md:w-2/3">{blurb}</p>
+  <div class="flex flex-col gap-3 md:flex-row md:items-baseline md:justify-between md:gap-10">
+    <div class="flex items-baseline gap-4 md:w-1/2">
+      {typeof index === 'number' && (
+        <span class="font-mono text-sm text-rust">{String(index).padStart(2, '0')}</span>
+      )}
+      <h3 class="font-sans text-3xl font-bold tracking-tightest transition group-hover:text-rust md:text-4xl">
+        {meta[lang]}
+      </h3>
+    </div>
+    <p class={`md:w-1/3 ${textCls}`}>{blurb}</p>
+    <span class="font-mono text-xs uppercase tracking-widest2 text-rust opacity-0 transition group-hover:opacity-100 md:opacity-0">
+      →
+    </span>
+  </div>
+
+  {image && (
+    <div class="reveal-panel mt-2">
+      <div>
+        <div class="aspect-[16/9] w-full overflow-hidden bg-line md:aspect-[21/9]">
+          <img
+            src={image}
+            alt={imageAlt}
+            loading="lazy"
+            class="h-full w-full scale-105 object-cover transition duration-700 group-hover:scale-100"
+          />
+        </div>
+      </div>
+    </div>
+  )}
 </a>
