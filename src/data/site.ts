@@ -4,7 +4,8 @@
 // ---------------------------------------------------------------------------
 
 export const SITE = {
-  brand: 'Lupo Photography',
+  brand: 'Lupo',
+  legalName: 'Lupo Photography',
   domain: 'lupo.pm',
   url: 'https://lupo.pm',
   whatsappNumber: '+34 600 000 000',
@@ -22,30 +23,30 @@ export const SITE = {
 };
 
 export const NAV = {
-  es: { home: 'Inicio', services: 'Servicios', portfolio: 'Portfolio', areas: 'Áreas', about: 'Sobre mí', contact: 'Contacto', blog: 'Blog', cta: 'Escríbeme por WhatsApp' },
-  de: { home: 'Start', services: 'Leistungen', portfolio: 'Portfolio', areas: 'Gebiete', about: 'Über mich', contact: 'Kontakt', blog: 'Blog', cta: 'WhatsApp schreiben' },
-  en: { home: 'Home', services: 'Services', portfolio: 'Portfolio', areas: 'Areas', about: 'About', contact: 'Contact', blog: 'Blog', cta: 'Message on WhatsApp' },
+  es: { home: 'Inicio', work: 'Trabajo', commercial: 'Comercial', areas: 'Zonas', about: 'Sobre mí', contact: 'Contacto', journal: 'Diario', cta: 'WhatsApp' },
+  de: { home: 'Start', work: 'Arbeiten', commercial: 'Kommerziell', areas: 'Gebiete', about: 'Über mich', contact: 'Kontakt', journal: 'Journal', cta: 'WhatsApp' },
+  en: { home: 'Home', work: 'Work', commercial: 'Commercial', areas: 'Areas', about: 'About', contact: 'Contact', journal: 'Journal', cta: 'WhatsApp' },
 };
 
 export const UI = {
   es: {
-    readMore: 'Leer más', allServices: 'Todos los servicios', relatedPosts: 'Te puede interesar', faqTitle: 'Preguntas frecuentes', ctaHeading: '¿Hablamos de tu sesión?', ctaBody: 'Cuéntame qué tienes en mente y te respondo el mismo día.', ctaButton: 'Contactar por WhatsApp', formName: 'Nombre', formEmail: 'Email', formSessionType: 'Tipo de sesión', formMessage: 'Mensaje', formSubmit: 'Enviar mensaje', areasWeWork: 'Áreas donde trabajo', servicesHeading: 'Servicios', reelsHeading: 'Últimos trabajos', langSwitch: 'Idioma', blogListTitle: 'Blog y guías', publishedOn: 'Publicado el',
+    readMore: 'Leer más', relatedPosts: 'Sigue leyendo', faqTitle: 'Preguntas frecuentes', ctaHeading: '¿Hablamos de tu sesión?', ctaBody: 'Cuéntame qué tienes en mente y te respondo el mismo día.', ctaButton: 'Escríbeme por WhatsApp', formName: 'Nombre', formEmail: 'Email', formSessionType: 'Tipo de sesión', formMessage: 'Mensaje', formSubmit: 'Enviar', areasWeWork: 'Dónde trabajo', servicesHeading: 'Especialidad', secondaryHeading: 'También', commercialHeading: 'Trabajo comercial', reelsHeading: 'Trabajo reciente', langSwitch: 'Idioma', blogListTitle: 'Diario', publishedOn: '',
   },
   de: {
-    readMore: 'Weiterlesen', allServices: 'Alle Leistungen', relatedPosts: 'Das könnte dich interessieren', faqTitle: 'Häufig gestellte Fragen', ctaHeading: 'Lass uns über dein Shooting sprechen', ctaBody: 'Schreib mir, was du dir vorstellst — ich antworte noch am selben Tag.', ctaButton: 'Auf WhatsApp schreiben', formName: 'Name', formEmail: 'E-Mail', formSessionType: 'Art des Shootings', formMessage: 'Nachricht', formSubmit: 'Nachricht senden', areasWeWork: 'Gebiete, in denen ich arbeite', servicesHeading: 'Leistungen', reelsHeading: 'Neueste Arbeiten', langSwitch: 'Sprache', blogListTitle: 'Blog & Guides', publishedOn: 'Veröffentlicht am',
+    readMore: 'Weiterlesen', relatedPosts: 'Weiterlesen', faqTitle: 'Häufig gestellte Fragen', ctaHeading: 'Lass uns reden', ctaBody: 'Schreib mir, was du dir vorstellst — ich antworte noch am selben Tag.', ctaButton: 'Auf WhatsApp schreiben', formName: 'Name', formEmail: 'E-Mail', formSessionType: 'Art des Shootings', formMessage: 'Nachricht', formSubmit: 'Senden', areasWeWork: 'Wo ich arbeite', servicesHeading: 'Spezialisierung', secondaryHeading: 'Außerdem', commercialHeading: 'Kommerzielle Arbeiten', reelsHeading: 'Neueste Arbeiten', langSwitch: 'Sprache', blogListTitle: 'Journal', publishedOn: '',
   },
   en: {
-    readMore: 'Read more', allServices: 'All services', relatedPosts: 'You might also like', faqTitle: 'Frequently asked questions', ctaHeading: "Let's talk about your session", ctaBody: "Tell me what you have in mind — I'll reply the same day.", ctaButton: 'Message on WhatsApp', formName: 'Name', formEmail: 'Email', formSessionType: 'Session type', formMessage: 'Message', formSubmit: 'Send message', areasWeWork: 'Areas I work in', servicesHeading: 'Services', reelsHeading: 'Recent work', langSwitch: 'Language', blogListTitle: 'Blog & guides', publishedOn: 'Published on',
+    readMore: 'Read more', relatedPosts: 'Keep reading', faqTitle: 'Frequently asked questions', ctaHeading: "Let's talk", ctaBody: "Tell me what you have in mind — I'll reply the same day.", ctaButton: 'Message on WhatsApp', formName: 'Name', formEmail: 'Email', formSessionType: 'Session type', formMessage: 'Message', formSubmit: 'Send', areasWeWork: 'Where I work', servicesHeading: 'Specialty', secondaryHeading: 'Also', commercialHeading: 'Commercial work', reelsHeading: 'Recent work', langSwitch: 'Language', blogListTitle: 'Journal', publishedOn: '',
   },
 };
 
+// No emoji/icon set on purpose — the new editorial design leans on
+// photography and typography, not iconography.
 export const SERVICE_META = {
-  elopement: { icon: '💍', es: 'Elopement', de: 'Elopement', en: 'Elopement' },
-  weddings: { icon: '👰', es: 'Bodas', de: 'Hochzeiten', en: 'Weddings' },
-  events: { icon: '🎉', es: 'Eventos', de: 'Events', en: 'Events' },
-  realestate: { icon: '🏡', es: 'Real Estate', de: 'Immobilien', en: 'Real Estate' },
-  portraits: { icon: '🙂', es: 'Retratos', de: 'Porträts', en: 'Portraits' },
-  food: { icon: '🍽️', es: 'Comida', de: 'Food', en: 'Food' },
+  elopement: { es: 'Elopement', de: 'Elopement', en: 'Elopement' },
+  portraits: { es: 'Retratos', de: 'Porträts', en: 'Portraits' },
+  events: { es: 'Eventos', de: 'Events', en: 'Events' },
+  realestate: { es: 'Real Estate', de: 'Immobilien', en: 'Real Estate' },
 };
 
 export const HOME_SERVICE_BLURBS = {
@@ -54,10 +55,10 @@ export const HOME_SERVICE_BLURBS = {
     de: 'Intime Paar-Zeremonien an den schönsten Orten der Insel.',
     en: 'Intimate couple ceremonies in the island’s most beautiful corners.',
   },
-  weddings: {
-    es: 'Bodas pequeñas y cobertura parcial, sin protocolo innecesario.',
-    de: 'Kleine Hochzeiten und Teil-Coverage, ohne unnötiges Protokoll.',
-    en: 'Small weddings and partial coverage, without unnecessary formality.',
+  portraits: {
+    es: 'Familia, niños y retratos personales, siempre naturales.',
+    de: 'Familie, Kinder und persönliche Porträts — immer natürlich.',
+    en: 'Family, kids and personal portraits, always natural.',
   },
   events: {
     es: 'Celebraciones familiares, eventos de empresa y fiestas privadas.',
@@ -68,16 +69,6 @@ export const HOME_SERVICE_BLURBS = {
     es: 'Villas, fincas y anuncios de Airbnb que destacan entre la competencia.',
     de: 'Villen, Fincas und Ferienhaus-Inserate, die auffallen.',
     en: 'Villas, fincas and Airbnb listings that stand out from the competition.',
-  },
-  portraits: {
-    es: 'Familia, niños, profesionales y headshots, siempre naturales.',
-    de: 'Familie, Kinder, Berufstätige und Headshots — immer natürlich.',
-    en: 'Family, kids, professionals and headshots, always natural.',
-  },
-  food: {
-    es: 'Restaurantes, chefs y producto gastronómico con luz natural.',
-    de: 'Restaurants, Köche und Gastronomie-Produkte mit natürlichem Licht.',
-    en: 'Restaurants, chefs and gastronomic products shot in natural light.',
   },
 };
 

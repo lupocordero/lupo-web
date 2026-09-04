@@ -1,16 +1,14 @@
 ---
-import { NAV, SITE, SERVICE_META, LOCATION_META } from '../data/site';
+import { SITE, NAV, LOCATION_META, SERVICE_META } from '../data/site';
 import {
   type Lang,
   LANGS,
-  LANG_LABELS,
-  SERVICE_KEYS,
-  LOCATION_KEYS,
   serviceHref,
   locationHref,
   pageHref,
   blogIndexHref,
   localePath,
+  LOCATION_KEYS,
 } from '../data/routes';
 
 export interface Props {
@@ -23,63 +21,54 @@ const nav = NAV[lang];
 const home = localePath(lang, '');
 ---
 
-<header class="sticky top-0 z-50 border-b border-sand bg-paper/95 backdrop-blur">
-  <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-    <a href={home} class="font-serif text-xl font-bold tracking-tight">{SITE.brand}</a>
+<header class="border-b border-line">
+  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-5 py-5 md:px-8">
+    <a href={home} class="font-serif text-xl tracking-tight">{SITE.brand}</a>
 
-    <nav class="hidden items-center gap-6 text-sm font-medium lg:flex">
-      <a href={home} class="hover:text-clay">{nav.home}</a>
+    <nav class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
+      <a href={serviceHref('elopement', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+        {SERVICE_META.elopement[lang]}
+      </a>
+      <a href={serviceHref('portraits', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+        {SERVICE_META.portraits[lang]}
+      </a>
 
       <div class="group relative">
-        <button class="hover:text-clay">{nav.services}</button>
-        <div class="invisible absolute left-0 top-full w-56 rounded-lg border border-sand bg-paper p-2 opacity-0 shadow-lg transition group-hover:visible group-hover:opacity-100">
-          {SERVICE_KEYS.map((key) => (
-            <a href={serviceHref(key, lang)} class="block rounded px-3 py-2 hover:bg-sand">
-              {SERVICE_META[key].icon} {SERVICE_META[key][lang]}
-            </a>
-          ))}
+        <button class="border-b border-transparent pb-0.5 hover:border-ink">{nav.areas}</button>
+        <div class="invisible absolute left-0 top-full z-10 min-w-[8rem] pt-3 opacity-0 transition group-hover:visible group-hover:opacity-100">
+          <div class="border border-line bg-paper py-2">
+            {LOCATION_KEYS.map((key) => (
+              <a href={locationHref(key, lang)} class="block px-4 py-1.5 text-sm hover:text-rust">
+                {LOCATION_META[key][lang]}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
 
-      <a href={`${home}#portfolio`} class="hover:text-clay">{nav.portfolio}</a>
-
-      <div class="group relative">
-        <button class="hover:text-clay">{nav.areas}</button>
-        <div class="invisible absolute left-0 top-full w-44 rounded-lg border border-sand bg-paper p-2 opacity-0 shadow-lg transition group-hover:visible group-hover:opacity-100">
-          {LOCATION_KEYS.map((key) => (
-            <a href={locationHref(key, lang)} class="block rounded px-3 py-2 hover:bg-sand">
-              {LOCATION_META[key][lang]}
-            </a>
-          ))}
-        </div>
-      </div>
-
-      <a href={pageHref('about', lang)} class="hover:text-clay">{nav.about}</a>
-      <a href={blogIndexHref(lang)} class="hover:text-clay">{nav.blog}</a>
-      <a href={pageHref('contact', lang)} class="hover:text-clay">{nav.contact}</a>
+      <a href={serviceHref('realestate', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">
+        {nav.commercial}
+      </a>
+      <a href={blogIndexHref(lang)} class="border-b border-transparent pb-0.5 hover:border-ink">{nav.journal}</a>
+      <a href={pageHref('about', lang)} class="border-b border-transparent pb-0.5 hover:border-ink">{nav.about}</a>
     </nav>
 
-    <div class="flex items-center gap-3">
-      <div class="hidden items-center gap-1 text-xs font-semibold uppercase tracking-wide sm:flex">
-        {LANGS.map((l) => (
-          <a
-            href={alternates[l] ?? localePath(l, '')}
-            aria-current={l === lang ? 'page' : undefined}
-            class={`rounded px-2 py-1 ${l === lang ? 'bg-ink text-paper' : 'hover:bg-sand'}`}
-            title={LANG_LABELS[l]}
-          >
-            {l.toUpperCase()}
-          </a>
+    <div class="flex items-center gap-4 text-sm">
+      <div class="flex items-center gap-1 text-xs uppercase tracking-wide text-ink/50">
+        {LANGS.map((l, i) => (
+          <>
+            {i > 0 && <span>/</span>}
+            <a
+              href={alternates[l] ?? localePath(l, '')}
+              aria-current={l === lang ? 'page' : undefined}
+              class={l === lang ? 'text-ink' : 'hover:text-ink'}
+            >
+              {l.toUpperCase()}
+            </a>
+          </>
         ))}
       </div>
-      <a
-        href={SITE.whatsappLink}
-        target="_blank"
-        rel="noopener noreferrer"
-        class="rounded-full bg-olive px-4 py-2 text-sm font-semibold text-paper hover:bg-ink"
-      >
-        {nav.cta}
-      </a>
+      <a href={pageHref('contact', lang)} class="link-arrow">{nav.contact}</a>
     </div>
   </div>
 </header>

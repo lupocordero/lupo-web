@@ -9,7 +9,7 @@ excerpt: "Orte, Lichtzeiten, Logistik und praktische Tipps für die Planung eure
 publishDate: 2026-04-02
 heroImage: "/images/blog-elopement-soller-deia-01.webp"
 heroImageAlt: "Paar während seines Elopements mit Blick auf die Sierra de Tramuntana"
-relatedServiceKeys: ["elopement", "weddings"]
+relatedServiceKeys: ["elopement"]
 relatedLocationKeys: ["soller", "deia"]
 ---
 
@@ -59,4 +59,4 @@ Bequemes Schuhwerk ist unverzichtbar – mehrere der besten Orte in Deià erford
 
 Normalerweise beginnen wir mit einem Anruf oder Nachrichtenaustausch, um zu verstehen, welche Atmosphäre ihr sucht – intimer und bergig, oder mit dem Meer im Mittelpunkt – und darauf aufbauend schlage ich euch eine Route mit 2-3 Orten vor, die gut zusammenpassen, ohne lange Fahrten. Am Tag der Session bewegen wir uns entspannt und lassen euch Zeit, jeden Moment zu genießen, ohne euch von der Kamera gehetzt zu fühlen.
 
-Klingen Sóller oder Deià nach dem perfekten Ort für euer Elopement, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit dem ungefähren Datum und der gewünschten Atmosphäre, und wir fangen mit der Planung an. Sucht ihr statt eines Elopements eine klassischere [Hochzeit](/de/hochzeiten), berate ich euch dazu ebenso gern.
+Klingen Sóller oder Deià nach dem perfekten Ort für euer Elopement, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit dem ungefähren Datum und der gewünschten Atmosphäre, und wir fangen mit der Planung an. Sucht ihr statt eines Elopements eine klassischere Hochzeit, berate ich euch dazu ebenso gern.

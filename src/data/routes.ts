@@ -17,17 +17,30 @@ export const LOCALE_TAGS: Record<Lang, string> = {
   en: 'en-GB',
 };
 
+// Only services with their own dedicated, SEO-targeted page live here.
+// Weddings and food are intentionally NOT sold as standalone services —
+// they show up as by-products inside the portfolio/journal (a wedding
+// because a portrait/elopement couple got married, food because it was
+// on the table at an event) without their own page or explicit marketing.
 export const serviceSlugs = {
-  elopement: { es: 'elopeamiento', de: 'elopement', en: 'elopeement' },
-  weddings: { es: 'bodas', de: 'hochzeiten', en: 'weddings' },
+  elopement: { es: 'elopeamiento', de: 'elopement', en: 'elopement' },
+  portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
   events: { es: 'eventos', de: 'events', en: 'events' },
   realestate: { es: 'real-estate', de: 'immobilien', en: 'real-estate' },
-  portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
-  food: { es: 'comida', de: 'food', en: 'food' },
 } as const;
 
 export type ServiceKey = keyof typeof serviceSlugs;
 export const SERVICE_KEYS = Object.keys(serviceSlugs) as ServiceKey[];
+
+// Editorial hierarchy for the new positioning: elopement + portraits are the
+// core specialty, events is a secondary offering, real estate is kept
+// deliberately apart as commercial/B2B work rather than personal work.
+export const SERVICE_TIER: Record<ServiceKey, 'core' | 'secondary' | 'commercial'> = {
+  elopement: 'core',
+  portraits: 'core',
+  events: 'secondary',
+  realestate: 'commercial',
+};
 
 export const locationSlugs = {
   palma: { es: 'palma', de: 'palma', en: 'palma' },

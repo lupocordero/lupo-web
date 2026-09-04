@@ -62,7 +62,7 @@ Booking and communicating in English or German is never a hurdle — you'll alwa
 
 I shoot portrait sessions on beaches in **Palma** and **Calvià**, in the rural surroundings of **Marratxí**, and in the stone villages around **Sóller** for anyone after a background with more texture and history. For corporate headshots, I travel to offices anywhere on the island or suggest nearby outdoor spots with good light.
 
-If you're weighing up a portrait session against something smaller and more romantic, it's worth a look at what an [elopement session](/en/elopeement) involves too — some couples end up booking that instead for an anniversary or vow renewal.
+If you're weighing up a portrait session against something smaller and more romantic, it's worth a look at what an [elopement session](/en/elopement) involves too — some couples end up booking that instead for an anniversary or vow renewal.
 
 Multi-generation family sessions are also something I do often, especially for families visiting from abroad who only have grandparents, parents and grandchildren together in the same place once or twice a year. Those sessions tend to move a little slower, with more breaks, and I always build in extra time for exactly that.
 

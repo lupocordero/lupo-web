@@ -11,8 +11,8 @@ const faqSchema = z.object({
 // collections treat a `slug:` frontmatter key as reserved (it overrides the
 // auto-generated entry id/slug), and because several of our locations and
 // services intentionally share the same slug string across languages
-// (e.g. /de/food and /en/food, or palma/soller/deia/calvia which are
-// identical in all three languages), using the reserved field caused
+// (e.g. /de/portraits and /en/portraits, or palma/soller/deia/calvia which
+// are identical in all three languages), using the reserved field caused
 // cross-language entries to silently overwrite each other. "pageSlug" is a
 // plain schema field instead, so every entry keeps its own unique id.
 const baseSeo = {
@@ -27,7 +27,7 @@ const services = defineCollection({
   type: 'content',
   schema: z.object({
     ...baseSeo,
-    serviceKey: z.enum(['elopement', 'weddings', 'events', 'realestate', 'portraits', 'food']),
+    serviceKey: z.enum(['elopement', 'portraits', 'events', 'realestate']),
     subtitle: z.string(),
     heroImage: z.string(),
     heroImageAlt: z.string(),

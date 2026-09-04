@@ -28,7 +28,7 @@ Palma ist meine Homebase und eine der Gegenden, in denen ich als **Fotograf Palm
 
 ### Welche Art von Sessions ich in Palma mache
 
-Ich decke praktisch alle meine Services in der Stadt ab: [Hochzeiten und Elopements](/de/hochzeiten) auf Fincas in der Umgebung oder direkt in der Altstadt für Paare, die die Kathedrale als Kulisse wollen; [Familienportraits](/de/portraits) in der Altstadt oder an der Strandpromenade; [Immobilienfotografie](/de/immobilien) für die Penthouses, renovierten Wohnungen und Villen in den Wohngebieten von Portixol, Son Vida oder Santa Catalina; [Firmenevents](/de/events) in den zahlreichen Hotels und Locations der Stadt; und Foodfotografie für die vielfältige Gastronomieszene Palmas, von traditionellen Restaurants bis zu Autorenküche.
+Ich decke praktisch alle meine Services in der Stadt ab: [Elopements](/de/elopement) auf Fincas in der Umgebung oder direkt in der Altstadt für Paare, die die Kathedrale als Kulisse wollen; [Familienportraits](/de/portraits) in der Altstadt oder an der Strandpromenade; [Immobilienfotografie](/de/immobilien) für die Penthouses, renovierten Wohnungen und Villen in den Wohngebieten von Portixol, Son Vida oder Santa Catalina; [Firmenevents](/de/events) in den zahlreichen Hotels und Locations der Stadt; und Foodfotografie für die vielfältige Gastronomieszene Palmas, von traditionellen Restaurants bis zu Autorenküche.
 
 ### Ikonische Orte für Fotos in Palma
 

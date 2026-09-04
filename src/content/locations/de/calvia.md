@@ -26,7 +26,7 @@ Calvià – mit bekannten Gegenden wie Puerto Portals, Santa Ponça, Bendinat un
 
 ### Welche Art von Sessions ich in Calvià mache
 
-Calvià ist ein gängiges Terrain für [Hochzeiten](/de/hochzeiten) in privaten Villen mit Infinity-Pool und Meerblick, Firmenevents und private Partys in den zahlreichen Fünf-Sterne-Hotels und Yachthäfen der Gegend, hochwertige [Immobilienfotografie](/de/immobilien) für Makler, die auf diesem Luxusvillenmarkt tätig sind, und Familienportraits an den ruhigeren Stränden wie Santa Ponça oder Illetes.
+Calvià ist ein gängiges Terrain für Hochzeiten in privaten Villen mit Infinity-Pool und Meerblick, Firmenevents und private Partys in den zahlreichen Fünf-Sterne-Hotels und Yachthäfen der Gegend, hochwertige [Immobilienfotografie](/de/immobilien) für Makler, die auf diesem Luxusvillenmarkt tätig sind, und Familienportraits an den ruhigeren Stränden wie Santa Ponça oder Illetes.
 
 ### Ikonische Orte für Fotos in Calvià
 

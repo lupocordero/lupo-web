@@ -64,7 +64,7 @@ Communication is straightforward and in whatever language works for you — Engl
 
 I shoot properties across the whole island: luxury villas in **Calvià** and **Andratx**, country estates and farmhouses inland near **Sóller**, and apartments and penthouses in **Palma**. If your holiday rental needs photos that stand out from the competition ahead of peak season, the sooner we book the shoot, the better.
 
-If the property is also being used as a wedding or event venue, it's worth combining a real estate shoot with coverage of the [wedding](/en/weddings) or [event](/en/events) itself — a combination I do fairly often for villas and fincas that host both.
+If the property is also being used as a wedding or event venue, it's worth combining a real estate shoot with coverage of the wedding or [event](/en/events) itself — a combination I do fairly often for villas and fincas that host both.
 
 For rural properties in particular, I always try to schedule around the season — a finca surrounded by orange blossom in spring or golden light in autumn photographs very differently than the same property shot in the flat light of midsummer, and it's worth timing the shoot accordingly whenever the listing timeline allows for it.
 

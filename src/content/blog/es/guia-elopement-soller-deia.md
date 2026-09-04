@@ -9,7 +9,7 @@ excerpt: "Ubicaciones, horarios de luz, logística y consejos prácticos para pl
 publishDate: 2026-04-02
 heroImage: "/images/blog-elopement-soller-deia-01.webp"
 heroImageAlt: "Pareja durante su elopement con vistas a la Sierra de Tramuntana"
-relatedServiceKeys: ["elopement", "weddings"]
+relatedServiceKeys: ["elopement"]
 relatedLocationKeys: ["soller", "deia"]
 ---
 

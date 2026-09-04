@@ -3,7 +3,7 @@ lang: de
 pageSlug: "uber-mich"
 pageKey: about
 seoTitle: "Über mich | Lupo, Fotograf auf Mallorca"
-metaDescription: "Lerne Lupo kennen, Fotograf auf Mallorca für Elopements, Hochzeiten, Porträts und Immobilien. Natürlicher, dokumentarischer Stil, Pünktlichkeit und persönlicher Kontakt mit internationalen Kunden."
+metaDescription: "Lerne Lupo kennen, Fotograf auf Mallorca für Elopements und Porträts, mit kommerzieller Immobilienfotografie separat. Natürlicher, dokumentarischer Stil, Pünktlichkeit und persönlicher Kontakt mit internationalen Kunden."
 h1: "Über mich"
 subtitle: "Der Fotograf hinter den Bildern: wie und warum ich arbeite"
 heroImage: "/images/uber-mich-lupo-fotograf-mallorca.webp"

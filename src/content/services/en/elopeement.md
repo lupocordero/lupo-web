@@ -1,6 +1,6 @@
 ---
 lang: en
-pageSlug: "elopeement"
+pageSlug: "elopement"
 serviceKey: elopement
 seoTitle: "Elopement Photographer in Mallorca | Intimate Couple Sessions"
 metaDescription: "Elopement photographer in Mallorca specializing in intimate couple sessions in Sóller, Deià and the whole Tramuntana mountains. Punctual, low-key, and fast delivery."
@@ -66,6 +66,6 @@ Planning a wedding-scale event from another country is hard enough; planning an 
 
 I shoot elopements across the whole Tramuntana mountain range — especially **Sóller** and **Deià**, with their viewpoints, stone terraces and hidden coves — along the coast of **Andratx** and **Calvià** for those who prefer more dramatic cliffs, and on private estates further inland if you'd rather have something more secluded. If you already have a specific spot in mind that isn't on this list, tell me — chances are I know it, or I can scout it beforehand.
 
-Many couples also combine two locations in a single day — a mountain ceremony followed by a coastal sunset session, for instance — which is easy to arrange given how close everything is on this side of the island. If you're planning a [wedding](/en/weddings) instead of a smaller elopement, or you're still deciding between the two, I'm glad to talk through which fits you best.
+Many couples also combine two locations in a single day — a mountain ceremony followed by a coastal sunset session, for instance — which is easy to arrange given how close everything is on this side of the island. If you're planning a full wedding instead of a smaller elopement, or you're still deciding between the two, I'm glad to talk through which fits you best.
 
 If you're planning an elopement in Mallorca, [message me on WhatsApp](https://wa.me/34600000000) with your approximate date and the area you're interested in, and I'll get back to you with availability and the best timing options for that time of year.

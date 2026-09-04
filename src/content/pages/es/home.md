@@ -2,20 +2,22 @@
 lang: es
 pageSlug: ""
 pageKey: home
-seoTitle: "Fotógrafo en Mallorca | Elopement, Bodas, Real Estate y Retratos"
-metaDescription: "Fotógrafo en Mallorca especializado en elopements, bodas pequeñas, eventos, real estate, retratos y comida. Puntual, rápido y con trato cercano. Hablo español, alemán e inglés."
-h1: "Fotógrafo en Mallorca – Elopement, Bodas, Eventos, Real Estate, Retratos y Comida"
-subtitle: "Puntual, rápido y fiable. Trabajo con parejas, familias, agencias y negocios alemanes y extranjeros en toda la isla — sin dramas, sin retrasos, con entregas rápidas."
+seoTitle: "Lupo — Fotógrafo de Elopements y Retratos en Mallorca"
+metaDescription: "Lupo, fotógrafo en Mallorca especializado en elopements y retratos de familia. Luz natural, calma, sin poses. También eventos. Trabajo comercial de real estate aparte."
+h1: "Elopements y retratos en Mallorca"
+subtitle: "Dos cosas hago bien: acompañar elopements y hacer retratos que no parecen retratos. Puntual, en tu idioma, sin dramas."
 heroImage: "/images/fotografo-mallorca-hero.webp"
-heroImageAlt: "Fotógrafo en Mallorca fotografiando una pareja al atardecer en la costa"
+heroImageAlt: "Pareja abrazándose en un acantilado de Mallorca al atardecer durante su elopement"
 ---
 
-Si buscas un **fotógrafo en Mallorca** que entienda exactamente lo que necesitas — ya sea un elopement íntimo en Sóller, una boda pequeña en una finca, fotos para tu anuncio de Airbnb o un retrato de familia en la playa — has llegado al lugar correcto. Me llamo Lupo y llevo años documentando momentos reales en la isla, con un estilo natural, luminoso y sin poses forzadas.
+Me llamo Lupo. Vivo en Mallorca y me dedico a dos cosas muy concretas: acompañar **elopements** — ceremonias íntimas, sin invitados, sin protocolo — y hacer **retratos** de familia y personales que no se sienten como una sesión de estudio. Todo lo demás que fotografío sale de ahí: la pareja que hago un elopement con ellos a veces me llama después para su boda de verdad; en un retrato de familia a veces aparece la comida de la sobremesa. No vendo esas cosas por separado — simplemente pasan, y las fotos las recogen.
 
-Trabajo principalmente con clientes alemanes e internacionales que viajan a Mallorca para celebrar algo importante, o que ya viven aquí y necesitan fotos profesionales para su negocio, su familia o su propiedad. Sé lo frustrante que puede ser contratar a alguien a distancia sin saber si va a llegar puntual, si va a entregar rápido o si realmente va a entender lo que pides. Por eso mis tres promesas son simples: llego a la hora acordada, entrego las fotos en pocos días y me comunico claramente en español, alemán o inglés, sin malentendidos.
+También hago **eventos** — cumpleaños, celebraciones, encargos puntuales — cuando encajan con este mismo enfoque: gente siendo gente, luz natural, cero dirección forzada.
 
-Mis servicios cubren todo lo que necesitas en una isla como esta: **elopements y sesiones íntimas de pareja** en los rincones más bonitos de la Sierra de Tramuntana, **bodas pequeñas y cobertura parcial de bodas** para quienes prefieren algo íntimo y sin estrés, **eventos** familiares, corporativos o fiestas privadas, **fotografía real estate** para villas, fincas, apartamentos y anuncios de Airbnb que necesitan destacar en un mercado muy competitivo, **retratos** de familia, niños, profesionales y headshots corporativos, y **fotografía de comida** para restaurantes, chefs y proyectos gastronómicos que quieren mostrar su trabajo como se merece.
+Aparte de todo esto llevo un trabajo distinto, para agencias y propietarios: **fotografía de real estate** para villas, fincas y anuncios de alquiler. Es un servicio comercial, con su propio proceso y su propia lógica — lo trato aparte porque es, honestamente, un trabajo distinto al resto.
 
-Trabajo en toda la isla, con base en la zona de Palma y Marratxí, y me desplazo habitualmente a Portol, Sóller, Deià, Calvià, Andratx y cualquier rincón de Mallorca que tu sesión necesite. Si tu boda es en una finca en el interior o tu elopement es en un acantilado del noroeste, no hay problema — conozco la isla y sé planificar la logística para que todo salga bien, incluso con el sol y la luz cambiando cada hora.
+Trabajo sobre todo con parejas y familias alemanas e internacionales que vienen a Mallorca para algo importante, o que ya viven aquí. Sé lo que cuesta confiar en alguien a distancia sin saber si va a llegar puntual o si te va a entender. Por eso soy claro con los tiempos, hablo español, alemán e inglés sin fricciones, y entrego rápido — normalmente tienes un adelanto en pocos días.
 
-Más abajo puedes ver mis servicios principales, las zonas donde trabajo con más frecuencia y ejemplos recientes de sesiones. Si ya tienes una fecha en mente o simplemente quieres preguntar disponibilidad, el camino más rápido es escribirme por WhatsApp — normalmente respondo el mismo día.
+Trabajo en toda la isla, con más presencia en Sóller, Deià, Calvià y Palma, pero me muevo a donde haga falta.
+
+Si esto suena a lo que buscas, cuéntame qué tienes en mente.

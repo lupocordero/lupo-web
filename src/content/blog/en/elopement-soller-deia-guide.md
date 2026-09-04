@@ -9,11 +9,11 @@ excerpt: "Locations, light timing, logistics and practical tips for planning the
 publishDate: 2026-04-02
 heroImage: "/images/blog-elopement-soller-deia-01.webp"
 heroImageAlt: "Couple during their elopement with views over the Tramuntana mountains"
-relatedServiceKeys: ["elopement", "weddings"]
+relatedServiceKeys: ["elopement"]
 relatedLocationKeys: ["soller", "deia"]
 ---
 
-Sóller and Deià are, without a doubt, the most requested combination for elopements in Mallorca, and for good reason: in under 15 minutes by car you can go from a valley of orange groves to a stone village perched above the sea. After guiding many couples through this area as an [elopement photographer in Mallorca](/en/elopeement), here's a complete guide to help you plan yours.
+Sóller and Deià are, without a doubt, the most requested combination for elopements in Mallorca, and for good reason: in under 15 minutes by car you can go from a valley of orange groves to a stone village perched above the sea. After guiding many couples through this area as an [elopement photographer in Mallorca](/en/elopement), here's a complete guide to help you plan yours.
 
 This guide covers everything I usually walk couples through in our first planning call — why this part of the island works so well for an elopement, the specific locations worth considering, when to go for the best light, and the practical details around permits, footwear and timing that make the difference between a smooth day and a stressful one.
 
@@ -71,4 +71,4 @@ We usually start with a call or a message exchange to understand the mood you're
 
 By the time we meet in person, most of the decisions are already made, which means the day itself is mostly about being present rather than working through logistics. That's really the whole point of an elopement in the first place — the planning happens in advance so the day can just be lived.
 
-If Sóller or Deià sound like the perfect spot for your elopement, [message me on WhatsApp](https://wa.me/34600000000) with your approximate date and the mood you're going for, and we'll start planning. And if you're still weighing up a full [wedding](/en/weddings) against a smaller elopement, I'm happy to talk through what fits you best.
+If Sóller or Deià sound like the perfect spot for your elopement, [message me on WhatsApp](https://wa.me/34600000000) with your approximate date and the mood you're going for, and we'll start planning. And if you're still weighing up a full wedding against a smaller elopement, I'm happy to talk through what fits you best.

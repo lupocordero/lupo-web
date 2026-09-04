@@ -12,7 +12,7 @@ import {
   type ServiceKey,
   type LocationKey,
 } from '../../../data/routes';
-import { UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS } from '../../../data/site';
+import { UI, LOCATION_META, HOME_SERVICE_BLURBS } from '../../../data/site';
 import { articleSchema, breadcrumbSchema, localBusinessSchema } from '../../../data/schema';
 import { SITE_URL } from '../../../../astro.config.mjs';
 
@@ -50,6 +50,8 @@ const jsonLd = [
 
 const relatedServices = (entry.data.relatedServiceKeys ?? []) as ServiceKey[];
 const relatedLocations = (entry.data.relatedLocationKeys ?? []) as LocationKey[];
+
+const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB' };
 ---
 
 <Layout
@@ -62,32 +64,32 @@ const relatedLocations = (entry.data.relatedLocationKeys ?? []) as LocationKey[]
   jsonLd={jsonLd}
 >
   <article>
-    <div class="h-[38vh] min-h-[260px] w-full overflow-hidden bg-sand">
+    <div class="h-[42vh] min-h-[280px] w-full overflow-hidden bg-line">
       <img src={entry.data.heroImage} alt={entry.data.heroImageAlt} class="h-full w-full object-cover" loading="eager" />
     </div>
 
-    <div class="mx-auto max-w-3xl px-4 py-12">
-      <h1 class="text-3xl font-bold md:text-4xl">{entry.data.h1}</h1>
-      <p class="mt-3 text-ink/60">
-        {ui.publishedOn} {entry.data.publishDate.toLocaleDateString(lang === 'es' ? 'es-ES' : lang === 'de' ? 'de-DE' : 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' })}
+    <div class="mx-auto max-w-3xl px-5 py-14 md:px-8">
+      <p class="eyebrow mb-3">
+        {entry.data.publishDate.toLocaleDateString(dateLocale[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
       </p>
+      <h1 class="font-serif text-3xl md:text-4xl">{entry.data.h1}</h1>
 
-      <div class="prose-lupo mt-8">
+      <div class="prose-lupo mt-10">
         <Content />
       </div>
 
       {relatedServices.length > 0 && (
-        <div class="mt-12">
-          <h2 class="mb-4 text-xl font-semibold">{ui.relatedPosts}</h2>
-          <div class="grid gap-4 sm:grid-cols-2">
+        <div class="mt-14 border-t border-line pt-8">
+          <p class="eyebrow mb-4">{ui.relatedPosts}</p>
+          <div>
             {relatedServices.map((key) => (
               <ServiceCard serviceKey={key} lang={lang} blurb={HOME_SERVICE_BLURBS[key][lang]} />
             ))}
           </div>
           {relatedLocations.length > 0 && (
-            <div class="mt-4 flex flex-wrap gap-2">
+            <div class="mt-6 flex flex-wrap gap-x-8 gap-y-3">
               {relatedLocations.map((key) => (
-                <a href={locationHref(key, lang)} class="rounded-full border border-sand px-4 py-1.5 text-sm hover:border-clay hover:text-clay">
+                <a href={locationHref(key, lang)} class="link-arrow">
                   {LOCATION_META[key][lang]}
                 </a>
               ))}
@@ -96,7 +98,7 @@ const relatedLocations = (entry.data.relatedLocationKeys ?? []) as LocationKey[]
         </div>
       )}
 
-      <div class="mt-12">
+      <div class="mt-14">
         <WhatsAppCTA lang={lang} />
       </div>
     </div>

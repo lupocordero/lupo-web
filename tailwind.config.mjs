@@ -4,15 +4,17 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: '#1c1a17',
-        paper: '#faf8f5',
-        sand: '#e8e1d6',
-        clay: '#b5673a',
-        olive: '#5c6650',
+        ink: '#171512',
+        paper: '#faf8f4',
+        line: '#dedad2',
+        rust: '#a8542f',
       },
       fontFamily: {
         sans: ['"Inter"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
         serif: ['"Fraunces"', 'ui-serif', 'Georgia', 'serif'],
+      },
+      letterSpacing: {
+        widest2: '0.28em',
       },
     },
   },
