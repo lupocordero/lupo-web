@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper text-ink font-sans antialiased;
+}
+
+h1, h2, h3, h4 {
+  @apply font-serif;
+}
+
+.prose-lupo p {
+  @apply mb-4 leading-relaxed;
+}
+
+.prose-lupo h2 {
+  @apply text-2xl md:text-3xl mt-10 mb-4 font-semibold;
+}
+
+.prose-lupo h3 {
+  @apply text-xl md:text-2xl mt-8 mb-3 font-semibold;
+}
+
+.prose-lupo ul {
+  @apply list-disc pl-6 mb-4 space-y-1;
+}
+
+.prose-lupo a {
+  @apply text-clay underline underline-offset-2 hover:no-underline;
+}

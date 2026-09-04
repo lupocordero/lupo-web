@@ -1,0 +1,104 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import WhatsAppCTA from '../../../components/WhatsAppCTA.astro';
+import ServiceCard from '../../../components/ServiceCard.astro';
+import {
+  LANGS,
+  type Lang,
+  type BlogPostKey,
+  blogPostHref,
+  locationHref,
+  type ServiceKey,
+  type LocationKey,
+} from '../../../data/routes';
+import { UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS } from '../../../data/site';
+import { articleSchema, breadcrumbSchema, localBusinessSchema } from '../../../data/schema';
+import { SITE_URL } from '../../../../astro.config.mjs';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((entry) => ({
+    params: { lang: entry.data.lang, slug: entry.data.pageSlug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const lang = entry.data.lang as Lang;
+const ui = UI[lang];
+const postKey = entry.data.postKey as BlogPostKey;
+
+const alternates: Partial<Record<Lang, string>> = {};
+for (const l of LANGS) alternates[l] = blogPostHref(postKey, l);
+
+const path = blogPostHref(postKey, lang);
+
+const jsonLd = [
+  localBusinessSchema(),
+  articleSchema({
+    headline: entry.data.h1,
+    description: entry.data.metaDescription,
+    url: `${SITE_URL}${path}`,
+    image: entry.data.heroImage,
+    datePublished: entry.data.publishDate.toISOString(),
+    lang,
+  }),
+  breadcrumbSchema([{ name: entry.data.h1, url: path }]),
+];
+
+const relatedServices = (entry.data.relatedServiceKeys ?? []) as ServiceKey[];
+const relatedLocations = (entry.data.relatedLocationKeys ?? []) as LocationKey[];
+---
+
+<Layout
+  lang={lang}
+  title={entry.data.seoTitle}
+  description={entry.data.metaDescription}
+  path={path}
+  alternates={alternates}
+  ogImage={entry.data.heroImage}
+  jsonLd={jsonLd}
+>
+  <article>
+    <div class="h-[38vh] min-h-[260px] w-full overflow-hidden bg-sand">
+      <img src={entry.data.heroImage} alt={entry.data.heroImageAlt} class="h-full w-full object-cover" loading="eager" />
+    </div>
+
+    <div class="mx-auto max-w-3xl px-4 py-12">
+      <h1 class="text-3xl font-bold md:text-4xl">{entry.data.h1}</h1>
+      <p class="mt-3 text-ink/60">
+        {ui.publishedOn} {entry.data.publishDate.toLocaleDateString(lang === 'es' ? 'es-ES' : lang === 'de' ? 'de-DE' : 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' })}
+      </p>
+
+      <div class="prose-lupo mt-8">
+        <Content />
+      </div>
+
+      {relatedServices.length > 0 && (
+        <div class="mt-12">
+          <h2 class="mb-4 text-xl font-semibold">{ui.relatedPosts}</h2>
+          <div class="grid gap-4 sm:grid-cols-2">
+            {relatedServices.map((key) => (
+              <ServiceCard serviceKey={key} lang={lang} blurb={HOME_SERVICE_BLURBS[key][lang]} />
+            ))}
+          </div>
+          {relatedLocations.length > 0 && (
+            <div class="mt-4 flex flex-wrap gap-2">
+              {relatedLocations.map((key) => (
+                <a href={locationHref(key, lang)} class="rounded-full border border-sand px-4 py-1.5 text-sm hover:border-clay hover:text-clay">
+                  {LOCATION_META[key][lang]}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+
+      <div class="mt-12">
+        <WhatsAppCTA lang={lang} />
+      </div>
+    </div>
+  </article>
+</Layout>

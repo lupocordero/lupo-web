@@ -1,0 +1,118 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ServiceCard from '../../components/ServiceCard.astro';
+import WhatsAppCTA from '../../components/WhatsAppCTA.astro';
+import {
+  LANGS,
+  type Lang,
+  SERVICE_KEYS,
+  LOCATION_KEYS,
+  serviceHref,
+  locationHref,
+  localePath,
+} from '../../data/routes';
+import { UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS } from '../../data/site';
+import { localBusinessSchema } from '../../data/schema';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages', (p) => p.data.pageKey === 'home');
+  return pages.map((entry) => ({
+    params: { lang: entry.data.lang },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const lang = entry.data.lang as Lang;
+const ui = UI[lang];
+
+const alternates: Partial<Record<Lang, string>> = {};
+for (const l of LANGS) alternates[l] = localePath(l, '');
+
+const path = localePath(lang, '');
+---
+
+<Layout
+  lang={lang}
+  title={entry.data.seoTitle}
+  description={entry.data.metaDescription}
+  path={path}
+  alternates={alternates}
+  ogImage={entry.data.heroImage}
+  jsonLd={[localBusinessSchema()]}
+>
+  <section class="relative">
+    {entry.data.heroImage && (
+      <div class="h-[56vh] min-h-[380px] w-full overflow-hidden bg-sand">
+        <img
+          src={entry.data.heroImage}
+          alt={entry.data.heroImageAlt}
+          class="h-full w-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </div>
+    )}
+    <div class="mx-auto max-w-4xl px-4 py-10 text-center">
+      <h1 class="text-3xl font-bold leading-tight md:text-5xl">{entry.data.h1}</h1>
+      <p class="mx-auto mt-4 max-w-2xl text-lg text-ink/70">{entry.data.subtitle}</p>
+      <a
+        href="https://wa.me/34600000000"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="mt-6 inline-block rounded-full bg-clay px-7 py-3 font-semibold text-paper hover:bg-olive"
+      >
+        {ui.ctaButton} →
+      </a>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-12">
+    <h2 class="mb-8 text-center text-2xl font-semibold md:text-3xl">{ui.servicesHeading}</h2>
+    <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {SERVICE_KEYS.map((key) => (
+        <ServiceCard serviceKey={key} lang={lang} blurb={HOME_SERVICE_BLURBS[key][lang]} />
+      ))}
+    </div>
+  </section>
+
+  <section class="bg-sand/40 py-12">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="mb-8 text-center text-2xl font-semibold md:text-3xl">{ui.areasWeWork}</h2>
+      <div class="flex flex-wrap justify-center gap-3">
+        {LOCATION_KEYS.map((key) => (
+          <a
+            href={locationHref(key, lang)}
+            class="rounded-full border border-sand bg-white px-5 py-2 text-sm font-medium hover:border-clay hover:text-clay"
+          >
+            {LOCATION_META[key][lang]}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section id="portfolio" class="mx-auto max-w-6xl px-4 py-12">
+    <h2 class="mb-8 text-center text-2xl font-semibold md:text-3xl">{ui.reelsHeading}</h2>
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {[1, 2, 3].map((i) => (
+        <div class="flex aspect-[9/16] items-center justify-center rounded-2xl bg-ink/90 text-center text-sm text-paper/70">
+          {/* Placeholder for Instagram/YouTube Reel embed #${i} — replace with real <iframe>/<blockquote> embed */}
+          Reel / Instagram embed placeholder #{i}
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-4 pb-12">
+    <div class="prose-lupo">
+      <Content />
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-4xl px-4 pb-16">
+    <WhatsAppCTA lang={lang} />
+  </section>
+</Layout>

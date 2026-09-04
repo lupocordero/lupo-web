@@ -1,0 +1,68 @@
+---
+import { SITE } from '../data/site';
+import { LOCALE_TAGS, type Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  path: string; // full path for this page, e.g. /es/bodas
+  alternates: Partial<Record<Lang, string>>; // full paths per language, e.g. { es: '/es/bodas', de: '/de/hochzeiten', en: '/en/weddings' }
+  ogImage?: string;
+  jsonLd?: Record<string, unknown>[];
+  noindex?: boolean;
+}
+
+const {
+  lang,
+  title,
+  description,
+  path,
+  alternates,
+  ogImage = '/images/og-default.jpg',
+  jsonLd = [],
+  noindex = false,
+} = Astro.props;
+
+const canonical = new URL(path, SITE.url).toString();
+const ogImageUrl = new URL(ogImage, SITE.url).toString();
+---
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex,nofollow" />}
+
+{Object.entries(alternates).map(([altLang, altPath]) => (
+  <link rel="alternate" hreflang={LOCALE_TAGS[altLang as Lang]} href={new URL(altPath as string, SITE.url).toString()} />
+))}
+{alternates.es && (
+  <link rel="alternate" hreflang="x-default" href={new URL(alternates.es, SITE.url).toString()} />
+)}
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<meta name="theme-color" content="#faf8f5" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content={SITE.brand} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={ogImageUrl} />
+<meta property="og:locale" content={LOCALE_TAGS[lang].replace('-', '_')} />
+{(['es', 'de', 'en'] as Lang[]).filter((l) => l !== lang && alternates[l]).map((l) => (
+  <meta property="og:locale:alternate" content={LOCALE_TAGS[l].replace('-', '_')} />
+))}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImageUrl} />
+
+{jsonLd.map((schema) => (
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+))}

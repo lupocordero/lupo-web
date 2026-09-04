@@ -1,0 +1,56 @@
+---
+import { NAV, SITE, SERVICE_META, LOCATION_META } from '../data/site';
+import { type Lang, SERVICE_KEYS, LOCATION_KEYS, serviceHref, locationHref, pageHref, blogIndexHref, localePath } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const nav = NAV[lang];
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-sand bg-sand/40">
+  <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:grid-cols-2 lg:grid-cols-4">
+    <div>
+      <p class="font-serif text-lg font-bold">{SITE.brand}</p>
+      <p class="mt-2 text-sm text-ink/70">{SITE.serviceArea}</p>
+      <div class="mt-4 flex flex-col gap-1 text-sm">
+        <a href={SITE.whatsappLink} class="hover:text-clay">WhatsApp: {SITE.whatsappNumber}</a>
+        <a href={`mailto:${SITE.email}`} class="hover:text-clay">{SITE.email}</a>
+        <a href={SITE.instagramUrl} class="hover:text-clay">{SITE.instagram}</a>
+      </div>
+    </div>
+
+    <div>
+      <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-ink/60">{nav.services}</p>
+      <ul class="space-y-1 text-sm">
+        {SERVICE_KEYS.map((key) => (
+          <li><a href={serviceHref(key, lang)} class="hover:text-clay">{SERVICE_META[key][lang]}</a></li>
+        ))}
+      </ul>
+    </div>
+
+    <div>
+      <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-ink/60">{nav.areas}</p>
+      <ul class="space-y-1 text-sm">
+        {LOCATION_KEYS.map((key) => (
+          <li><a href={locationHref(key, lang)} class="hover:text-clay">{LOCATION_META[key][lang]}</a></li>
+        ))}
+      </ul>
+    </div>
+
+    <div>
+      <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-ink/60">{SITE.brand}</p>
+      <ul class="space-y-1 text-sm">
+        <li><a href={pageHref('about', lang)} class="hover:text-clay">{nav.about}</a></li>
+        <li><a href={blogIndexHref(lang)} class="hover:text-clay">{nav.blog}</a></li>
+        <li><a href={pageHref('contact', lang)} class="hover:text-clay">{nav.contact}</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="border-t border-sand px-4 py-4 text-center text-xs text-ink/60">
+    © {year} {SITE.brand} — {SITE.serviceArea}
+  </div>
+</footer>

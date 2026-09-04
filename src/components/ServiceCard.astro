@@ -1,0 +1,22 @@
+---
+import { SERVICE_META } from '../data/site';
+import { serviceHref, type Lang, type ServiceKey } from '../data/routes';
+
+export interface Props {
+  serviceKey: ServiceKey;
+  lang: Lang;
+  blurb: string;
+}
+
+const { serviceKey, lang, blurb } = Astro.props;
+const meta = SERVICE_META[serviceKey];
+---
+
+<a
+  href={serviceHref(serviceKey, lang)}
+  class="group flex flex-col rounded-2xl border border-sand bg-white/60 p-6 transition hover:-translate-y-1 hover:shadow-lg"
+>
+  <span class="text-3xl">{meta.icon}</span>
+  <h3 class="mt-3 text-lg font-semibold group-hover:text-clay">{meta[lang]}</h3>
+  <p class="mt-2 text-sm text-ink/70">{blurb}</p>
+</a>

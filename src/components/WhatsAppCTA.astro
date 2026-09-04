@@ -1,0 +1,27 @@
+---
+import { SITE, UI } from '../data/site';
+import type { Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+  heading?: string;
+  body?: string;
+  compact?: boolean;
+}
+
+const { lang, heading, body, compact = false } = Astro.props;
+const ui = UI[lang];
+---
+
+<div class={`rounded-2xl bg-ink text-paper ${compact ? 'p-5' : 'p-8 md:p-10'} text-center`}>
+  <h2 class={`font-serif font-semibold ${compact ? 'text-xl' : 'text-2xl md:text-3xl'}`}>{heading ?? ui.ctaHeading}</h2>
+  <p class="mx-auto mt-2 max-w-xl text-paper/80">{body ?? ui.ctaBody}</p>
+  <a
+    href={SITE.whatsappLink}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="mt-5 inline-block rounded-full bg-clay px-6 py-3 font-semibold text-paper transition hover:bg-olive"
+  >
+    {ui.ctaButton} →
+  </a>
+</div>
