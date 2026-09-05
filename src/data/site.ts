@@ -62,6 +62,7 @@ export const SERVICE_META = {
   portraits: { es: 'Retratos', de: 'Porträts', en: 'Portraits' },
   events: { es: 'Eventos', de: 'Events', en: 'Events' },
   realestate: { es: 'Real Estate', de: 'Immobilien', en: 'Real Estate' },
+  portraittour: { es: 'Portrait Tour', de: 'Portrait Tour', en: 'Portrait Tour' },
 };
 
 export const HOME_SERVICE_BLURBS = {
@@ -84,6 +85,11 @@ export const HOME_SERVICE_BLURBS = {
     es: 'Villas, fincas y anuncios de Airbnb que destacan entre la competencia.',
     de: 'Villen, Fincas und Ferienhaus-Inserate, die auffallen.',
     en: 'Villas, fincas and Airbnb listings that stand out from the competition.',
+  },
+  portraittour: {
+    es: 'Un paseo fotográfico por Palma en el que te retrato mientras descubrimos la ciudad.',
+    de: 'Ein fotografischer Spaziergang durch Palma, bei dem ich euch unterwegs porträtiere.',
+    en: 'A photo walk through Palma where I portrait you as we explore the city.',
   },
 };
 

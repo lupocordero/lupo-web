@@ -27,19 +27,24 @@ export const serviceSlugs = {
   portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
   events: { es: 'eventos', de: 'events', en: 'events' },
   realestate: { es: 'real-estate', de: 'immobilien', en: 'real-estate' },
+  // "Portrait Tour" is a coined product name kept identical in all three
+  // languages (same treatment as "elopement") rather than translated.
+  portraittour: { es: 'portrait-tour', de: 'portrait-tour', en: 'portrait-tour' },
 } as const;
 
 export type ServiceKey = keyof typeof serviceSlugs;
 export const SERVICE_KEYS = Object.keys(serviceSlugs) as ServiceKey[];
 
 // Editorial hierarchy for the new positioning: elopement + portraits are the
-// core specialty, events is a secondary offering, real estate is kept
-// deliberately apart as commercial/B2B work rather than personal work.
+// core specialty, events and the Portrait Tour are secondary offerings, real
+// estate is kept deliberately apart as commercial/B2B work rather than
+// personal work.
 export const SERVICE_TIER: Record<ServiceKey, 'core' | 'secondary' | 'commercial'> = {
   elopement: 'core',
   portraits: 'core',
   events: 'secondary',
   realestate: 'commercial',
+  portraittour: 'secondary',
 };
 
 export const locationSlugs = {
