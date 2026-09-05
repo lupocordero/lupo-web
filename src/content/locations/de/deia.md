@@ -26,7 +26,7 @@ Deià ist, ohne zu übertreiben, eines der fotogensten Dörfer im gesamten Mitte
 
 ### Welche Art von Sessions ich in Deià mache
 
-Deià ist vor allem Terrain für [Elopements und intime Zeremonien](/de/elopement) – der Kontrast zwischen dem goldenen Stein des Dorfes und dem Blau des Meeres ist an keinem anderen Ort der Insel so eindrucksvoll zu erreichen. Ich fotografiere hier auch kleine Hochzeiten auf den umliegenden Fincas, Paarportraits für Jubiläen, und gelegentlich Immobilienfotografie für die Villen und historischen Häuser der Gegend, eine der exklusivsten Mallorcas.
+Deià ist vor allem Terrain für [Elopements und intime Zeremonien](/de/elopement) – der Kontrast zwischen dem goldenen Stein des Dorfes und dem Blau des Meeres ist an keinem anderen Ort der Insel so eindrucksvoll zu erreichen. Ich fotografiere hier auch kleine Hochzeiten auf den umliegenden Fincas, Paarportraits für Jubiläen, und gelegentlich private Events in den Villen und historischen Fincas der Gegend, eine der exklusivsten Mallorcas.
 
 ### Ikonische Orte für Fotos in Deià
 

@@ -2,8 +2,8 @@
 lang: en
 pageSlug: "palma"
 locationKey: palma
-seoTitle: "Photographer in Palma de Mallorca | Weddings, Portraits & Real Estate"
-metaDescription: "Photographer in Palma de Mallorca for weddings, elopements, family portraits, events and real estate. Sessions in the old town, the Cathedral and the seafront."
+seoTitle: "Photographer in Palma de Mallorca | Weddings, Events & Portraits"
+metaDescription: "Photographer in Palma de Mallorca for weddings, elopements, family portraits, events and trade fairs. Sessions in the old town, the Cathedral and the seafront."
 h1: "Photographer in Palma, Mallorca"
 subtitle: "My home base and one of the areas I work in most often: old town, seafront and surroundings."
 heroImage: "/images/palma-photographer-mallorca-01.webp"
@@ -12,7 +12,7 @@ gallery:
   - src: "/images/palma-photographer-mallorca-02.webp"
     alt: "Family portrait session in the old town of Palma de Mallorca"
   - src: "/images/palma-photographer-mallorca-03.webp"
-    alt: "Real estate photography of a penthouse in central Palma de Mallorca"
+    alt: "Corporate event at a hotel in central Palma de Mallorca"
   - src: "/images/palma-photographer-mallorca-04.webp"
     alt: "Small wedding on a terrace overlooking Palma bay"
   - src: "/images/palma-photographer-mallorca-05.webp"
@@ -24,13 +24,13 @@ faqs:
     a: "Casual street photography doesn't need a permit, but sessions with a larger setup (multiple flashes, tripods taking up space) in certain parts of the historic center may require municipal authorization. I'll advise you on this based on the exact location we choose."
 ---
 
-Palma is where I'm based and one of the areas I work in most often as a **photographer in Palma de Mallorca** — not just because I live nearby, but because the city offers a combination that's hard to match: centuries of character in its historic center, Mediterranean light right by the sea, and the infrastructure of a capital city for weddings, events and high-end real estate sessions.
+Palma is where I'm based and one of the areas I work in most often as a **photographer in Palma de Mallorca** — not just because I live nearby, but because the city offers a combination that's hard to match: centuries of character in its historic center, Mediterranean light right by the sea, and the infrastructure of a capital city for weddings, corporate events and trade fairs.
 
 It's also the easiest place on the island to reach — a short drive from the airport, well connected to the rest of Mallorca, and full of hotels and rental apartments, which makes it a natural base for visiting couples and families who want to combine a session here with day trips to Sóller, Deià or the beaches further along the coast.
 
 ### The kind of sessions I do in Palma
 
-I cover practically all of my services in the city: **weddings and elopements** at estates on the outskirts or right in the historic center for couples who want the Cathedral as their backdrop; **family portraits** in the old town or along the seafront; **real estate** for the penthouses, renovated apartments and villas in residential areas like Portixol, Son Vida or Santa Catalina; **corporate events** at the city's many hotels and venues; and **food photography** for Palma's thriving restaurant scene, from traditional spots to contemporary chef-driven kitchens.
+I cover practically all of my services in the city: **weddings and elopements** at estates on the outskirts or right in the historic center for couples who want the Cathedral as their backdrop; **family portraits** in the old town or along the seafront; **corporate events and trade fairs** at the city's many hotels and venues; and **food photography** for Palma's thriving restaurant scene, from traditional spots to contemporary chef-driven kitchens.
 
 ### Iconic spots for photos in Palma
 
@@ -48,6 +48,6 @@ Palma works well almost year-round, which is part of why it stays busy for me al
 
 ### Examples of sessions in Palma
 
-A German couple who chose Palma for a last-minute elopement before catching a flight, with a symbolic ceremony facing the sea and a photo session through the old town in under two hours. A British family on holiday who wanted updated photos of their three kids and took advantage of an afternoon on the seafront. A real estate agency that needed urgent photos of a penthouse in Santa Catalina before a weekend of viewings — delivered within 24 hours.
+A German couple who chose Palma for a last-minute elopement before catching a flight, with a symbolic ceremony facing the sea and a photo session through the old town in under two hours. A British family on holiday who wanted updated photos of their three kids and took advantage of an afternoon on the seafront. A German company that needed urgent coverage of a networking dinner at a hotel downtown — delivered within 24 hours.
 
-If you're looking for a photographer in Palma for your wedding, family session, event or property, [message me on WhatsApp](https://wa.me/34623066432) and let's talk dates and specific locations. And if your trip includes a day in the mountains, my pages on [Sóller](/en/soller) and [Deià](/en/deia) cover the other side of the island in more detail, or take a look at my [real estate](/en/real-estate) and [portrait](/en/portraits) services for more on what a session in the city can include.
+If you're looking for a photographer in Palma for your wedding, family session or event, [message me on WhatsApp](https://wa.me/34623066432) and let's talk dates and specific locations. And if your trip includes a day in the mountains, my pages on [Sóller](/en/soller) and [Deià](/en/deia) cover the other side of the island in more detail, or take a look at my [portrait](/en/portraits) services for more on what a session in the city can include.

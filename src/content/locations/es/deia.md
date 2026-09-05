@@ -26,7 +26,7 @@ Deià es, sin exagerar, uno de los pueblos más fotogénicos del Mediterráneo �
 
 ### Qué tipo de sesiones hago en Deià
 
-Deià es, sobre todo, terreno de **elopements y ceremonias íntimas** — el contraste entre la piedra dorada del pueblo y el azul del mar es difícil de igualar en cualquier otro punto de la isla. También trabajo **bodas pequeñas** en las fincas de los alrededores, **retratos de pareja** para aniversarios, y ocasionalmente **real estate** para las villas y casas históricas de la zona, una de las más exclusivas de Mallorca.
+Deià es, sobre todo, terreno de **elopements y ceremonias íntimas** — el contraste entre la piedra dorada del pueblo y el azul del mar es difícil de igualar en cualquier otro punto de la isla. También trabajo **bodas pequeñas** en las fincas de los alrededores, **retratos de pareja** para aniversarios, y ocasionalmente **eventos privados** en las villas y fincas históricas de la zona, una de las más exclusivas de Mallorca.
 
 ### Lugares emblemáticos para fotos en Deià
 

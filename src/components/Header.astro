@@ -26,16 +26,16 @@ const home = localePath(lang, '');
     </a>
 
     <nav class="hidden items-center gap-x-7 font-mono text-xs uppercase tracking-widest2 lg:flex">
-      <a href={serviceHref('elopement', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
-        {SERVICE_META.elopement[lang]}
+      <a href={serviceHref('events', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
+        {SERVICE_META.events[lang]}
       </a>
       <a href={serviceHref('portraits', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {SERVICE_META.portraits[lang]}
       </a>
-
-      <a href={serviceHref('realestate', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
-        {nav.commercial}
+      <a href={serviceHref('elopement', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
+        {SERVICE_META.elopement[lang]}
       </a>
+
       <a href={blogIndexHref(lang)} class="border-b border-transparent pb-1 transition hover:border-ink">{nav.journal}</a>
       <a href={pageHref('about', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">{nav.about}</a>
     </nav>
@@ -60,11 +60,10 @@ const home = localePath(lang, '');
   </div>
 
   <nav class="flex flex-wrap gap-x-5 gap-y-2 border-t border-line px-5 py-3 font-mono text-[0.7rem] uppercase tracking-widest2 lg:hidden">
-    <a href={serviceHref('elopement', lang)}>{SERVICE_META.elopement[lang]}</a>
-    <a href={serviceHref('portraits', lang)}>{SERVICE_META.portraits[lang]}</a>
     <a href={serviceHref('events', lang)}>{SERVICE_META.events[lang]}</a>
+    <a href={serviceHref('portraits', lang)}>{SERVICE_META.portraits[lang]}</a>
+    <a href={serviceHref('elopement', lang)}>{SERVICE_META.elopement[lang]}</a>
     <a href={serviceHref('portraittour', lang)}>{SERVICE_META.portraittour[lang]}</a>
-    <a href={serviceHref('realestate', lang)}>{nav.commercial}</a>
     <a href={blogIndexHref(lang)}>{nav.journal}</a>
     <a href={pageHref('about', lang)}>{nav.about}</a>
   </nav>

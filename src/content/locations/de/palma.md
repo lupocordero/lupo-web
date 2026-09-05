@@ -2,8 +2,8 @@
 lang: de
 pageSlug: "palma"
 locationKey: palma
-seoTitle: "Fotograf Palma de Mallorca | Hochzeiten, Portraits & Immobilien"
-metaDescription: "Fotograf in Palma de Mallorca für Hochzeiten, Elopements, Familienportraits, Events und Immobilien. Shootings in der Altstadt, an der Kathedrale und der Strandpromenade."
+seoTitle: "Fotograf Palma de Mallorca | Hochzeiten, Events & Porträts"
+metaDescription: "Fotograf in Palma de Mallorca für Hochzeiten, Elopements, Familienportraits, Events und Messen. Shootings in der Altstadt, an der Kathedrale und der Strandpromenade."
 h1: "Fotograf in Palma, Mallorca"
 subtitle: "Meine Homebase und eine der Gegenden, in denen ich am häufigsten arbeite: Altstadt, Strandpromenade und Umgebung."
 heroImage: "/images/fotograf-palma-mallorca-01.webp"
@@ -12,7 +12,7 @@ gallery:
   - src: "/images/fotograf-palma-mallorca-02.webp"
     alt: "Familienportrait-Session in der Altstadt von Palma de Mallorca"
   - src: "/images/fotograf-palma-mallorca-03.webp"
-    alt: "Immobilienfotografie eines Penthouses im Zentrum von Palma de Mallorca"
+    alt: "Firmenevent in einem Hotel im Zentrum von Palma de Mallorca"
   - src: "/images/fotograf-palma-mallorca-04.webp"
     alt: "Kleine Hochzeit auf einer Terrasse mit Blick auf die Bucht von Palma"
   - src: "/images/fotograf-palma-mallorca-05.webp"
@@ -24,11 +24,11 @@ faqs:
     a: "Für lockere Straßenfotografie ist keine Genehmigung nötig, aber für Sessions mit großem Equipment (mehrere Blitze, Stative, die Platz beanspruchen) in bestimmten Bereichen der Altstadt kann eine städtische Genehmigung erforderlich sein. Ich berate euch dazu je nach genau gewähltem Ort."
 ---
 
-Palma ist meine Homebase und eine der Gegenden, in denen ich als **Fotograf Palma de Mallorca** am häufigsten arbeite – nicht nur, weil ich in der Nähe wohne, sondern weil die Stadt eine kaum zu schlagende Kombination bietet: eine jahrhundertealte Altstadt mit Charakter, mediterranes Licht direkt am Meer und die Infrastruktur einer Hauptstadt für Hochzeiten, Events und hochwertige Immobiliensessions.
+Palma ist meine Homebase und eine der Gegenden, in denen ich als **Fotograf Palma de Mallorca** am häufigsten arbeite – nicht nur, weil ich in der Nähe wohne, sondern weil die Stadt eine kaum zu schlagende Kombination bietet: eine jahrhundertealte Altstadt mit Charakter, mediterranes Licht direkt am Meer und die Infrastruktur einer Hauptstadt für Hochzeiten, Firmenevents und Messen.
 
 ### Welche Art von Sessions ich in Palma mache
 
-Ich decke praktisch alle meine Services in der Stadt ab: [Elopements](/de/elopement) auf Fincas in der Umgebung oder direkt in der Altstadt für Paare, die die Kathedrale als Kulisse wollen; [Familienportraits](/de/portraits) in der Altstadt oder an der Strandpromenade; [Immobilienfotografie](/de/immobilien) für die Penthouses, renovierten Wohnungen und Villen in den Wohngebieten von Portixol, Son Vida oder Santa Catalina; [Firmenevents](/de/events) in den zahlreichen Hotels und Locations der Stadt; und Foodfotografie für die vielfältige Gastronomieszene Palmas, von traditionellen Restaurants bis zu Autorenküche.
+Ich decke praktisch alle meine Services in der Stadt ab: [Elopements](/de/elopement) auf Fincas in der Umgebung oder direkt in der Altstadt für Paare, die die Kathedrale als Kulisse wollen; [Familienportraits](/de/portraits) in der Altstadt oder an der Strandpromenade; [Firmenevents und Messen](/de/events) in den zahlreichen Hotels und Locations der Stadt; und Foodfotografie für die vielfältige Gastronomieszene Palmas, von traditionellen Restaurants bis zu Autorenküche.
 
 ### Ikonische Orte für Fotos in Palma
 
@@ -40,6 +40,6 @@ Da es meine Homebase ist, ist die Logistik in Palma besonders flexibel: Ich kann
 
 ### Beispiele für Sessions in Palma
 
-Ein deutsches Paar, das sich für Palma für ein spontanes Elopement kurz vor einem Flug entschied, mit einer symbolischen Zeremonie direkt am Meer und einer Fotosession durch die Altstadt in weniger als zwei Stunden. Eine englische Familie im Urlaub, die aktuelle Fotos ihrer drei Kinder wollte und dafür einen Nachmittag an der Strandpromenade nutzte. Eine Immobilienagentur, die dringend Fotos eines Penthouses in Santa Catalina vor einem Besichtigungswochenende brauchte – geliefert innerhalb von 24 Stunden.
+Ein deutsches Paar, das sich für Palma für ein spontanes Elopement kurz vor einem Flug entschied, mit einer symbolischen Zeremonie direkt am Meer und einer Fotosession durch die Altstadt in weniger als zwei Stunden. Eine englische Familie im Urlaub, die aktuelle Fotos ihrer drei Kinder wollte und dafür einen Nachmittag an der Strandpromenade nutzte. Ein deutsches Unternehmen, das kurzfristig Fotos eines Networking-Dinners in einem Hotel im Zentrum brauchte – geliefert innerhalb von 24 Stunden.
 
-Sucht ihr einen Fotografen in Palma für eure Hochzeit, Familiensession, euer Event oder eure Immobilie, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen Termine und konkrete Orte. Interessiert euch auch die Bergregion, schaut euch meine Seite zu [Sóller](/de/soller) an.
+Sucht ihr einen Fotografen in Palma für eure Hochzeit, Familiensession oder euer Event, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen Termine und konkrete Orte. Interessiert euch auch die Bergregion, schaut euch meine Seite zu [Sóller](/de/soller) an.

@@ -3,7 +3,7 @@ lang: es
 pageSlug: "sobre-mi"
 pageKey: about
 seoTitle: "Sobre mí | Lupo, fotógrafo en Mallorca"
-metaDescription: "Conoce a Lupo, fotógrafo en Mallorca especializado en elopements y retratos, con trabajo comercial de real estate aparte. Estilo natural y documental, puntualidad y trato cercano con clientes internacionales."
+metaDescription: "Conoce a Lupo, fotógrafo en Mallorca especializado en eventos, retratos y elopements. Estilo natural y documental, puntualidad y trato cercano con clientes internacionales."
 h1: "Sobre mí"
 subtitle: "El fotógrafo detrás de las fotos: cómo trabajo y por qué"
 heroImage: "/images/sobre-mi-lupo-fotografo-mallorca.webp"

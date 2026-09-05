@@ -3,7 +3,7 @@ lang: en
 pageSlug: "contact"
 pageKey: contact
 seoTitle: "Contact | Mallorca Photographer – Lupo"
-metaDescription: "Contact Lupo, Mallorca photographer, via WhatsApp or email. Fast reply for elopements, weddings, events, real estate, portraits and food sessions."
+metaDescription: "Contact Lupo, Mallorca photographer, via WhatsApp or email. Fast reply for weddings, events, portraits, elopements and food sessions."
 h1: "Let's talk about your session"
 subtitle: "The fastest way to lock in a date is WhatsApp — I usually reply the same day."
 ---

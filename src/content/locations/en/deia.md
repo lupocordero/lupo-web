@@ -28,7 +28,7 @@ It's a small village — you can walk from one end to the other in ten minutes �
 
 ### The kind of sessions I do in Deià
 
-Deià is, above all, elopement and intimate-ceremony territory — the contrast between the village's golden stone and the blue of the sea is hard to match anywhere else on the island. I also shoot small **weddings** at nearby estates, **couple's portraits** for anniversaries, and occasionally **real estate** for the villas and historic homes in the area, one of the most exclusive on Mallorca.
+Deià is, above all, elopement and intimate-ceremony territory — the contrast between the village's golden stone and the blue of the sea is hard to match anywhere else on the island. I also shoot small **weddings** at nearby estates, **couple's portraits** for anniversaries, and occasionally **private events** at the villas and historic estates in the area, one of the most exclusive on Mallorca.
 
 ### Iconic spots for photos in Deià
 

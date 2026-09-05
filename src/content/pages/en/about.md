@@ -3,7 +3,7 @@ lang: en
 pageSlug: "about"
 pageKey: about
 seoTitle: "About Me | Lupo, Mallorca Photographer"
-metaDescription: "Meet Lupo, a Mallorca-based photographer specializing in elopements and portraits, with commercial real estate work kept separate. Natural, documentary style, punctuality and a personal approach for international clients."
+metaDescription: "Meet Lupo, a Mallorca-based photographer specializing in events, portraits and elopements. Natural, documentary style, punctuality and a personal approach for international clients."
 h1: "About Me"
 subtitle: "The photographer behind the photos: how and why I work this way"
 heroImage: "/images/about-lupo-mallorca-photographer.webp"

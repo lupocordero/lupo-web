@@ -1,6 +1,9 @@
 {
   "redirects": [
     { "source": "/", "destination": "/es", "permanent": false },
-    { "source": "/es/elopeamiento", "destination": "/es/elopement", "permanent": true }
+    { "source": "/es/elopeamiento", "destination": "/es/elopement", "permanent": true },
+    { "source": "/es/real-estate", "destination": "/es", "permanent": true },
+    { "source": "/de/immobilien", "destination": "/de", "permanent": true },
+    { "source": "/en/real-estate", "destination": "/en", "permanent": true }
   ]
 }

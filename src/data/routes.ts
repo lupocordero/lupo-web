@@ -18,15 +18,15 @@ export const LOCALE_TAGS: Record<Lang, string> = {
 };
 
 // Only services with their own dedicated, SEO-targeted page live here.
-// Weddings and food are intentionally NOT sold as standalone services —
-// they show up as by-products inside the portfolio/journal (a wedding
-// because a portrait/elopement couple got married, food because it was
-// on the table at an event) without their own page or explicit marketing.
+// Events (weddings, parties, corporate, trade fairs) is now the flagship
+// offering — it's what the photographer has the most real experience and
+// material for, and the fastest/easiest to deliver. Food is still NOT
+// sold as a standalone service — it shows up as a by-product inside the
+// portfolio/journal (food on the table at an event) without its own page.
 export const serviceSlugs = {
-  elopement: { es: 'elopement', de: 'elopement', en: 'elopement' },
-  portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
   events: { es: 'eventos', de: 'events', en: 'events' },
-  realestate: { es: 'real-estate', de: 'immobilien', en: 'real-estate' },
+  portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
+  elopement: { es: 'elopement', de: 'elopement', en: 'elopement' },
   // "Portrait Tour" is a coined product name kept identical in all three
   // languages (same treatment as "elopement") rather than translated.
   portraittour: { es: 'portrait-tour', de: 'portrait-tour', en: 'portrait-tour' },
@@ -35,15 +35,13 @@ export const serviceSlugs = {
 export type ServiceKey = keyof typeof serviceSlugs;
 export const SERVICE_KEYS = Object.keys(serviceSlugs) as ServiceKey[];
 
-// Editorial hierarchy for the new positioning: elopement + portraits are the
-// core specialty, events and the Portrait Tour are secondary offerings, real
-// estate is kept deliberately apart as commercial/B2B work rather than
-// personal work.
-export const SERVICE_TIER: Record<ServiceKey, 'core' | 'secondary' | 'commercial'> = {
-  elopement: 'core',
+// Editorial hierarchy: events, portraits and elopement are the core
+// specialty (in that priority order); the Portrait Tour is a secondary,
+// Palma-only offering. Real estate has been discontinued as a service.
+export const SERVICE_TIER: Record<ServiceKey, 'core' | 'secondary'> = {
+  events: 'core',
   portraits: 'core',
-  events: 'secondary',
-  realestate: 'commercial',
+  elopement: 'core',
   portraittour: 'secondary',
 };
 

@@ -26,7 +26,7 @@ Sóller ist wahrscheinlich der nach Palma am meisten gefragte Ort, und das ist k
 
 ### Welche Art von Sessions ich in Sóller mache
 
-Sóller ist vor allem meine liebste Gegend für [Elopements und intime Paarshootings](/de/elopement) – die Wege zwischen den Orangenbäumen, die Steinterrassen mit Blick auf die Sierra und die versteckten Ecken des Tals sind perfekt für kleine Zeremonien. Es ist auch eine sehr gefragte Kulisse für Hochzeiten auf den zahlreichen Fincas der Gegend, Familienportraits bei einem Spaziergang durch den Ort oder den Hafen, und gelegentlich auch für Immobilienfotografie bei den traditionellen Steinhäusern und Fincas, die in der Region verkauft oder vermietet werden.
+Sóller ist vor allem meine liebste Gegend für [Elopements und intime Paarshootings](/de/elopement) – die Wege zwischen den Orangenbäumen, die Steinterrassen mit Blick auf die Sierra und die versteckten Ecken des Tals sind perfekt für kleine Zeremonien. Es ist auch eine sehr gefragte Kulisse für Hochzeiten auf den zahlreichen Fincas der Gegend, Familienportraits bei einem Spaziergang durch den Ort oder den Hafen, und gelegentlich auch private Events auf den Fincas der Gegend.
 
 ### Ikonische Orte für Fotos in Sóller
 

@@ -28,7 +28,7 @@ It's also close enough to Palma — about 30 minutes by car through the Sóller 
 
 ### The kind of sessions I do in Sóller
 
-Sóller is, above all, my favorite spot for **elopements and intimate couple sessions** — the paths through the orange groves, the stone terraces overlooking the mountains and the valley's hidden corners are perfect for small ceremonies. It's also a highly requested setting for **weddings** at the area's many country estates, **family portraits** strolling through town or the harbor, and occasionally **real estate** for the traditional stone farmhouses being sold or rented in the area.
+Sóller is, above all, my favorite spot for **elopements and intimate couple sessions** — the paths through the orange groves, the stone terraces overlooking the mountains and the valley's hidden corners are perfect for small ceremonies. It's also a highly requested setting for **weddings** at the area's many country estates, **family portraits** strolling through town or the harbor, and occasionally **private events** at the area's country estates.
 
 ### Iconic spots for photos in Sóller
 
@@ -48,6 +48,6 @@ Spring, especially late March into April, is the standout season here — orange
 
 A German couple who married at an estate on the outskirts of town with a 20-guest ceremony among the orange trees, followed by a couple's session at the harbor at sunset. A family who used their holiday week for a portrait session walking from the square to the tram. An English couple's elopement with a sunrise symbolic ceremony at a viewpoint over the valley, before the first tourists of the day arrived.
 
-A real estate agency also brought me in to photograph a restored stone farmhouse just outside the village, timed for the spring blossom so the listing photos would show the property surrounded by flowering orange trees rather than the plainer look it has later in the year.
+A family celebrating a milestone birthday also booked a small private party at one of the area's country estates, timed for the spring blossom so the garden photos would have the orange trees in full flower.
 
 If you're considering Sóller for your elopement, wedding or family session, [message me on WhatsApp](https://wa.me/34623066432) and I'll suggest the best locations based on your date and the light at that time of year. For a deeper dive into planning an elopement here, my [Sóller/Deià elopement guide](/en/blog/elopement-soller-deia-guide) covers logistics, timing and permits in detail.

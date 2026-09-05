@@ -26,7 +26,7 @@ Sóller es probablemente la localización que más me piden después de Palma, y
 
 ### Qué tipo de sesiones hago en Sóller
 
-Sóller es, ante todo, mi zona favorita para **elopements y sesiones íntimas de pareja** — los caminos entre naranjos, las terrazas de piedra con vistas a la sierra y los rincones escondidos del valle son perfectos para ceremonias pequeñas. También es un escenario muy solicitado para **bodas** en las numerosas fincas de la zona, **retratos de familia** paseando por el pueblo o el puerto, y ocasionalmente **real estate** para las fincas y casas de piedra tradicionales que se venden o alquilan en la zona.
+Sóller es, ante todo, mi zona favorita para **elopements y sesiones íntimas de pareja** — los caminos entre naranjos, las terrazas de piedra con vistas a la sierra y los rincones escondidos del valle son perfectos para ceremonias pequeñas. También es un escenario muy solicitado para **bodas** en las numerosas fincas de la zona, **retratos de familia** paseando por el pueblo o el puerto, y ocasionalmente **eventos privados** en las fincas y casas de piedra tradicionales de la zona.
 
 ### Lugares emblemáticos para fotos en Sóller
 
