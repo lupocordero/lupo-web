@@ -14,7 +14,7 @@ import {
   type ServiceKey,
   type LocationKey,
 } from '../../data/routes';
-import { SITE, UI, SERVICE_META, LOCATION_META, whatsappHref } from '../../data/site';
+import { SITE, UI, SERVICE_META, LOCATION_META, SERVICE_AREA, whatsappHref } from '../../data/site';
 import { serviceSchema, faqSchema, breadcrumbSchema, localBusinessSchema } from '../../data/schema';
 import { SITE_URL } from '../../../astro.config.mjs';
 
@@ -142,7 +142,7 @@ const path = `/${lang}/${entry.data.pageSlug}`;
       </div>
       <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/5 to-transparent"></div>
       <div class="relative flex h-full flex-col justify-end px-5 pb-10 md:px-8 md:pb-14">
-        <h1 class="max-w-3xl font-sans text-display-2 font-bold text-paper">{entry.data.h1}</h1>
+        <h1 class="max-w-3xl font-display text-display-2 font-bold text-paper">{entry.data.h1}</h1>
       </div>
     </div>
   )}
@@ -150,7 +150,7 @@ const path = `/${lang}/${entry.data.pageSlug}`;
   <div class="mx-auto max-w-3xl px-5 py-14 md:px-8">
     {!heroImage && (
       <>
-        <h1 class="font-sans text-display-2 font-bold">{entry.data.h1}</h1>
+        <h1 class="font-display text-display-2 font-bold">{entry.data.h1}</h1>
       </>
     )}
     {'subtitle' in entry.data && entry.data.subtitle && (
@@ -188,7 +188,7 @@ const path = `/${lang}/${entry.data.pageSlug}`;
           <p class="eyebrow mb-2 mt-8">Instagram</p>
           <a href={SITE.instagramUrl} class="link-arrow">{SITE.instagram}</a>
           <p class="eyebrow mb-2 mt-8">{ui.areasWeWork}</p>
-          <p class="text-ink/70">{SITE.serviceArea}</p>
+          <p class="text-ink/70">{SERVICE_AREA[lang]}</p>
         </div>
       </div>
     )}

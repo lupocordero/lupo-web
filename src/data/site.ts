@@ -37,6 +37,14 @@ export function whatsappHref(lang: Lang): string {
   return `${SITE.whatsappLink}?text=${encodeURIComponent(WHATSAPP_PREFILL[lang])}`;
 }
 
+// Localized service-area label shown in the header, hero and footer —
+// SITE.serviceArea stays a single ES string for structured data only.
+export const SERVICE_AREA: Record<Lang, string> = {
+  es: 'Mallorca, Illes Balears, España',
+  de: 'Mallorca, Balearen, Spanien',
+  en: 'Mallorca, Balearic Islands, Spain',
+};
+
 export const NAV = {
   es: { home: 'Inicio', work: 'Trabajo', areas: 'Zonas', about: 'Sobre mí', contact: 'Contacto', journal: 'Diario', cta: 'WhatsApp' },
   de: { home: 'Start', work: 'Arbeiten', areas: 'Gebiete', about: 'Über mich', contact: 'Kontakt', journal: 'Journal', cta: 'WhatsApp' },

@@ -14,7 +14,7 @@ import {
   locationHref,
   localePath,
 } from '../../data/routes';
-import { SITE, UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS, whatsappHref } from '../../data/site';
+import { UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS, SERVICE_AREA } from '../../data/site';
 import { localBusinessSchema } from '../../data/schema';
 
 export async function getStaticPaths() {
@@ -57,7 +57,7 @@ const path = localePath(lang, '');
   ogImage={entry.data.heroImage}
   jsonLd={[localBusinessSchema()]}
 >
-  <section class="relative h-[92vh] min-h-[560px] w-full overflow-hidden bg-ink">
+  <section class="relative h-[70vh] min-h-[480px] w-full overflow-hidden bg-ink md:h-[92vh] md:min-h-[560px]">
     {entry.data.heroImage && (
       <div class="absolute inset-0" data-parallax="0.4">
         <img
@@ -71,15 +71,12 @@ const path = localePath(lang, '');
     )}
     <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/10 to-transparent"></div>
 
-    <div class="relative flex h-full flex-col justify-end px-5 pb-16 md:px-8 md:pb-20" data-parallax="0.08">
-      <p class="eyebrow mb-4 text-paper/60">{SITE.serviceArea}</p>
-      <h1 class="max-w-4xl font-sans text-display-1 font-bold text-paper">{entry.data.h1}</h1>
+    <div class="relative flex h-full flex-col justify-end px-5 pb-10 md:px-8 md:pb-20" data-parallax="0.08">
+      <p class="eyebrow mb-4 text-paper/60">{SERVICE_AREA[lang]}</p>
+      <h1 class="max-w-4xl font-display text-display-1 font-bold text-paper">{entry.data.h1}</h1>
       <p class="mt-6 max-w-xl text-lg text-paper/70">{entry.data.subtitle}</p>
       <div class="mt-8 flex flex-wrap items-center gap-x-8 gap-y-3">
-        <a href={whatsappHref(lang)} target="_blank" rel="noopener noreferrer" class="link-arrow w-fit text-lg !border-paper text-paper hover:!border-rust hover:text-rust">
-          {ui.ctaButton} →
-        </a>
-        <button type="button" data-open-contact-modal class="link-arrow w-fit text-lg !border-paper/50 text-paper/80 hover:!border-rust hover:text-rust">
+        <button type="button" data-open-contact-modal class="link-arrow w-fit text-lg !border-paper text-paper hover:!border-rust hover:text-rust">
           {ui.checkAvailability} →
         </button>
       </div>

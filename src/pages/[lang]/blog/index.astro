@@ -41,7 +41,7 @@ const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB'
   jsonLd={[localBusinessSchema()]}
 >
   <div class="mx-auto max-w-4xl px-5 py-16 md:px-8">
-    <h1 class="font-sans text-display-2 font-bold">{ui.blogListTitle}</h1>
+    <h1 class="font-display text-display-2 font-bold">{ui.blogListTitle}</h1>
     <div class="mt-12">
       {posts.map((post) => (
         <a
@@ -61,7 +61,7 @@ const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB'
             <p class="eyebrow mb-2">
               {post.data.publishDate.toLocaleDateString(dateLocale[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
             </p>
-            <h2 class="font-sans text-2xl font-bold transition group-hover:text-rust">{post.data.h1}</h2>
+            <h2 class="font-display text-2xl font-bold transition group-hover:text-rust">{post.data.h1}</h2>
             <p class="mt-2 text-ink/60">{post.data.excerpt}</p>
             <span class="link-arrow mt-4 text-sm">{ui.readMore} →</span>
           </div>

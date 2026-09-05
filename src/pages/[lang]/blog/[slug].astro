@@ -73,7 +73,7 @@ const dateLocale: Record<Lang, string> = { es: 'es-ES', de: 'de-DE', en: 'en-GB'
         <p class="eyebrow mb-3 text-paper/60">
           {entry.data.publishDate.toLocaleDateString(dateLocale[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
         </p>
-        <h1 class="max-w-3xl font-sans text-display-2 font-bold text-paper">{entry.data.h1}</h1>
+        <h1 class="max-w-3xl font-display text-display-2 font-bold text-paper">{entry.data.h1}</h1>
       </div>
     </div>
 

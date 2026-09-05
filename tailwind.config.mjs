@@ -4,13 +4,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: '#141312',
-        paper: '#f7f5f0',
-        line: '#dedad2',
-        rust: '#c3512b',
+        ink: '#32628C',
+        paper: '#FFFAF2',
+        line: '#FFD4D7',
+        rust: '#FF9AD7',
+        highlight: '#F2E85C',
+        blush: '#FFD4D7',
       },
       fontFamily: {
         sans: ['"Space Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        display: ['"Baloo 2"', '"Space Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
         mono: ['"Space Mono"', 'ui-monospace', 'SFMono-Regular', 'monospace'],
       },
       letterSpacing: {
