@@ -16,7 +16,7 @@ gallery:
   - src: "/images/calvia-photographer-mallorca-04.webp"
     alt: "Family portrait session on Santa Ponça beach, Calvià"
 faqs:
-  - q: "Do you work at the private villas around Port Andratx and Bendinat?"
+  - q: "Do you work at the private villas around Bendinat and Portals Nous?"
     a: "Yes, it's one of my most frequent areas for both weddings as well as private and corporate events. Many of these villas have their own access or security rules, so I usually coordinate with the host or event agency ahead of time."
   - q: "What's the best time of year for a wedding or event in Calvià?"
     a: "Peak season (May to October) offers the best weather, but also more crowds and higher prices at some venues. Spring and early autumn tend to give the best balance of good weather and fewer crowds."
@@ -32,7 +32,7 @@ Calvià is regular ground for **weddings** at private villas with infinity pools
 
 ### Iconic spots for photos in Calvià
 
-**Puerto Portals**, with its yachts and seafront restaurants, is an elegant setting much requested for events and more sophisticated-style sessions. The villas of **Bendinat** and **Port Andratx**, with Mediterranean architecture and privileged views, are the usual setting for high-end private weddings. The **coves of Santa Ponça and Illetes** offer a more relaxed, family-friendly atmosphere, ideal for portraits. And the golf courses and estates further inland in the municipality are a lesser-known but highly photogenic alternative for mid-sized weddings.
+**Puerto Portals**, with its yachts and seafront restaurants, is an elegant setting much requested for events and more sophisticated-style sessions. The villas of **Bendinat** and **Portals Nous**, with Mediterranean architecture and privileged views, are the usual setting for high-end private weddings. The **coves of Santa Ponça and Illetes** offer a more relaxed, family-friendly atmosphere, ideal for portraits. And the golf courses and estates further inland in the municipality are a lesser-known but highly photogenic alternative for mid-sized weddings.
 
 ### How I work in Calvià
 
@@ -50,4 +50,4 @@ A 40-guest wedding at a private villa in Bendinat with a ceremony facing the sea
 
 A corporate incentive group from Scandinavia also booked coverage of a two-day event at a hotel in Puerto Portals, combining a formal dinner with a more relaxed sailing afternoon, delivered as two separate quick-turnaround selections so their team had content for both days.
 
-If you have a wedding or event in the Calvià area, [message me on WhatsApp](https://wa.me/34623066432) and we'll sort out the details. For couples weighing up a smaller ceremony instead of a full wedding, my [elopement](/en/elopement) page covers what that looks like at the more intimate end of the scale.
+If you have a wedding or event in the Calvià area, [message me on WhatsApp](https://wa.me/34623066432) and we'll sort out the details. For couples weighing up a smaller ceremony instead of a full wedding, my [elopement](/en/elopement) page covers what that looks like at the more intimate end of the scale. If your venue is further west, in Port d'Andratx or Sant Elm, see my [Andratx](/en/andratx) page instead.

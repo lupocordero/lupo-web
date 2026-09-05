@@ -100,4 +100,5 @@ export const LOCATION_META = {
   soller: { es: 'Sóller', de: 'Sóller', en: 'Sóller' },
   deia: { es: 'Deià', de: 'Deià', en: 'Deià' },
   calvia: { es: 'Calvià', de: 'Calvià', en: 'Calvià' },
+  andratx: { es: 'Andratx', de: 'Andratx', en: 'Andratx' },
 };

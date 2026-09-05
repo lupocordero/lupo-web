@@ -14,7 +14,7 @@ Me llamo Lupo. Vivo en Mallorca y mi trabajo se centra en **eventos** — bodas,
 
 Trabajo sobre todo con parejas, familias y empresas alemanas e internacionales. Hablo español, alemán e inglés, soy puntual y entrego rápido.
 
-Trabajo en toda la isla, con más presencia en Palma, Sóller, Deià y Calvià.
+Trabajo en toda la isla, con más presencia en Palma, Sóller, Deià, Calvià y Andratx.
 
 ## Fotografía de bodas y eventos en Mallorca
 

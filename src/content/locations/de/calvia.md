@@ -16,7 +16,7 @@ gallery:
   - src: "/images/fotograf-calvia-mallorca-04.webp"
     alt: "Familienportrait-Session am Strand von Santa Ponça, Calvià"
 faqs:
-  - q: "Arbeitest du in den privaten Villen rund um Port Andratx und Bendinat?"
+  - q: "Arbeitest du in den privaten Villen rund um Bendinat und Portals Nous?"
     a: "Ja, das ist eine meiner häufigsten Gegenden, sowohl für Hochzeiten als auch für private und geschäftliche Events. Viele dieser Villen haben eigene Zugangs- oder Sicherheitsregeln, deshalb koordiniere ich mich meist vorab mit dem Gastgeber oder der Eventagentur."
   - q: "Was ist die beste Jahreszeit für eine Hochzeit oder ein Event in Calvià?"
     a: "Die Hochsaison (Mai bis Oktober) bietet das beste Wetter, aber auch mehr Trubel und höhere Preise bei manchen Fincas. Frühling und früher Herbst bieten meist die beste Kombination aus gutem Wetter und weniger Andrang."
@@ -30,7 +30,7 @@ Calvià ist ein gängiges Terrain für Hochzeiten in privaten Villen mit Infinit
 
 ### Ikonische Orte für Fotos in Calvià
 
-**Puerto Portals**, mit seinen Yachten und Restaurants direkt am Meer, ist eine elegante, sehr gefragte Kulisse für Events und Sessions im gehobenen Stil. Die Villen von **Bendinat** und **Port Andratx**, mit mediterraner Architektur und privilegierter Aussicht, sind das übliche Umfeld für exklusive private Hochzeiten. Die **Buchten von Santa Ponça und Illetes** bieten eine entspanntere, familiärere Atmosphäre, ideal für Portraits. Und die Golfplätze und Fincas im Landesinneren der Gemeinde sind eine weniger bekannte, aber sehr fotogene Alternative für mittelgroße Hochzeiten.
+**Puerto Portals**, mit seinen Yachten und Restaurants direkt am Meer, ist eine elegante, sehr gefragte Kulisse für Events und Sessions im gehobenen Stil. Die Villen von **Bendinat** und **Portals Nous**, mit mediterraner Architektur und privilegierter Aussicht, sind das übliche Umfeld für exklusive private Hochzeiten. Die **Buchten von Santa Ponça und Illetes** bieten eine entspanntere, familiärere Atmosphäre, ideal für Portraits. Und die Golfplätze und Fincas im Landesinneren der Gemeinde sind eine weniger bekannte, aber sehr fotogene Alternative für mittelgroße Hochzeiten.
 
 ### So arbeite ich in Calvià
 
@@ -40,4 +40,4 @@ Viele der Anwesen und Locations dieser Gegend sind privat und haben eigene Zugan
 
 Eine Hochzeit mit 40 Gästen auf einer privaten Villa in Bendinat, mit Zeremonie direkt am Meer und Paarshooting bei Sonnenuntergang über dem Infinity-Pool. Eine Bootsmesse in Puerto Portals für eine deutsche Yachtmarke, mit einer Express-Auswahl an Fotos, die noch am selben Tag für Social Media geliefert wurde. Eine Familiensession einer englischen Familie am Strand von Santa Ponça während ihres Sommerurlaubs.
 
-Habt ihr eine Hochzeit oder ein Event in der Gegend von Calvià, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen die Details. Ist eure Feier eher intim, schaut auch bei meinem [Elopement-Service](/de/elopement) vorbei.
+Habt ihr eine Hochzeit oder ein Event in der Gegend von Calvià, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen die Details. Ist eure Feier eher intim, schaut auch bei meinem [Elopement-Service](/de/elopement) vorbei. Liegt eure Location weiter westlich, in Port d'Andratx oder Sant Elm, findet ihr mehr auf meiner Seite zu [Andratx](/de/andratx).

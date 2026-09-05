@@ -56,6 +56,6 @@ Trabajo con parejas de toda Europa acostumbradas a coordinar todo a distancia y 
 
 ### Zonas donde lo hago
 
-Sóller y Deià, con sus miradores y calas escondidas; la costa de Andratx y Calvià para acantilados más dramáticos; y fincas privadas del interior si preferís algo más resguardado.
+Sóller y Deià, con sus miradores y calas escondidas; la costa de [Andratx](/es/andratx) y Calvià para acantilados más dramáticos; y fincas privadas del interior si preferís algo más resguardado.
 
 Si estáis planeando un elopement en Mallorca, [escribidme por WhatsApp](https://wa.me/34623066432) con fecha aproximada y zona, y os propongo disponibilidad.

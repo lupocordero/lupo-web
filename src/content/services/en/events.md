@@ -19,7 +19,7 @@ gallery:
     alt: "Trade fair booth at an exhibition in Palma de Mallorca"
   - src: "/images/event-photographer-mallorca-06.webp"
     alt: "Guests dancing at a wedding or private evening party in Mallorca"
-areas: ["Palma", "Marratxí", "Calvià", "all of Mallorca"]
+areas: ["Palma", "Marratxí", "Calvià", "Andratx", "all of Mallorca"]
 faqs:
   - q: "What kind of events do you cover?"
     a: "Weddings, private parties (birthdays, anniversaries, communions), corporate events (product launches, conferences, company dinners, team-building) and trade fairs or exhibition booths. If your event doesn't fit neatly into one of these categories, just ask — I can very likely still help."

@@ -14,7 +14,7 @@ I'm Lupo. I live on Mallorca and my focus is **events** — weddings, private pa
 
 I mostly work with German and international couples, families and companies. I speak English, German and Spanish, I'm punctual, and I deliver fast.
 
-I work across the island, most often around Palma, Sóller, Deià and Calvià.
+I work across the island, most often around Palma, Sóller, Deià, Calvià and Andratx.
 
 ## Wedding & event photography in Mallorca
 

@@ -41,7 +41,7 @@ const locations = defineCollection({
   type: 'content',
   schema: z.object({
     ...baseSeo,
-    locationKey: z.enum(['palma', 'soller', 'deia', 'calvia']),
+    locationKey: z.enum(['palma', 'soller', 'deia', 'calvia', 'andratx']),
     subtitle: z.string(),
     heroImage: z.string(),
     heroImageAlt: z.string(),

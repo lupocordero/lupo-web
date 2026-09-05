@@ -19,7 +19,7 @@ gallery:
     alt: "Familie geht durch ein Steindorf auf Mallorca während ihrer Fotosession"
   - src: "/images/portraitfotograf-mallorca-06.webp"
     alt: "Porträt eines älteren Paares, das seinen Hochzeitstag auf Mallorca feiert"
-areas: ["Palma", "Marratxí", "Sóller", "Calvià", "ganz Mallorca"]
+areas: ["Palma", "Marratxí", "Sóller", "Calvià", "Andratx", "ganz Mallorca"]
 faqs:
   - q: "Sind die Sessions gestellt oder eher spontan?"
     a: "Mein Ansatz ist vor allem natürlich und spontan – ich bitte euch, miteinander zu interagieren (zu spielen, zu laufen, zu lachen), statt starr in die Kamera zu schauen. Bei Business-Headshots gibt es etwas mehr Anleitung, weil das Ziel ein anderes ist, aber auch dort soll das Ergebnis immer entspannt wirken, nicht erzwungen."

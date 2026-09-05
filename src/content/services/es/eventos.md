@@ -19,7 +19,7 @@ gallery:
     alt: "Stand de una feria comercial en Palma de Mallorca"
   - src: "/images/fotografo-eventos-mallorca-06.webp"
     alt: "Invitados bailando durante una boda o fiesta privada nocturna en Mallorca"
-areas: ["Palma", "Marratxí", "Calvià", "toda Mallorca"]
+areas: ["Palma", "Marratxí", "Calvià", "Andratx", "toda Mallorca"]
 faqs:
   - q: "¿Qué tipo de eventos cubres?"
     a: "Bodas, fiestas privadas (cumpleaños, aniversarios, comuniones), eventos de empresa (lanzamientos de producto, conferencias, cenas, team building) y ferias o stands comerciales. Si tu evento no encaja exactamente en estas categorías, pregúntame — seguro que puedo ayudarte."

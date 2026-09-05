@@ -50,6 +50,7 @@ export const locationSlugs = {
   soller: { es: 'soller', de: 'soller', en: 'soller' },
   deia: { es: 'deia', de: 'deia', en: 'deia' },
   calvia: { es: 'calvia', de: 'calvia', en: 'calvia' },
+  andratx: { es: 'andratx', de: 'andratx', en: 'andratx' },
 } as const;
 
 export type LocationKey = keyof typeof locationSlugs;

@@ -19,7 +19,7 @@ gallery:
     alt: "Family walking through a stone village in Mallorca during their photo session"
   - src: "/images/portrait-photographer-mallorca-06.webp"
     alt: "Portrait of an older couple celebrating their anniversary in Mallorca"
-areas: ["Palma", "Marratxí", "Sóller", "Calvià", "all of Mallorca"]
+areas: ["Palma", "Marratxí", "Sóller", "Calvià", "Andratx", "all of Mallorca"]
 faqs:
   - q: "Are the sessions posed or more spontaneous?"
     a: "My approach is mostly natural and spontaneous — I ask you to interact with each other (play, walk, laugh) rather than stare straight at the camera. Professional headshots involve a bit more direction, since the goal is different, but the aim is always a relaxed result, not a stiff one."

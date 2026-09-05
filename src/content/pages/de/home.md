@@ -14,7 +14,7 @@ Ich heiße Lupo. Ich lebe auf Mallorca und mein Schwerpunkt liegt auf **Events**
 
 Ich arbeite vor allem mit deutschen und internationalen Paaren, Familien und Unternehmen. Ich spreche Deutsch, Spanisch und Englisch, bin pünktlich und liefere schnell.
 
-Ich arbeite auf der ganzen Insel, am häufigsten in Palma, Sóller, Deià und Calvià.
+Ich arbeite auf der ganzen Insel, am häufigsten in Palma, Sóller, Deià, Calvià und Andratx.
 
 ## Hochzeits- und Eventfotografie auf Mallorca
 

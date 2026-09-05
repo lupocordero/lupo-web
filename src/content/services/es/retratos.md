@@ -19,7 +19,7 @@ gallery:
     alt: "Familia caminando por un pueblo de piedra en Mallorca durante su sesión de fotos"
   - src: "/images/fotografo-retratos-mallorca-06.webp"
     alt: "Retrato de pareja mayor celebrando su aniversario en Mallorca"
-areas: ["Palma", "Marratxí", "Sóller", "Calvià", "toda Mallorca"]
+areas: ["Palma", "Marratxí", "Sóller", "Calvià", "Andratx", "toda Mallorca"]
 faqs:
   - q: "¿Las sesiones son posadas o más espontáneas?"
     a: "Mi enfoque es principalmente natural y espontáneo — os pido que interactuéis entre vosotros (que juguéis, que caminéis, que os riáis) en lugar de mirar fijamente a cámara. Para headshots profesionales sí hay algo más de dirección, porque el objetivo es distinto, pero siempre buscando que el resultado se vea relajado, no forzado."

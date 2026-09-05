@@ -12,25 +12,66 @@ const ui = UI[lang];
 const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
 ---
 
-<!-- Formspree placeholder: replace action with your Formspree endpoint, e.g. https://formspree.io/f/yourFormId -->
-<form action={`mailto:${SITE.email}`} method="POST" enctype="text/plain" class="space-y-5">
+<!--
+  This form currently submits via a `mailto:` action: it doesn't post to any
+  server, it just asks the visitor's own mail app to open with the message
+  pre-filled — so there's no live endpoint a bot could spam today. The two
+  fields below (`_gotcha` honeypot + `data-loaded-at` timestamp) are there
+  so this is already protected the moment you plug in a real backend.
+
+  To get real, reliable delivery (and not depend on the visitor having a
+  mail client configured), swap the `action` below for a Formspree endpoint
+  (https://formspree.io/f/yourFormId — free tier includes spam filtering
+  and an optional reCAPTCHA). Formspree honors a field named `_gotcha` as
+  its own honeypot convention, which is why it's named that here — no
+  changes needed on that front when you switch.
+-->
+<form action={`mailto:${SITE.email}`} method="POST" enctype="text/plain" class="space-y-5" data-contact-form>
   <div>
     <label class="eyebrow mb-1 block" for={id('name')}>{ui.formName}</label>
-    <input id={id('name')} name="name" type="text" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+    <input id={id('name')} name="name" type="text" required autocomplete="name" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
   </div>
   <div>
     <label class="eyebrow mb-1 block" for={id('email')}>{ui.formEmail}</label>
-    <input id={id('email')} name="email" type="email" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+    <input id={id('email')} name="email" type="email" required autocomplete="email" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
   </div>
   <div>
     <label class="eyebrow mb-1 block" for={id('sessionType')}>{ui.formSessionType}</label>
-    <input id={id('sessionType')} name="sessionType" type="text" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+    <input id={id('sessionType')} name="sessionType" type="text" autocomplete="off" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
   </div>
   <div>
     <label class="eyebrow mb-1 block" for={id('message')}>{ui.formMessage}</label>
     <textarea id={id('message')} name="message" rows="4" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none"></textarea>
   </div>
+
+  <!-- Honeypot — invisible and unreachable by keyboard, so real visitors
+       never fill it. A submission that arrives with it filled in is a bot. -->
+  <div class="absolute h-0 w-0 overflow-hidden opacity-0" aria-hidden="true">
+    <label for={id('gotcha')}>Company</label>
+    <input id={id('gotcha')} name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
+  </div>
+  <input type="hidden" name="loadedAt" data-loaded-at value="" />
+
   <button type="submit" class="mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust">
     {ui.formSubmit}
   </button>
 </form>
+
+<script>
+  // Anti-spam: record when each form finished loading, and refuse to
+  // submit if the honeypot got filled in or if it was "filled out" faster
+  // than a human plausibly could (a script auto-submitting on page load).
+  document.querySelectorAll('[data-contact-form]').forEach((form) => {
+    const loadedAt = Date.now();
+    const loadedAtInput = form.querySelector('[data-loaded-at]');
+    if (loadedAtInput) loadedAtInput.value = String(loadedAt);
+
+    form.addEventListener('submit', (e) => {
+      const gotcha = form.querySelector('input[name="_gotcha"]');
+      const tooFast = Date.now() - loadedAt < 2500;
+      if ((gotcha && gotcha.value) || tooFast) {
+        e.preventDefault();
+      }
+    });
+  });
+</script>

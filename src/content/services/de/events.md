@@ -19,7 +19,7 @@ gallery:
     alt: "Messestand auf einer Fachmesse in Palma de Mallorca"
   - src: "/images/eventfotograf-mallorca-06.webp"
     alt: "Gäste tanzen bei einer Hochzeit oder privaten Party auf Mallorca am Abend"
-areas: ["Palma", "Marratxí", "Calvià", "ganz Mallorca"]
+areas: ["Palma", "Marratxí", "Calvià", "Andratx", "ganz Mallorca"]
 faqs:
   - q: "Welche Art von Events fotografierst du?"
     a: "Hochzeiten, private Partys (Geburtstage, Jubiläen, Kommunionen), Firmenevents (Produktlaunches, Konferenzen, Firmenessen, Teambuilding) und Messen oder Messestände. Passt euer Event nicht genau in diese Kategorien, fragt mich einfach – wahrscheinlich kann ich trotzdem helfen."
