@@ -98,7 +98,7 @@ const otherLangs = LANGS.filter((l) => l !== lang);
     </div>
   </div>
 
-  <nav id="mobile-menu" class="hidden flex-col gap-1 border-t border-paper/15 px-5 py-4 font-mono text-sm uppercase tracking-widest2 lg:hidden">
+  <nav id="mobile-menu" class="hidden flex-col items-end gap-1 border-t border-paper/15 px-5 py-4 text-right font-mono text-sm uppercase tracking-widest2 lg:hidden">
     <a href={serviceHref('events', lang)} class="py-2 text-paper/90">{SERVICE_META.events[lang]}</a>
     <a href={serviceHref('portraits', lang)} class="py-2 text-paper/90">{SERVICE_META.portraits[lang]}</a>
     <a href={serviceHref('elopement', lang)} class="py-2 text-paper/90">{SERVICE_META.elopement[lang]}</a>
