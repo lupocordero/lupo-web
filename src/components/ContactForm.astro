@@ -1,5 +1,5 @@
 ---
-import { SITE, UI } from '../data/site';
+import { UI } from '../data/site';
 import type { Lang } from '../data/routes';
 
 export interface Props {
@@ -13,20 +13,15 @@ const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
 ---
 
 <!--
-  This form currently submits via a `mailto:` action: it doesn't post to any
-  server, it just asks the visitor's own mail app to open with the message
-  pre-filled — so there's no live endpoint a bot could spam today. The two
-  fields below (`_gotcha` honeypot + `data-loaded-at` timestamp) are there
-  so this is already protected the moment you plug in a real backend.
-
-  To get real, reliable delivery (and not depend on the visitor having a
-  mail client configured), swap the `action` below for a Formspree endpoint
-  (https://formspree.io/f/yourFormId — free tier includes spam filtering
-  and an optional reCAPTCHA). Formspree honors a field named `_gotcha` as
-  its own honeypot convention, which is why it's named that here — no
-  changes needed on that front when you switch.
+  Submits to Formspree (https://formspree.io/f/xyeydzrp), which delivers
+  the message straight to Lupo's inbox — no mail client needed on the
+  visitor's end. reCAPTCHA is enabled on the Formspree dashboard side for
+  this form, so Formspree shows its own verification step automatically
+  on suspicious submissions; no extra markup is needed here for that.
+  The `_gotcha` honeypot + `data-loaded-at` timestamp below are an
+  additional, instant layer of spam filtering on top of that.
 -->
-<form action={`mailto:${SITE.email}`} method="POST" enctype="text/plain" class="space-y-5" data-contact-form>
+<form action="https://formspree.io/f/xyeydzrp" method="POST" class="space-y-5" data-contact-form>
   <div>
     <label class="eyebrow mb-1 block" for={id('name')}>{ui.formName}</label>
     <input id={id('name')} name="name" type="text" required autocomplete="name" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
