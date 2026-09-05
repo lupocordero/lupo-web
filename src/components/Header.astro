@@ -1,14 +1,12 @@
 ---
-import { SITE, NAV, LOCATION_META, SERVICE_META } from '../data/site';
+import { SITE, NAV, SERVICE_META } from '../data/site';
 import {
   type Lang,
   LANGS,
   serviceHref,
-  locationHref,
   pageHref,
   blogIndexHref,
   localePath,
-  LOCATION_KEYS,
 } from '../data/routes';
 
 export interface Props {
@@ -34,19 +32,6 @@ const home = localePath(lang, '');
       <a href={serviceHref('portraits', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {SERVICE_META.portraits[lang]}
       </a>
-
-      <div class="group relative">
-        <button class="border-b border-transparent pb-1 transition hover:border-ink">{nav.areas}</button>
-        <div class="invisible absolute left-0 top-full z-10 min-w-[9rem] pt-3 opacity-0 transition group-hover:visible group-hover:opacity-100">
-          <div class="border border-line bg-paper py-2 normal-case tracking-normal">
-            {LOCATION_KEYS.map((key) => (
-              <a href={locationHref(key, lang)} class="block px-4 py-1.5 text-sm hover:text-rust">
-                {LOCATION_META[key][lang]}
-              </a>
-            ))}
-          </div>
-        </div>
-      </div>
 
       <a href={serviceHref('realestate', lang)} class="border-b border-transparent pb-1 transition hover:border-ink">
         {nav.commercial}
