@@ -58,4 +58,4 @@ Ich arbeite mit Paaren aus ganz Europa, die es gewohnt sind, alles aus der Ferne
 
 [Sóller](/de/soller) und Deià mit ihren Aussichtspunkten und versteckten Buchten; die Küste von Andratx und [Calvià](/de/calvia) für dramatischere Klippen; private Fincas im Landesinneren für mehr Ruhe.
 
-Wenn ihr ein Elopement auf Mallorca plant, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit Datum und Region, und ich schlage euch Verfügbarkeit vor.
+Wenn ihr ein Elopement auf Mallorca plant, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit Datum und Region, und ich schlage euch Verfügbarkeit vor.

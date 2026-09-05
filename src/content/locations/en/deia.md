@@ -50,4 +50,4 @@ A German couple who had their elopement with a symbolic ceremony at the cemetery
 
 A travel magazine also commissioned a short shoot of one of the historic villas above the village for a feature on the area's literary history — a reminder that Deià's appeal reaches well beyond couples and weddings.
 
-If Deià sounds like the dream location for your elopement or photo session, [message me on WhatsApp](https://wa.me/34600000000) and we'll plan the best location and timing together. Many couples combine it with nearby [Sóller](/en/soller) in the same session, giving you both the mountain village and the orange-grove valley in one trip.
+If Deià sounds like the dream location for your elopement or photo session, [message me on WhatsApp](https://wa.me/34623066432) and we'll plan the best location and timing together. Many couples combine it with nearby [Sóller](/en/soller) in the same session, giving you both the mountain village and the orange-grove valley in one trip.

@@ -56,4 +56,4 @@ Beaches in **Palma** and **Calvià**, the rural surroundings of **Marratxí**, a
 
 If you're weighing a portrait session against something smaller, an [elopement session](/en/elopement) is worth a look too.
 
-If you'd like to book, [message me on WhatsApp](https://wa.me/34600000000) with the type of session, number of people, and your available dates.
+If you'd like to book, [message me on WhatsApp](https://wa.me/34623066432) with the type of session, number of people, and your available dates.

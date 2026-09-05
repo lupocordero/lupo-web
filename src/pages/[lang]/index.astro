@@ -14,7 +14,7 @@ import {
   locationHref,
   localePath,
 } from '../../data/routes';
-import { SITE, UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS } from '../../data/site';
+import { SITE, UI, SERVICE_META, LOCATION_META, HOME_SERVICE_BLURBS, whatsappHref } from '../../data/site';
 import { localBusinessSchema } from '../../data/schema';
 
 export async function getStaticPaths() {
@@ -35,7 +35,6 @@ const serviceImage = (key: string) => services.find((s) => s.data.serviceKey ===
 
 const coreServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'core');
 const secondaryServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'secondary');
-const commercialServices = SERVICE_KEYS.filter((k) => SERVICE_TIER[k] === 'commercial');
 
 const marqueeItems: Record<Lang, string[]> = {
   es: ['Elopement', 'Retratos', 'Mallorca', 'Sóller', 'Deià', 'Luz natural'],
@@ -76,9 +75,14 @@ const path = localePath(lang, '');
       <p class="eyebrow mb-4 text-paper/60">{SITE.serviceArea}</p>
       <h1 class="max-w-4xl font-sans text-display-1 font-bold text-paper">{entry.data.h1}</h1>
       <p class="mt-6 max-w-xl text-lg text-paper/70">{entry.data.subtitle}</p>
-      <a href={SITE.whatsappLink} target="_blank" rel="noopener noreferrer" class="link-arrow mt-8 w-fit text-lg !border-paper text-paper hover:!border-rust hover:text-rust">
-        {ui.ctaButton} →
-      </a>
+      <div class="mt-8 flex flex-wrap items-center gap-x-8 gap-y-3">
+        <a href={whatsappHref(lang)} target="_blank" rel="noopener noreferrer" class="link-arrow w-fit text-lg !border-paper text-paper hover:!border-rust hover:text-rust">
+          {ui.ctaButton} →
+        </a>
+        <button type="button" data-open-contact-modal class="link-arrow w-fit text-lg !border-paper/50 text-paper/80 hover:!border-rust hover:text-rust">
+          {ui.checkAvailability} →
+        </button>
+      </div>
     </div>
   </section>
 
@@ -91,7 +95,7 @@ const path = localePath(lang, '');
   </section>
 
   <section class="mx-auto max-w-5xl px-5 py-16 md:px-8 md:py-24">
-    <p class="eyebrow mb-8">{ui.servicesHeading}</p>
+    <h2 class="eyebrow mb-8">{ui.servicesHeading}</h2>
     <div>
       {coreServices.map((key, i) => (
         <ServiceCard
@@ -121,24 +125,6 @@ const path = localePath(lang, '');
       </div>
     )}
   </section>
-
-  {commercialServices.length > 0 && (
-    <section class="border-y border-line bg-ink py-16 text-paper md:py-24" data-reveal>
-      <div class="mx-auto max-w-5xl px-5 md:px-8">
-        <p class="eyebrow mb-8 text-paper/50">{ui.commercialHeading}</p>
-        {commercialServices.map((key) => (
-          <ServiceCard
-            serviceKey={key}
-            lang={lang}
-            dark
-            blurb={HOME_SERVICE_BLURBS[key][lang]}
-            image={serviceImage(key)?.data.heroImage}
-            imageAlt={serviceImage(key)?.data.heroImageAlt}
-          />
-        ))}
-      </div>
-    </section>
-  )}
 
   <section class="mx-auto max-w-5xl px-5 py-16 md:px-8 md:py-24" data-reveal>
     <p class="eyebrow mb-8">{ui.areasWeWork}</p>

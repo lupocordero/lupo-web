@@ -40,4 +40,4 @@ Da viele der besten Orte einen Fußweg über Steinpfade oder steile Abstiege erf
 
 Ein deutsches Paar, das sein Elopement mit symbolischer Zeremonie am Aussichtspunkt neben dem Friedhof feierte, gefolgt von einem Paarshooting auf dem Weg zur Bucht. Eine kleine Hochzeit mit 15 Gästen auf einer Finca am Berg, mit dem Paarshooting bei Sonnenuntergang über dem Dorf. Eine Jubiläumssession eines Paares, das vor zwanzig Jahren geheiratet hatte und die Fotos im selben Dorf wiederholen wollte, in dem es damals die Flitterwochen verbracht hatte.
 
-Ist Deià euer Traumziel für ein Elopement oder eine Fotosession, [schreib mir auf WhatsApp](https://wa.me/34600000000) und wir planen gemeinsam den besten Ort und die beste Uhrzeit. Auch [Sóller](/de/soller), nur wenige Minuten entfernt, ist einen Blick wert.
+Ist Deià euer Traumziel für ein Elopement oder eine Fotosession, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir planen gemeinsam den besten Ort und die beste Uhrzeit. Auch [Sóller](/de/soller), nur wenige Minuten entfernt, ist einen Blick wert.

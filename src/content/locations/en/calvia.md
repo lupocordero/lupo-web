@@ -50,4 +50,4 @@ A 40-guest wedding at a private villa in Bendinat with a ceremony facing the sea
 
 A corporate incentive group from Scandinavia also booked coverage of a two-day event at a hotel in Puerto Portals, combining a formal dinner with a more relaxed sailing afternoon, delivered as two separate quick-turnaround selections so their team had content for both days.
 
-If you have a wedding, event or property in the Calvià area, [message me on WhatsApp](https://wa.me/34600000000) and we'll sort out the details. For couples weighing up a smaller ceremony instead of a full wedding, my [elopement](/en/elopement) page covers what that looks like at the more intimate end of the scale.
+If you have a wedding, event or property in the Calvià area, [message me on WhatsApp](https://wa.me/34623066432) and we'll sort out the details. For couples weighing up a smaller ceremony instead of a full wedding, my [elopement](/en/elopement) page covers what that looks like at the more intimate end of the scale.

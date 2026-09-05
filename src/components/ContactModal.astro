@@ -1,0 +1,28 @@
+---
+import ContactForm from './ContactForm.astro';
+import { UI } from '../data/site';
+import type { Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const ui = UI[lang];
+---
+
+<dialog id="contact-modal" class="m-auto w-[min(92vw,32rem)] rounded-none border border-line bg-paper p-0 backdrop:bg-ink/60">
+  <div class="relative p-6 md:p-8">
+    <button
+      type="button"
+      data-close-contact-modal
+      aria-label={ui.modalClose}
+      class="absolute right-4 top-4 font-mono text-xs uppercase tracking-widest2 text-ink/50 hover:text-rust"
+    >
+      {ui.modalClose} ✕
+    </button>
+    <p class="eyebrow mb-2 pr-16">{ui.checkAvailability}</p>
+    <p class="mb-6 text-sm text-ink/60">{ui.modalBody}</p>
+    <ContactForm lang={lang} idPrefix="modal" />
+  </div>
+</dialog>

@@ -52,4 +52,4 @@ La puntualidad es innegociable en un evento. Mi experiencia con clientes alemane
 
 Hoteles y villas en Palma, Marratxí y Calvià, y fincas o localizaciones en el interior o la costa oeste si tu evento lo requiere.
 
-Si tienes un evento en el calendario, [escríbeme por WhatsApp](https://wa.me/34600000000) con fecha, tipo y duración aproximada.
+Si tienes un evento en el calendario, [escríbeme por WhatsApp](https://wa.me/34623066432) con fecha, tipo y duración aproximada.

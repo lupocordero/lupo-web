@@ -69,4 +69,4 @@ For more ideas on what to bring on the day, I have a full guide: [what to bring 
 
 ## Book your family photo session in Mallorca
 
-Each of these locations has its own character, and the right one for you depends on the age of the kids, the time of year, and the mood you're after. If you'd like help choosing the perfect spot for your family, [message me on WhatsApp](https://wa.me/34600000000) with your dates and the kind of atmosphere you're picturing, and I'll suggest the best options.
+Each of these locations has its own character, and the right one for you depends on the age of the kids, the time of year, and the mood you're after. If you'd like help choosing the perfect spot for your family, [message me on WhatsApp](https://wa.me/34623066432) with your dates and the kind of atmosphere you're picturing, and I'll suggest the best options.

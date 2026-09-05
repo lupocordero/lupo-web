@@ -1,6 +1,6 @@
 ---
 lang: es
-pageSlug: "elopeamiento"
+pageSlug: "elopement"
 serviceKey: elopement
 seoTitle: "Fotógrafo de Elopement en Mallorca | Sesiones Íntimas de Pareja"
 metaDescription: "Fotógrafo de elopement en Mallorca especializado en sesiones íntimas de pareja en Sóller, Deià y toda la Sierra de Tramuntana. Puntual, discreto y con entrega rápida."
@@ -58,4 +58,4 @@ Trabajo con parejas de toda Europa acostumbradas a coordinar todo a distancia y 
 
 Sóller y Deià, con sus miradores y calas escondidas; la costa de Andratx y Calvià para acantilados más dramáticos; y fincas privadas del interior si preferís algo más resguardado.
 
-Si estáis planeando un elopement en Mallorca, [escribidme por WhatsApp](https://wa.me/34600000000) con fecha aproximada y zona, y os propongo disponibilidad.
+Si estáis planeando un elopement en Mallorca, [escribidme por WhatsApp](https://wa.me/34623066432) con fecha aproximada y zona, y os propongo disponibilidad.

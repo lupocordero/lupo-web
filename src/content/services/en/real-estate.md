@@ -56,4 +56,4 @@ I work with agencies, holiday-rental managers, and German and international owne
 
 Luxury villas in **Calvià** and **Andratx**, country estates near **Sóller**, and apartments and penthouses in **Palma**.
 
-If you have a property to photograph, [message me on WhatsApp](https://wa.me/34600000000) with the approximate address, property type and goal of the listing.
+If you have a property to photograph, [message me on WhatsApp](https://wa.me/34623066432) with the approximate address, property type and goal of the listing.

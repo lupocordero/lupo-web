@@ -45,4 +45,4 @@ Revisad la previsión del tiempo y tened un plan B en mente (yo también suelo t
 
 Las mejores sesiones de familia son las que se sienten como un buen rato juntos, no como una obligación. Mi trabajo es capturar esos momentos mientras ocurren — cuanto más relajados y presentes estéis, mejor será el resultado.
 
-Si tienes más dudas sobre cómo preparar tu sesión, o quieres reservar fecha, [escríbeme por WhatsApp](https://wa.me/34600000000) y te ayudo con todo lo que necesites, incluyendo recomendaciones de ubicación en la página de [mejores lugares para fotos de familia en Mallorca](/es/blog/mejores-lugares-fotos-familia-mallorca).
+Si tienes más dudas sobre cómo preparar tu sesión, o quieres reservar fecha, [escríbeme por WhatsApp](https://wa.me/34623066432) y te ayudo con todo lo que necesites, incluyendo recomendaciones de ubicación en la página de [mejores lugares para fotos de familia en Mallorca](/es/blog/mejores-lugares-fotos-familia-mallorca).

@@ -1,0 +1,36 @@
+---
+import { SITE, UI } from '../data/site';
+import type { Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+  idPrefix?: string;
+}
+
+const { lang, idPrefix = '' } = Astro.props;
+const ui = UI[lang];
+const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
+---
+
+<!-- Formspree placeholder: replace action with your Formspree endpoint, e.g. https://formspree.io/f/yourFormId -->
+<form action={`mailto:${SITE.email}`} method="POST" enctype="text/plain" class="space-y-5">
+  <div>
+    <label class="eyebrow mb-1 block" for={id('name')}>{ui.formName}</label>
+    <input id={id('name')} name="name" type="text" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+  </div>
+  <div>
+    <label class="eyebrow mb-1 block" for={id('email')}>{ui.formEmail}</label>
+    <input id={id('email')} name="email" type="email" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+  </div>
+  <div>
+    <label class="eyebrow mb-1 block" for={id('sessionType')}>{ui.formSessionType}</label>
+    <input id={id('sessionType')} name="sessionType" type="text" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
+  </div>
+  <div>
+    <label class="eyebrow mb-1 block" for={id('message')}>{ui.formMessage}</label>
+    <textarea id={id('message')} name="message" rows="4" required class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none"></textarea>
+  </div>
+  <button type="submit" class="mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust">
+    {ui.formSubmit}
+  </button>
+</form>

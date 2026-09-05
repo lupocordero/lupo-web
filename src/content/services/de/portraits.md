@@ -54,4 +54,4 @@ Ich arbeite mit vielen deutschen und internationalen Familien im Urlaub, die akt
 
 Strände in [Palma](/de/palma) und [Calvià](/de/calvia), die ländliche Umgebung von Marratxí, und die Steindörfer rund um [Sóller](/de/soller). Für Business-Headshots komme ich zu Büros auf der ganzen Insel.
 
-Möchtet ihr buchen, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit Art der Session, Personenzahl und Terminen. Für etwas Intimeres lohnt sich auch ein [Elopement](/de/elopement).
+Möchtet ihr buchen, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit Art der Session, Personenzahl und Terminen. Für etwas Intimeres lohnt sich auch ein [Elopement](/de/elopement).

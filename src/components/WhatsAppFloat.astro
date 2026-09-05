@@ -1,0 +1,22 @@
+---
+import { whatsappHref } from '../data/site';
+import type { Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+---
+
+<a
+  href={whatsappHref(lang)}
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="WhatsApp"
+  class="fixed bottom-5 right-5 z-30 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-paper shadow-lg transition hover:scale-105 md:bottom-8 md:right-8"
+>
+  <svg viewBox="0 0 32 32" width="28" height="28" fill="currentColor" aria-hidden="true">
+    <path d="M16.001 3C9.14 3 3.6 8.54 3.6 15.4c0 2.53.75 4.9 2.05 6.87L4 29l6.94-1.62a12.7 12.7 0 0 0 5.06 1.03h.01c6.86 0 12.4-5.54 12.4-12.4C28.41 8.54 22.87 3 16.001 3zm7.28 17.51c-.31.87-1.8 1.62-2.48 1.72-.63.1-1.44.14-2.32-.15-.53-.17-1.21-.4-2.08-.78-3.66-1.58-6.05-5.26-6.24-5.51-.18-.25-1.5-1.99-1.5-3.79 0-1.8.94-2.68 1.28-3.05.34-.37.74-.46.99-.46.25 0 .5 0 .72.01.23.01.54-.09.85.65.31.75 1.06 2.6 1.15 2.79.09.19.16.41.03.65-.13.24-.2.39-.4.6-.2.21-.42.47-.6.63-.2.19-.41.4-.18.79.24.4 1.06 1.75 2.27 2.83 1.56 1.4 2.87 1.83 3.28 2.03.31.16.5.13.68-.06.23-.24.51-.63.79-1.01.2-.27.45-.31.75-.19.31.11 1.96.92 2.3 1.09.34.17.56.25.65.4.1.15.1.85-.21 1.72z"/>
+  </svg>
+</a>

@@ -56,4 +56,4 @@ Ich arbeite mit Maklern, Ferienvermietungs-Managern und deutschen sowie internat
 
 Luxusvillen in [Calvià](/de/calvia) und Andratx, Fincas nahe [Sóller](/de/soller), und Wohnungen und Penthouses in [Palma](/de/palma).
 
-Habt ihr eine Immobilie zum Fotografieren, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit ungefährer Adresse, Art der Immobilie und Ziel des Inserats.
+Habt ihr eine Immobilie zum Fotografieren, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit ungefährer Adresse, Art der Immobilie und Ziel des Inserats.

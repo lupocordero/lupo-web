@@ -13,7 +13,7 @@ relatedServiceKeys: ["elopement"]
 relatedLocationKeys: ["soller", "deia"]
 ---
 
-Sóller y Deià son, sin duda, la combinación más pedida para elopements en Mallorca, y con razón: en menos de 15 minutos en coche podéis pasar de un valle de naranjos a un pueblo de piedra colgado sobre el mar. Después de acompañar a muchas parejas como [fotógrafo de elopement en Mallorca](/es/elopeamiento) por esta zona, aquí tienes una guía completa para planificar el vuestro.
+Sóller y Deià son, sin duda, la combinación más pedida para elopements en Mallorca, y con razón: en menos de 15 minutos en coche podéis pasar de un valle de naranjos a un pueblo de piedra colgado sobre el mar. Después de acompañar a muchas parejas como [fotógrafo de elopement en Mallorca](/es/elopement) por esta zona, aquí tienes una guía completa para planificar el vuestro.
 
 ## Por qué elegir Sóller y Deià para un elopement
 
@@ -59,4 +59,4 @@ Calzado cómodo es imprescindible — varias de las mejores ubicaciones de Deià
 
 Normalmente empezamos con una llamada o intercambio de mensajes para entender qué ambiente buscáis — más íntimo y de montaña, o con el mar como protagonista — y a partir de ahí os propongo un itinerario con 2-3 ubicaciones que combinen bien entre sí sin desplazamientos largos. El día de la sesión, nos movemos con calma, dejando tiempo para que disfrutéis cada momento sin sentir prisa por la cámara.
 
-Si Sóller o Deià suenan como el lugar perfecto para vuestro elopement, [escríbeme por WhatsApp](https://wa.me/34600000000) contándome la fecha aproximada y el ambiente que buscáis, y empezamos a planificar.
+Si Sóller o Deià suenan como el lugar perfecto para vuestro elopement, [escríbeme por WhatsApp](https://wa.me/34623066432) contándome la fecha aproximada y el ambiente que buscáis, y empezamos a planificar.

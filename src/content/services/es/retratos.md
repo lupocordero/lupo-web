@@ -54,4 +54,4 @@ Trabajo con muchas familias alemanas e internacionales de vacaciones que quieren
 
 Playas de Palma y Calvià, el entorno rural de Marratxí, y los pueblos de piedra de Sóller. Para headshots corporativos, me desplazo a oficinas en toda la isla.
 
-Si quieres reservar una sesión, [escríbeme por WhatsApp](https://wa.me/34600000000) con el tipo de sesión, personas y fechas.
+Si quieres reservar una sesión, [escríbeme por WhatsApp](https://wa.me/34623066432) con el tipo de sesión, personas y fechas.

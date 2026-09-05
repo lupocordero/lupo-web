@@ -1,5 +1,5 @@
 ---
-import { SITE, UI } from '../data/site';
+import { UI, whatsappHref } from '../data/site';
 import type { Lang } from '../data/routes';
 
 export interface Props {
@@ -16,12 +16,12 @@ const ui = UI[lang];
 <div class={`border-t border-line text-center ${compact ? 'py-10' : 'py-16'}`} data-reveal>
   <h2 class={`font-sans font-bold tracking-tightest ${compact ? 'text-3xl' : 'text-display-2'}`}>{heading ?? ui.ctaHeading}</h2>
   <p class="mx-auto mt-4 max-w-md text-ink/60">{body ?? ui.ctaBody}</p>
-  <a
-    href={SITE.whatsappLink}
-    target="_blank"
-    rel="noopener noreferrer"
-    class="link-arrow mt-8 text-lg"
-  >
-    {ui.ctaButton} →
-  </a>
+  <div class="mt-8 flex flex-wrap items-center justify-center gap-x-8 gap-y-3">
+    <a href={whatsappHref(lang)} target="_blank" rel="noopener noreferrer" class="link-arrow text-lg">
+      {ui.ctaButton} →
+    </a>
+    <button type="button" data-open-contact-modal class="link-arrow text-lg !border-ink/30 text-ink/70">
+      {ui.checkAvailability} →
+    </button>
+  </div>
 </div>

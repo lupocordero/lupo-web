@@ -40,4 +40,4 @@ Muchas de las propiedades y venues de esta zona son privados, con normas de acce
 
 Una boda de 40 invitados en una villa privada de Bendinat con ceremonia frente al mar y sesión de pareja al atardecer sobre la piscina infinita. Un reportaje de real estate completo (interior, exterior y dron) de una villa en Port Andratx para una agencia inmobiliaria alemana, entregado en 48 horas antes de un fin de semana de visitas. Una sesión familiar de una familia inglesa en la playa de Santa Ponça durante sus vacaciones de verano.
 
-Si tienes una boda, evento o propiedad en la zona de Calvià, [escríbeme por WhatsApp](https://wa.me/34600000000) y coordinamos los detalles.
+Si tienes una boda, evento o propiedad en la zona de Calvià, [escríbeme por WhatsApp](https://wa.me/34623066432) y coordinamos los detalles.

@@ -56,4 +56,4 @@ Trabajo con agencias, gestores de alquiler vacacional y propietarios alemanes e 
 
 Villas de lujo en Calvià y Andratx, fincas cerca de Sóller, y apartamentos y áticos en Palma.
 
-Si tienes una propiedad para fotografiar, [escríbeme por WhatsApp](https://wa.me/34600000000) con dirección aproximada, tipo de propiedad y objetivo del anuncio.
+Si tienes una propiedad para fotografiar, [escríbeme por WhatsApp](https://wa.me/34623066432) con dirección aproximada, tipo de propiedad y objetivo del anuncio.

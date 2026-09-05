@@ -59,4 +59,4 @@ Si quieres más ideas sobre qué llevar el día de la sesión, tengo una guía c
 
 ## Reserva tu sesión de fotos de familia en Mallorca
 
-Cada una de estas ubicaciones tiene su propio carácter, y la mejor para vosotros depende de la edad de los niños, la época del año y el estilo que busquéis. Si quieres que te ayude a elegir la ubicación perfecta para vuestra familia, [escríbeme por WhatsApp](https://wa.me/34600000000) contándome fechas y qué tipo de ambiente os gustaría, y te propongo las mejores opciones.
+Cada una de estas ubicaciones tiene su propio carácter, y la mejor para vosotros depende de la edad de los niños, la época del año y el estilo que busquéis. Si quieres que te ayude a elegir la ubicación perfecta para vuestra familia, [escríbeme por WhatsApp](https://wa.me/34623066432) contándome fechas y qué tipo de ambiente os gustaría, y te propongo las mejores opciones.

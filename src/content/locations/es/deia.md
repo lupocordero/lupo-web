@@ -40,4 +40,4 @@ Dado que muchas de las mejores ubicaciones requieren caminar por senderos de pie
 
 Una pareja alemana que hizo su elopement con ceremonia simbólica junto al mirador del cementerio, seguido de una sesión de pareja bajando hacia la cala. Una boda pequeña de 15 invitados en una finca sobre la montaña, con la sesión de pareja al atardecer sobre el pueblo. Una sesión de aniversario de una pareja que se casó hace veinte años y quería repetir fotos en el mismo pueblo donde pasaron su luna de miel.
 
-Si Deià es tu destino soñado para un elopement o una sesión de fotos, [escríbeme por WhatsApp](https://wa.me/34600000000) y planificamos juntos la mejor ubicación y horario.
+Si Deià es tu destino soñado para un elopement o una sesión de fotos, [escríbeme por WhatsApp](https://wa.me/34623066432) y planificamos juntos la mejor ubicación y horario.

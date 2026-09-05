@@ -40,4 +40,4 @@ Viele der Anwesen und Locations dieser Gegend sind privat und haben eigene Zugan
 
 Eine Hochzeit mit 40 Gästen auf einer privaten Villa in Bendinat, mit Zeremonie direkt am Meer und Paarshooting bei Sonnenuntergang über dem Infinity-Pool. Eine vollständige Immobilienreportage (Innen, Außen und Drohne) einer Villa in Port Andratx für eine deutsche Immobilienagentur, geliefert innerhalb von 48 Stunden vor einem Besichtigungswochenende. Eine Familiensession einer englischen Familie am Strand von Santa Ponça während ihres Sommerurlaubs.
 
-Habt ihr eine Hochzeit, ein Event oder eine Immobilie in der Gegend von Calvià, [schreib mir auf WhatsApp](https://wa.me/34600000000) und wir besprechen die Details. Ist eure Feier eher intim, schaut auch bei meinem [Elopement-Service](/de/elopement) vorbei.
+Habt ihr eine Hochzeit, ein Event oder eine Immobilie in der Gegend von Calvià, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen die Details. Ist eure Feier eher intim, schaut auch bei meinem [Elopement-Service](/de/elopement) vorbei.

@@ -52,4 +52,4 @@ Pünktlichkeit ist bei einem Event nicht verhandelbar. Meine Erfahrung mit deuts
 
 Hotels und Villen in [Palma](/de/palma), Marratxí und [Calvià](/de/calvia), und Fincas oder Locations im Landesinneren oder an der Westküste bei Bedarf.
 
-Steht euer Event im Kalender, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit Datum, Art und ungefährer Dauer. Für familiäre Anlässe lohnt sich auch ein Blick auf [Porträt-Sessions](/de/portraits).
+Steht euer Event im Kalender, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit Datum, Art und ungefährer Dauer. Für familiäre Anlässe lohnt sich auch ein Blick auf [Porträt-Sessions](/de/portraits).

@@ -40,4 +40,4 @@ Da ich diese Gegend häufig besuche, kenne ich genau, welche Wege zu welcher Uhr
 
 Ein deutsches Paar, das auf einer Finca am Ortsrand mit einer Zeremonie für 20 Gäste zwischen Orangenbäumen heiratete, gefolgt von einem Paarshooting im Hafen bei Sonnenuntergang. Eine Familie, die ihre Urlaubswoche für eine Portrait-Session vom Platz bis zur Straßenbahn nutzte. Ein Elopement eines englischen Paares mit symbolischer Zeremonie bei Sonnenaufgang an einem Aussichtspunkt über dem Tal, bevor die ersten Touristen des Tages eintrafen.
 
-Denkt ihr an Sóller für euer Elopement, eure Hochzeit oder Familiensession, [schreib mir auf WhatsApp](https://wa.me/34600000000) und ich schlage euch die besten Orte je nach Datum und Licht der Jahreszeit vor. Auch das nahegelegene [Deià](/de/deia) lohnt einen Blick.
+Denkt ihr an Sóller für euer Elopement, eure Hochzeit oder Familiensession, [schreib mir auf WhatsApp](https://wa.me/34623066432) und ich schlage euch die besten Orte je nach Datum und Licht der Jahreszeit vor. Auch das nahegelegene [Deià](/de/deia) lohnt einen Blick.

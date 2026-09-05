@@ -1,5 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "/es", "permanent": false }
+    { "source": "/", "destination": "/es", "permanent": false },
+    { "source": "/es/elopeamiento", "destination": "/es/elopement", "permanent": true }
   ]
 }

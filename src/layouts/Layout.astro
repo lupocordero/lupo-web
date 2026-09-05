@@ -2,6 +2,8 @@
 import SEOHead from '../components/SEOHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import ContactModal from '../components/ContactModal.astro';
+import WhatsAppFloat from '../components/WhatsAppFloat.astro';
 import '@fontsource/space-grotesk/400.css';
 import '@fontsource/space-grotesk/500.css';
 import '@fontsource/space-grotesk/600.css';
@@ -45,6 +47,9 @@ const { lang, title, description, path, alternates, ogImage, jsonLd, noindex } =
       <slot />
     </main>
     <Footer lang={lang} />
+    <ContactModal lang={lang} />
+    <WhatsAppFloat lang={lang} />
     <script src="../scripts/motion.js"></script>
+    <script src="../scripts/modal.js"></script>
   </body>
 </html>

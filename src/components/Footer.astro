@@ -1,5 +1,5 @@
 ---
-import { SITE, NAV, SERVICE_META, LOCATION_META } from '../data/site';
+import { SITE, NAV, SERVICE_META, LOCATION_META, whatsappHref } from '../data/site';
 import { type Lang, SERVICE_KEYS, LOCATION_KEYS, serviceHref, locationHref, pageHref, blogIndexHref } from '../data/routes';
 
 export interface Props {
@@ -22,7 +22,7 @@ const year = new Date().getFullYear();
       <div>
         <p class="eyebrow mb-4 text-paper/40">Contact</p>
         <div class="flex flex-col gap-2 text-sm">
-          <a href={SITE.whatsappLink} class="link-arrow w-fit !border-paper hover:!border-rust">WhatsApp</a>
+          <a href={whatsappHref(lang)} target="_blank" rel="noopener noreferrer" class="link-arrow w-fit !border-paper hover:!border-rust">WhatsApp</a>
           <a href={`mailto:${SITE.email}`} class="text-paper/70 hover:text-rust">{SITE.email}</a>
           <a href={SITE.instagramUrl} class="text-paper/70 hover:text-rust">{SITE.instagram}</a>
         </div>

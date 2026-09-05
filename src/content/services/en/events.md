@@ -52,4 +52,4 @@ Punctuality is non-negotiable at an event. My experience with German and interna
 
 Hotels and villas in **Palma**, **Marratxí** and **Calvià**, and estates or locations further inland or along the west coast if your event calls for it.
 
-If you've got an event on the calendar, [message me on WhatsApp](https://wa.me/34600000000) with the date, type and roughly how long you need coverage for. For family occasions, a [portrait session](/en/portraits) is also worth a look.
+If you've got an event on the calendar, [message me on WhatsApp](https://wa.me/34623066432) with the date, type and roughly how long you need coverage for. For family occasions, a [portrait session](/en/portraits) is also worth a look.

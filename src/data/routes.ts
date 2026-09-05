@@ -23,7 +23,7 @@ export const LOCALE_TAGS: Record<Lang, string> = {
 // because a portrait/elopement couple got married, food because it was
 // on the table at an event) without their own page or explicit marketing.
 export const serviceSlugs = {
-  elopement: { es: 'elopeamiento', de: 'elopement', en: 'elopement' },
+  elopement: { es: 'elopement', de: 'elopement', en: 'elopement' },
   portraits: { es: 'retratos', de: 'portraits', en: 'portraits' },
   events: { es: 'eventos', de: 'events', en: 'events' },
   realestate: { es: 'real-estate', de: 'immobilien', en: 'real-estate' },

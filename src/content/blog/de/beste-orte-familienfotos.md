@@ -59,4 +59,4 @@ Wollt ihr mehr Ideen dazu, was ihr zur Session mitbringen solltet, habe ich dazu
 
 ## Bucht eure Familienfotosession auf Mallorca
 
-Jeder dieser Orte hat seinen eigenen Charakter, und der beste für euch hängt vom Alter der Kinder, der Jahreszeit und dem gewünschten Stil ab. Möchtet ihr Hilfe bei der Wahl des perfekten Ortes für eure Familie, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit euren Terminwünschen und der gewünschten Atmosphäre, und ich schlage euch die besten Optionen vor. Auf der [Startseite](/de) findet ihr außerdem einen Überblick über alle meine Services.
+Jeder dieser Orte hat seinen eigenen Charakter, und der beste für euch hängt vom Alter der Kinder, der Jahreszeit und dem gewünschten Stil ab. Möchtet ihr Hilfe bei der Wahl des perfekten Ortes für eure Familie, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit euren Terminwünschen und der gewünschten Atmosphäre, und ich schlage euch die besten Optionen vor. Auf der [Startseite](/de) findet ihr außerdem einen Überblick über alle meine Services.
