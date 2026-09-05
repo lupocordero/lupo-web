@@ -37,29 +37,25 @@ faqs:
     a: "Recibiréis una primera selección editada en 3-5 días para que podáis compartir el momento cuanto antes, y el reportaje completo en un plazo de 1-2 semanas."
 ---
 
-Un elopement en Mallorca es, sencillamente, la forma más honesta de casarse o de celebrar vuestro compromiso: sin la presión de organizar un evento para cien personas, sin protocolo, sin el estrés de una boda tradicional. Solo vosotros dos, un paisaje espectacular y el tiempo para vivir el momento de verdad. Como **fotógrafo de elopement en Mallorca**, me especializo exactamente en esto — sesiones y ceremonias íntimas donde la prioridad es capturar lo que realmente sentís, no dirigir una producción.
+Un elopement en Mallorca es la forma más honesta de casaros o celebrar vuestro compromiso: sin protocolo, sin cien invitados, solo vosotros dos y el paisaje. Como **fotógrafo de elopement en Mallorca**, me especializo en eso — capturar lo que sentís, no dirigir una producción.
 
 ### Qué incluye el servicio
 
-Cada elopement incluye una consulta previa por videollamada o WhatsApp para definir ubicación, horario y estilo; cobertura fotográfica de entre 1 y 4 horas según el paquete elegido; recomendaciones de ubicaciones según la luz y la temporada; acompañamiento durante toda la sesión (no solo apretar el botón — te ayudo con la logística, el timing con la luz, y a estar cómodos delante de la cámara); y edición completa con una selección rápida de adelanto.
+Consulta previa por videollamada o WhatsApp, cobertura de 1 a 4 horas según el paquete, recomendación de ubicaciones según luz y temporada, acompañamiento durante toda la sesión, y edición completa con adelanto rápido. Si incluye ceremonia simbólica o legal, coordino oficiantes, floristas o catering ligero.
 
-Si tu elopement incluye una ceremonia simbólica o legal, puedo coordinarme con oficiantes locales, floristas o proveedores de picnic/pequeña celebración que trabajan en la isla, para que solo tengas que preocuparte de disfrutar el día.
+### Cómo es una sesión típica
 
-### Cómo es una sesión típica, paso a paso
-
-La mayoría de elopements en Mallorca siguen una estructura similar, adaptada a cada pareja:
-
-1. **Llegada y primeras fotos.** Empezamos con calma, dejando que os acostumbréis a la cámara — normalmente las primeras fotos son las que más nervios generan y las que menos me interesan como resultado final, así que no tengas prisa en esta parte.
-2. **Ceremonia o momento principal.** Ya sea una ceremonia simbólica, votos privados o simplemente un brindis, este es el corazón emocional de la sesión y donde me centro en capturar reacciones reales, no posadas.
-3. **Sesión de pareja.** Aprovechamos el paisaje — caminamos, exploramos, buscamos la mejor luz. Aquí es donde salen las fotos más naturales: os pido que interactuéis entre vosotros, no con la cámara.
-4. **Cierre con luz dorada.** Si el horario lo permite, terminamos con la última hora de luz, la más favorecedora de todo el día en Mallorca.
+1. **Llegada y primeras fotos.** Empezamos con calma, sin prisa.
+2. **Ceremonia o momento principal.** El corazón emocional de la sesión — reacciones reales, no posadas.
+3. **Sesión de pareja.** Caminamos, exploramos, buscamos la mejor luz.
+4. **Cierre con luz dorada.** La última hora de luz, la más bonita del día.
 
 ### Por qué elegirme
 
-Trabajo con parejas alemanas, inglesas, españolas y de otros países que viajan expresamente a Mallorca para su elopement, así que estoy acostumbrado a coordinar todo a distancia, en varios idiomas, sin sorpresas. Llego puntual, no hago esperar a nadie con el sol cayendo, y entrego las fotos rápido — sé que después de un elopement quieres compartir el momento con tu familia y amigos cuanto antes, no esperar un mes.
+Trabajo con parejas de toda Europa acostumbradas a coordinar todo a distancia y en varios idiomas. Llego puntual y entrego rápido — sé que queréis compartir el momento cuanto antes.
 
 ### Zonas donde lo hago
 
-Trabajo elopements en toda la Sierra de Tramuntana — especialmente **Sóller** y **Deià**, con sus miradores, terrazas de piedra y calas escondidas —, en la costa de **Andratx** y **Calvià** para quienes prefieren acantilados más dramáticos, y en fincas privadas del interior de la isla si preferís algo más resguardado. Si tenéis una ubicación concreta en mente que no está en esta lista, dímelo — seguramente la conozco o puedo ir a verla antes.
+Sóller y Deià, con sus miradores y calas escondidas; la costa de Andratx y Calvià para acantilados más dramáticos; y fincas privadas del interior si preferís algo más resguardado.
 
-Si estáis planeando un elopement en Mallorca, [escribidme por WhatsApp](https://wa.me/34600000000) contándome fecha aproximada y la zona que os interesa, y os propongo disponibilidad y las mejores opciones de horario según la luz de esa época del año.
+Si estáis planeando un elopement en Mallorca, [escribidme por WhatsApp](https://wa.me/34600000000) con fecha aproximada y zona, y os propongo disponibilidad.

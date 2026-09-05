@@ -37,35 +37,25 @@ faqs:
     a: "You'll get a first edited selection within 3-5 days so you can share the moment right away, with the full gallery delivered within 1-2 weeks."
 ---
 
-An elopement in Mallorca is, quite simply, the most honest way to get married or celebrate your commitment: no pressure of organizing an event for a hundred guests, no fixed protocol, none of the stress of a traditional wedding. Just the two of you, a spectacular landscape, and the time to actually live the moment. As an **elopement photographer in Mallorca**, this is exactly what I specialize in — intimate sessions and ceremonies where the priority is capturing what you're really feeling, not directing a production.
-
-More and more couples are choosing this route over a conventional wedding, and it's easy to see why once you've seen the island's coastline, mountains and old stone villages up close. An elopement also gives you room to actually be present — no seating charts, no toast schedule to manage, no relatives to keep happy. It's just as valid a way to celebrate a marriage as a full wedding, and often results in far more personal, honest photographs.
+An elopement in Mallorca is the most honest way to get married or celebrate your commitment: no protocol, no hundred guests, just the two of you and the landscape. As an **elopement photographer in Mallorca**, this is exactly what I specialize in — capturing what you feel, not directing a production.
 
 ### What's included
 
-Every elopement includes a pre-session consultation by video call or WhatsApp to nail down location, timing and style; photographic coverage of 1 to 4 hours depending on the package; location recommendations based on the light and time of year; support throughout the whole session (I do a lot more than press the shutter — I help with logistics, timing around the light, and making you feel at ease in front of the camera); and full editing with a fast preview selection.
+A pre-session call or WhatsApp chat, coverage of 1 to 4 hours depending on the package, location recommendations based on light and season, support throughout the session, and full editing with a fast preview. If your elopement includes a symbolic or legal ceremony, I coordinate officiants, florists or light catering.
 
-If your elopement includes a symbolic or legal ceremony, I can coordinate with local officiants, florists or small picnic/celebration vendors who work on the island, so all you need to worry about is enjoying the day. For couples who want to keep things even simpler, a short couple's session with no ceremony at all — just an hour or two exploring a beautiful spot together — is just as popular, and just as meaningful in the final gallery.
+### What a typical session looks like
 
-### What a typical session looks like, step by step
-
-Most elopements in Mallorca follow a similar structure, adapted to each couple:
-
-1. **Arrival and first frames.** We start slow, letting you get used to the camera — the first few minutes are usually when nerves are highest and, honestly, the least interesting part of the final result, so there's no rush here.
-2. **Ceremony or key moment.** Whether it's a symbolic ceremony, private vows, or simply a toast, this is the emotional heart of the session, and where I focus on capturing real reactions rather than posed ones.
-3. **Couple's session.** We make the most of the landscape — walking, exploring, chasing the best light. This is where the most natural photos come from: I ask you to interact with each other, not with the camera.
-4. **Golden-hour close.** If timing allows, we finish in the last hour of light, the most flattering of the whole day in Mallorca.
+1. **Arrival and first frames.** We start slow, no rush.
+2. **Ceremony or key moment.** The emotional heart of the session — real reactions, not posed ones.
+3. **Couple's session.** We walk, explore, chase the best light.
+4. **Golden-hour close.** The last hour of light, the most flattering of the day.
 
 ### Why choose me
 
-I work with German, British, Spanish and other international couples who travel to Mallorca specifically for their elopement, so I'm used to coordinating everything remotely, in several languages, with no surprises on the day. I show up on time, I never keep you waiting while the sun drops, and I deliver quickly — I know that after an elopement you want to share the moment with family and friends right away, not wait a month for it.
-
-Planning a wedding-scale event from another country is hard enough; planning an elopement should be the opposite. I keep communication simple and clear from the first message, I'm upfront about pricing and what's included, and I'm comfortable being the only vendor you need to coordinate with on the day — no wedding planner required, though I'm happy to work alongside one if you have it.
+I work with couples from across Europe used to coordinating remotely, in several languages. I show up on time and deliver fast — I know you want to share the moment right away.
 
 ### Areas I cover
 
-I shoot elopements across the whole Tramuntana mountain range — especially **Sóller** and **Deià**, with their viewpoints, stone terraces and hidden coves — along the coast of **Andratx** and **Calvià** for those who prefer more dramatic cliffs, and on private estates further inland if you'd rather have something more secluded. If you already have a specific spot in mind that isn't on this list, tell me — chances are I know it, or I can scout it beforehand.
+Sóller and Deià, with their viewpoints and hidden coves; the coast of Andratx and Calvià for more dramatic cliffs; private estates inland for something more secluded.
 
-Many couples also combine two locations in a single day — a mountain ceremony followed by a coastal sunset session, for instance — which is easy to arrange given how close everything is on this side of the island. If you're planning a full wedding instead of a smaller elopement, or you're still deciding between the two, I'm glad to talk through which fits you best.
-
-If you're planning an elopement in Mallorca, [message me on WhatsApp](https://wa.me/34600000000) with your approximate date and the area you're interested in, and I'll get back to you with availability and the best timing options for that time of year.
+If you're planning an elopement in Mallorca, [message me on WhatsApp](https://wa.me/34600000000) with your date and area, and I'll get back to you with availability.

@@ -37,29 +37,25 @@ faqs:
     a: "Eine erste bearbeitete Auswahl erhaltet ihr innerhalb von 3-5 Tagen, damit ihr den Moment schnell mit Familie und Freunden teilen könnt, die vollständige Galerie folgt innerhalb von 1-2 Wochen."
 ---
 
-Ein Elopement auf Mallorca ist schlicht die ehrlichste Art zu heiraten oder eure Verbindung zu feiern: ohne den Druck, ein Fest für hundert Personen zu organisieren, ohne starres Protokoll, ohne den Stress einer klassischen Hochzeit. Nur ihr zwei, eine spektakuläre Landschaft und genug Zeit, den Moment wirklich zu erleben. Als **Elopement Fotograf Mallorca** habe ich mich genau darauf spezialisiert – auf intime Shootings und Zeremonien, bei denen es darum geht, das einzufangen, was ihr wirklich fühlt, statt eine Produktion zu inszenieren.
+Ein Elopement auf Mallorca ist die ehrlichste Art zu heiraten oder eure Verbindung zu feiern: kein Protokoll, kein Fest für hundert Leute, nur ihr zwei und die Landschaft. Als **Elopement Fotograf Mallorca** habe ich mich genau darauf spezialisiert — einfangen, was ihr fühlt, statt eine Produktion zu inszenieren.
 
 ### Was ist im Service enthalten
 
-Jedes Elopement beginnt mit einem Vorgespräch per Videocall oder WhatsApp, um Ort, Uhrzeit und Stil zu klären; dazu kommt die fotografische Begleitung von 1 bis 4 Stunden je nach gewähltem Paket, Empfehlungen für Locations passend zu Licht und Jahreszeit, Begleitung während des gesamten Shootings (ich drücke nicht nur den Auslöser – ich helfe bei Logistik, Timing mit dem Licht und dabei, euch vor der Kamera wohlzufühlen) sowie die vollständige Bearbeitung mit einer schnellen Vorabauswahl.
-
-Wenn euer Elopement eine symbolische oder rechtsgültige Zeremonie beinhaltet, kann ich mich mit lokalen Trauednern, Floristen oder Anbietern für ein kleines Picknick oder eine kleine Feier auf der Insel abstimmen, sodass ihr euch nur um den Tag selbst kümmern müsst.
+Vorgespräch per Videocall oder WhatsApp, fotografische Begleitung von 1 bis 4 Stunden je nach Paket, Locationvorschläge passend zu Licht und Jahreszeit, Begleitung während des gesamten Shootings, und vollständige Bearbeitung mit schneller Vorabauswahl. Bei symbolischer oder rechtsgültiger Zeremonie koordiniere ich Trauredner, Floristen oder ein kleines Picknick.
 
 ### So läuft ein typisches Shooting ab
 
-Die meisten Elopements auf Mallorca folgen einer ähnlichen Struktur, angepasst an jedes Paar:
-
-1. **Ankunft und erste Fotos.** Wir beginnen ganz entspannt und lassen euch an die Kamera gewöhnen – die ersten Fotos sind meist die, bei denen die meiste Nervosität herrscht, und die, an denen mir am Ende am wenigsten liegt. Also keine Eile in dieser Phase.
-2. **Zeremonie oder Hauptmoment.** Ob symbolische Zeremonie, private Eheversprechen oder einfach ein Anstoßen – das ist das emotionale Herzstück des Shootings, und hier konzentriere ich mich darauf, echte Reaktionen einzufangen, nicht gestellte.
-3. **Paarshooting.** Wir nutzen die Landschaft, laufen, erkunden, suchen das beste Licht. Hier entstehen die natürlichsten Fotos: Ich bitte euch, miteinander zu interagieren, nicht mit der Kamera.
-4. **Abschluss im goldenen Licht.** Wenn die Zeit es zulässt, beenden wir mit der letzten Stunde Licht – der schönsten des ganzen Tages auf Mallorca.
+1. **Ankunft und erste Fotos.** Wir starten entspannt, ganz ohne Eile.
+2. **Zeremonie oder Hauptmoment.** Das emotionale Herzstück — echte Reaktionen, nicht gestellte.
+3. **Paarshooting.** Wir laufen, erkunden, suchen das beste Licht.
+4. **Abschluss im goldenen Licht.** Die letzte Stunde Licht, die schönste des Tages.
 
 ### Warum ihr euch für mich entscheiden solltet
 
-Ich arbeite mit deutschen, englischen, spanischen und internationalen Paaren, die eigens für ihr Elopement nach Mallorca reisen, deshalb bin ich es gewohnt, alles aus der Ferne, in mehreren Sprachen und ohne böse Überraschungen zu koordinieren. Ich bin pünktlich, lasse niemanden warten, während die Sonne untergeht, und liefere die Fotos schnell – ich weiß, dass ihr nach einem Elopement den Moment möglichst bald mit Familie und Freunden teilen wollt, nicht einen Monat warten möchtet.
+Ich arbeite mit Paaren aus ganz Europa, die es gewohnt sind, alles aus der Ferne und mehrsprachig zu koordinieren. Ich bin pünktlich und liefere schnell — ich weiß, ihr wollt den Moment bald teilen.
 
 ### Gebiete, in denen ich arbeite
 
-Ich fotografiere Elopements in der gesamten [Sierra de Tramuntana](/de/soller) – besonders in **Sóller** und **Deià** mit ihren Aussichtspunkten, Steinterrassen und versteckten Buchten –, an der Küste von **Andratx** und **Calvià** für alle, die dramatischere Klippen bevorzugen, sowie auf privaten Fincas im Landesinneren für alle, die etwas Geschützteres suchen. Habt ihr einen konkreten Ort im Kopf, der hier nicht auftaucht, sagt mir Bescheid – wahrscheinlich kenne ich ihn oder kann ihn vorab besichtigen.
+[Sóller](/de/soller) und Deià mit ihren Aussichtspunkten und versteckten Buchten; die Küste von Andratx und [Calvià](/de/calvia) für dramatischere Klippen; private Fincas im Landesinneren für mehr Ruhe.
 
-Wenn ihr ein Elopement auf Mallorca plant, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit dem ungefähren Datum und der Region, die euch interessiert, und ich schlage euch Verfügbarkeit sowie die besten Uhrzeiten je nach Jahreszeit und Licht vor.
+Wenn ihr ein Elopement auf Mallorca plant, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit Datum und Region, und ich schlage euch Verfügbarkeit vor.

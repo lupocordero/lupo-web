@@ -33,25 +33,25 @@ faqs:
     a: "Selección editada en 3-5 días para sesiones de familia y retratos, y en 24-48 horas para headshots profesionales, ya que suelen necesitarse rápido para LinkedIn o webs corporativas."
 ---
 
-Un buen retrato no necesita que finjas una sonrisa que no sientes. Como **fotógrafo de retratos en Mallorca**, trabajo con familias, parejas, niños y profesionales bajo la misma premisa que uso en bodas y elopements: dejar que las personas sean ellas mismas y capturar eso, en lugar de dirigir una sesión rígida frente a un fondo artificial.
+Un buen retrato no necesita una sonrisa fingida. Como **fotógrafo de retratos en Mallorca**, dejo que las personas sean ellas mismas y capturo eso, en vez de dirigir una sesión rígida.
 
 ### Qué incluye el servicio
 
-Ofrezco sesiones de retrato de familia (incluyendo varias generaciones si lo necesitáis), sesiones individuales, retratos de pareja para aniversarios o simplemente para tener fotos actuales juntos, y headshots profesionales para LinkedIn, webs corporativas o equipos completos. Todas las sesiones incluyen consulta previa sobre ubicación y estilo, la sesión fotográfica, y edición completa con una selección cuidada de las mejores imágenes.
+Sesiones de familia (varias generaciones si hace falta), individuales, de pareja, y headshots profesionales para LinkedIn o equipos completos. Incluye consulta previa, la sesión, y edición con selección cuidada de las mejores imágenes.
 
-### Cómo es una sesión típica, paso a paso
+### Cómo es una sesión típica
 
-1. **Elegimos ubicación según el estilo que busquéis.** Playa para algo relajado y luminoso, un pueblo de piedra como Sóller o Deià para algo con más carácter, u olivares para un ambiente más natural y aislado.
-2. **Empezamos con calma.** Los primeros minutos son para que todos se sientan cómodos — especialmente importante con niños o personas que no están acostumbradas a ser fotografiadas.
-3. **Actividades naturales, no poses.** Caminar, jugar, abrazarse — dejo que la interacción real entre vosotros sea lo que guíe las fotos, interviniendo solo para ajustar luz o composición.
-4. **Cierre con retratos más dirigidos.** Al final, si queréis, hacemos algunas fotos más clásicas y posadas para tener también esa opción en la galería final.
+1. **Elegimos ubicación según el estilo.** Playa, pueblo de piedra u olivar.
+2. **Empezamos con calma.** Los primeros minutos son para sentirse cómodos.
+3. **Actividades naturales, no poses.** Caminar, jugar, abrazarse.
+4. **Cierre con retratos más dirigidos.** Algunas fotos clásicas si queréis.
 
 ### Por qué elegirme
 
-Trabajo con muchas familias alemanas e internacionales que están de vacaciones en Mallorca y quieren aprovechar para tener fotos de familia actualizadas en un entorno bonito, así como con profesionales que necesitan headshots rápidos durante un viaje de trabajo. Mi puntualidad y rapidez de entrega son especialmente importantes aquí — muchas veces solo tenéis una ventana concreta durante vuestras vacaciones o viaje, y no hay margen de error.
+Trabajo con muchas familias alemanas e internacionales de vacaciones que quieren fotos actualizadas, y con profesionales que necesitan headshots rápidos. Puntualidad y entrega rápida son la prioridad.
 
 ### Zonas donde trabajo
 
-Hago sesiones de retratos en playas de **Palma** y **Calvià**, en el entorno rural de **Marratxí**, y en los pueblos de piedra de **Sóller** y alrededores para quienes buscan un fondo con más textura e historia. Para headshots corporativos, me desplazo a oficinas en toda la isla o proponemos exteriores cercanos con buena luz.
+Playas de Palma y Calvià, el entorno rural de Marratxí, y los pueblos de piedra de Sóller. Para headshots corporativos, me desplazo a oficinas en toda la isla.
 
-Si quieres reservar una sesión de retratos, [escríbeme por WhatsApp](https://wa.me/34600000000) con el tipo de sesión, cuántas personas participáis, y fechas disponibles.
+Si quieres reservar una sesión, [escríbeme por WhatsApp](https://wa.me/34600000000) con el tipo de sesión, personas y fechas.

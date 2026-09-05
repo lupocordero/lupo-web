@@ -35,25 +35,25 @@ faqs:
     a: "Actualmente me centro en fotografía fija de alta calidad, pero puedo recomendarte colaboradores de confianza para vídeo o tours 360º si tu anuncio lo necesita."
 ---
 
-En un mercado tan competitivo como el de **real estate en Mallorca** — ya sea venta, alquiler de larga temporada o alquiler vacacional tipo Airbnb —, las fotos son literalmente lo primero que decide si un comprador o huésped hace clic o sigue pasando anuncios. Como **fotógrafo de real estate en Mallorca**, mi trabajo es que tu propiedad se vea como realmente es: luminosa, cuidada y con el carácter que la hace especial, sin trucos que luego decepcionen en la visita.
+En un mercado tan competitivo como el de **real estate en Mallorca**, las fotos deciden si alguien hace clic o sigue pasando anuncios. Como **fotógrafo de real estate en Mallorca**, muestro tu propiedad como realmente es: luminosa, cuidada y con carácter.
 
 ### Qué incluye el servicio
 
-Cada sesión incluye una consulta previa para entender el objetivo (venta, alquiler largo plazo, o Airbnb — cada uno necesita un enfoque ligeramente distinto), la sesión fotográfica completa de interiores y exteriores, edición profesional con corrección de perspectiva y luz, y entrega en formatos optimizados tanto para portales inmobiliarios como para Airbnb, Booking o webs propias. Para fincas y villas con jardín o terreno amplio, ofrezco también tomas aéreas con dron.
+Consulta previa según el objetivo (venta, alquiler largo plazo o Airbnb), sesión completa de interiores y exteriores, edición profesional con corrección de perspectiva y luz, y entrega en formatos listos para portales, Airbnb o tu web. Para fincas y villas con jardín, ofrezco también dron.
 
-### Cómo es una sesión típica, paso a paso
+### Cómo es una sesión típica
 
-1. **Revisión previa de la propiedad.** Si es posible, reviso fotos o hago una visita rápida antes para planificar el recorrido de luz — qué habitaciones fotografiar a qué hora del día según la orientación del sol.
-2. **Fotografía de exteriores con luz óptima.** Empiezo o termino con exteriores, jardín y piscina en la hora del día donde mejor luz reciben.
-3. **Fotografía de interiores habitación por habitación.** Trabajo con luz natural siempre que sea posible, complementando con iluminación adicional en espacios más oscuros.
-4. **Detalles y tomas de estilo.** Elementos que aportan carácter — una terraza con vistas, una chimenea de piedra, detalles de decoración — que ayudan a que el anuncio destaque frente a fotos genéricas.
+1. **Revisión previa de la propiedad.** Planifico el recorrido de luz según la orientación.
+2. **Exteriores con luz óptima.** Jardín y piscina en su mejor momento del día.
+3. **Interiores habitación por habitación.** Luz natural siempre que sea posible.
+4. **Detalles y estilo.** Elementos que ayudan al anuncio a destacar.
 
 ### Por qué elegirme
 
-Trabajo con agencias inmobiliarias, gestores de alquiler vacacional y propietarios particulares alemanes e internacionales que necesitan resultados rápidos y fiables: entrego en 24-48 horas porque sé que un anuncio sin fotos actualizadas pierde reservas y visitas cada día que pasa. Además, entiendo qué buscan específicamente los portales alemanes y del norte de Europa en cuanto a estilo de foto — más luminoso y menos "producido" que el estilo de anuncio típico español.
+Trabajo con agencias, gestores de alquiler vacacional y propietarios alemanes e internacionales. Entrego en 24-48 horas y entiendo el estilo de foto que buscan los portales del norte de Europa: más luminoso, menos "producido".
 
 ### Zonas donde trabajo
 
-Cubro propiedades en toda la isla: villas de lujo en **Calvià** y **Andratx**, fincas y casas de campo en el interior cerca de **Sóller**, y apartamentos y áticos en **Palma**. Si tu propiedad de alquiler vacacional necesita fotos que destaquen frente a la competencia en temporada alta, cuanto antes reservemos la sesión, mejor.
+Villas de lujo en Calvià y Andratx, fincas cerca de Sóller, y apartamentos y áticos en Palma.
 
-Si tienes una propiedad para fotografiar, [escríbeme por WhatsApp](https://wa.me/34600000000) con la dirección aproximada, el tipo de propiedad y el objetivo del anuncio, y te propongo fecha y presupuesto.
+Si tienes una propiedad para fotografiar, [escríbeme por WhatsApp](https://wa.me/34600000000) con dirección aproximada, tipo de propiedad y objetivo del anuncio.

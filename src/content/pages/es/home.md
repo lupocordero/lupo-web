@@ -10,14 +10,12 @@ heroImage: "/images/fotografo-mallorca-hero.webp"
 heroImageAlt: "Pareja abrazándose en un acantilado de Mallorca al atardecer durante su elopement"
 ---
 
-Me llamo Lupo. Vivo en Mallorca y me dedico a dos cosas muy concretas: acompañar **elopements** — ceremonias íntimas, sin invitados, sin protocolo — y hacer **retratos** de familia y personales que no se sienten como una sesión de estudio. Todo lo demás que fotografío sale de ahí: la pareja que hago un elopement con ellos a veces me llama después para su boda de verdad; en un retrato de familia a veces aparece la comida de la sobremesa. No vendo esas cosas por separado — simplemente pasan, y las fotos las recogen.
+Me llamo Lupo. Vivo en Mallorca y hago dos cosas muy concretas: acompañar **elopements** — ceremonias íntimas, sin invitados ni protocolo — y hacer **retratos** de familia que no parecen sesión de estudio. El resto surge de ahí: una boda de verdad, la comida de una sobremesa. No lo vendo por separado, simplemente pasa.
 
-También hago **eventos** — cumpleaños, celebraciones, encargos puntuales — cuando encajan con este mismo enfoque: gente siendo gente, luz natural, cero dirección forzada.
+También hago **eventos** cuando encajan con el mismo enfoque, y llevo aparte un trabajo distinto para agencias y propietarios: **fotografía de real estate**.
 
-Aparte de todo esto llevo un trabajo distinto, para agencias y propietarios: **fotografía de real estate** para villas, fincas y anuncios de alquiler. Es un servicio comercial, con su propio proceso y su propia lógica — lo trato aparte porque es, honestamente, un trabajo distinto al resto.
+Trabajo sobre todo con parejas y familias alemanas e internacionales. Hablo español, alemán e inglés, soy puntual y entrego rápido — normalmente en pocos días.
 
-Trabajo sobre todo con parejas y familias alemanas e internacionales que vienen a Mallorca para algo importante, o que ya viven aquí. Sé lo que cuesta confiar en alguien a distancia sin saber si va a llegar puntual o si te va a entender. Por eso soy claro con los tiempos, hablo español, alemán e inglés sin fricciones, y entrego rápido — normalmente tienes un adelanto en pocos días.
-
-Trabajo en toda la isla, con más presencia en Sóller, Deià, Calvià y Palma, pero me muevo a donde haga falta.
+Trabajo en toda la isla, con más presencia en Sóller, Deià, Calvià y Palma.
 
 Si esto suena a lo que buscas, cuéntame qué tienes en mente.

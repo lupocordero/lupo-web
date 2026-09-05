@@ -33,25 +33,25 @@ faqs:
     a: "Eine bearbeitete Auswahl in 3-5 Tagen für Familien- und Porträt-Sessions, und 24-48 Stunden für Business-Headshots, da diese meist schnell für LinkedIn oder Firmenwebsites gebraucht werden."
 ---
 
-Ein gutes Porträt braucht kein Lächeln, das ihr nicht fühlt. Als **Portraitfotograf Mallorca** arbeite ich mit Familien, Paaren, Kindern und Berufstätigen nach derselben Prämisse, die ich auch bei Hochzeiten und Elopements verfolge: Menschen einfach sie selbst sein lassen und genau das einfangen, statt eine steife Session vor einem künstlichen Hintergrund zu inszenieren.
+Ein gutes Porträt braucht kein gespieltes Lächeln. Als **Portraitfotograf Mallorca** lasse ich Menschen einfach sie selbst sein und halte genau das fest, statt eine steife Session zu inszenieren.
 
 ### Was ist im Service enthalten
 
-Ich biete Familienporträt-Sessions (inklusive mehrerer Generationen, wenn gewünscht), Einzelsessions, Paarporträts für Jubiläen oder einfach für aktuelle gemeinsame Fotos, sowie professionelle Headshots für LinkedIn, Firmenwebsites oder ganze Teams. Alle Sessions beinhalten ein Vorgespräch zu Ort und Stil, das Fotoshooting selbst sowie die vollständige Bearbeitung mit einer sorgfältigen Auswahl der besten Bilder.
+Familienporträts (auch mit mehreren Generationen), Einzelsessions, Paarporträts und professionelle Headshots für LinkedIn oder ganze Teams. Inklusive Vorgespräch, Shooting und Bearbeitung mit sorgfältiger Auswahl der besten Bilder.
 
 ### So läuft ein typisches Shooting ab
 
-1. **Wir wählen den Ort passend zum gewünschten Stil.** Strand für etwas Entspanntes und Helles, ein Steindorf wie Sóller oder Deià für mehr Charakter, oder Olivenhaine für eine natürlichere, ruhigere Atmosphäre.
-2. **Wir starten ganz entspannt.** Die ersten Minuten dienen dazu, dass sich alle wohlfühlen – besonders wichtig bei Kindern oder Personen, die es nicht gewohnt sind, fotografiert zu werden.
-3. **Natürliche Aktivitäten statt Posen.** Laufen, spielen, umarmen – ich lasse die echte Interaktion zwischen euch die Fotos bestimmen und greife nur bei Licht oder Komposition ein.
-4. **Abschluss mit klassischeren Porträts.** Am Ende machen wir, wenn gewünscht, noch einige klassischere, gestelltere Fotos, um auch diese Option in der finalen Galerie zu haben.
+1. **Wir wählen den Ort passend zum Stil.** Strand, Steindorf oder Olivenhain.
+2. **Wir starten entspannt.** Die ersten Minuten sind zum Ankommen da.
+3. **Natürliche Aktivitäten statt Posen.** Laufen, spielen, umarmen.
+4. **Abschluss mit klassischeren Porträts.** Ein paar gestellte Fotos, wenn gewünscht.
 
 ### Warum ihr euch für mich entscheiden solltet
 
-Ich arbeite mit vielen deutschen und internationalen Familien, die auf Mallorca Urlaub machen und die Gelegenheit für aktuelle Familienfotos in schöner Umgebung nutzen möchten, ebenso wie mit Berufstätigen, die während einer Geschäftsreise schnell Headshots brauchen. Meine Pünktlichkeit und schnelle Lieferung sind hier besonders wichtig – oft habt ihr nur ein bestimmtes Zeitfenster während eures Urlaubs oder eurer Reise, und da gibt es keinen Spielraum für Fehler.
+Ich arbeite mit vielen deutschen und internationalen Familien im Urlaub, die aktuelle Fotos wollen, und mit Berufstätigen, die schnelle Headshots brauchen. Pünktlichkeit und schnelle Lieferung stehen an erster Stelle.
 
 ### Gebiete, in denen ich arbeite
 
-Ich mache Portrait-Sessions an Stränden in [Palma](/de/palma) und [Calvià](/de/calvia), in der ländlichen Umgebung von Marratxí und in den Steindörfern rund um [Sóller](/de/soller) für alle, die einen Hintergrund mit mehr Textur und Geschichte suchen. Für Business-Headshots komme ich zu euch ins Büro auf der ganzen Insel oder wir suchen einen nahegelegenen Außenort mit gutem Licht.
+Strände in [Palma](/de/palma) und [Calvià](/de/calvia), die ländliche Umgebung von Marratxí, und die Steindörfer rund um [Sóller](/de/soller). Für Business-Headshots komme ich zu Büros auf der ganzen Insel.
 
-Möchtet ihr eine Portrait-Session buchen, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit der Art der Session, wie viele Personen dabei sind, und verfügbaren Terminen. Für ein besonders intimes Setting könnte auch ein [Elopement-Shooting](/de/elopement) etwas für euch sein.
+Möchtet ihr buchen, [schreib mir auf WhatsApp](https://wa.me/34600000000) mit Art der Session, Personenzahl und Terminen. Für etwas Intimeres lohnt sich auch ein [Elopement](/de/elopement).

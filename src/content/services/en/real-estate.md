@@ -35,37 +35,25 @@ faqs:
     a: "I currently focus on high-quality still photography, but I can recommend trusted collaborators for video or 360° tours if your listing needs them."
 ---
 
-In a market as competitive as **real estate in Mallorca** — whether it's a sale, a long-term rental, or a holiday rental on Airbnb — photos are literally the first thing that decides whether a buyer or guest clicks through or keeps scrolling past your listing. As a **real estate photographer in Mallorca**, my job is to show your property exactly as it really is: bright, well cared for, and full of the character that makes it special, with no tricks that would disappoint at the viewing.
-
-This matters just as much for a one-bedroom apartment as it does for a multi-million-euro villa. A rushed, poorly lit shoot can make even a beautiful property look flat and forgettable, while a well-planned session brings out exactly what makes it worth a second look — the light in the living room at golden hour, the way the pool sits against the sea, the detail in a restored stone archway.
+In a market as competitive as **real estate in Mallorca**, photos decide whether someone clicks through or keeps scrolling. As a **real estate photographer in Mallorca**, I show your property exactly as it is: bright, well cared for, and full of character.
 
 ### What's included
 
-Every session includes a pre-shoot consultation to understand the goal (sale, long-term rental, or Airbnb — each needs a slightly different approach), a full photo shoot of interiors and exteriors, professional editing with perspective and light correction, and delivery in formats optimized for real estate portals as well as Airbnb, Booking, or your own website. For estates and villas with a garden or larger plot, I also offer aerial drone shots.
+A pre-shoot consultation based on the goal (sale, long-term rental or Airbnb), a full shoot of interiors and exteriors, professional editing with perspective and light correction, and delivery in formats ready for portals, Airbnb or your own website. For estates and villas with a garden, I also offer drone shots.
 
-If you manage several listings at once — an agency handling a rotating portfolio, or a host running multiple Airbnb units — I can also set up a recurring arrangement so new listings get photographed quickly and consistently, without re-briefing the whole process every time.
+### What a typical session looks like
 
-### What a typical session looks like, step by step
-
-1. **Pre-shoot property review.** Where possible, I review photos or make a quick visit beforehand to plan the light route — which rooms to shoot at which time of day, based on the sun's orientation.
-2. **Exterior photography in optimal light.** I start or finish with exteriors, garden and pool at the time of day they catch the best light.
-3. **Interior photography, room by room.** I work with natural light wherever possible, supplementing with additional lighting in darker spaces.
-4. **Details and style shots.** Elements that add character — a terrace with a view, a stone fireplace, decor details — that help the listing stand out against generic photos.
-
-A typical property takes between one and three hours depending on size, and I always shoot with the end use in mind — a listing meant for a luxury sales portal gets a different treatment than an Airbnb page built to convert casual browsers into bookings.
+1. **Pre-shoot property review.** I plan the light route based on orientation.
+2. **Exterior photography in optimal light.** Garden and pool at their best time of day.
+3. **Interior photography, room by room.** Natural light wherever possible.
+4. **Details and style shots.** Elements that help the listing stand out.
 
 ### Why choose me
 
-I work with real estate agencies, holiday-rental managers and private German and international owners who need fast, reliable results: I deliver within 24-48 hours because I know an outdated listing loses bookings and viewings every day that passes. I also understand what German and northern European portals specifically look for in terms of photo style — brighter and less "over-produced" than the typical Spanish listing style.
-
-Communication is straightforward and in whatever language works for you — English or German, by email or WhatsApp — with clear scheduling and no chasing for a response. For agencies juggling multiple properties and clients, that reliability tends to matter just as much as the photos themselves.
+I work with agencies, holiday-rental managers, and German and international owners. I deliver within 24-48 hours and understand the photo style northern European portals look for: brighter, less "over-produced."
 
 ### Areas I cover
 
-I shoot properties across the whole island: luxury villas in **Calvià** and **Andratx**, country estates and farmhouses inland near **Sóller**, and apartments and penthouses in **Palma**. If your holiday rental needs photos that stand out from the competition ahead of peak season, the sooner we book the shoot, the better.
+Luxury villas in **Calvià** and **Andratx**, country estates near **Sóller**, and apartments and penthouses in **Palma**.
 
-If the property is also being used as a wedding or event venue, it's worth combining a real estate shoot with coverage of the wedding or [event](/en/events) itself — a combination I do fairly often for villas and fincas that host both.
-
-For rural properties in particular, I always try to schedule around the season — a finca surrounded by orange blossom in spring or golden light in autumn photographs very differently than the same property shot in the flat light of midsummer, and it's worth timing the shoot accordingly whenever the listing timeline allows for it.
-
-If you have a property to photograph, [message me on WhatsApp](https://wa.me/34600000000) with the approximate address, the type of property and the goal of the listing, and I'll get back to you with a date and a quote.
+If you have a property to photograph, [message me on WhatsApp](https://wa.me/34600000000) with the approximate address, property type and goal of the listing.
