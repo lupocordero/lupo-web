@@ -3,7 +3,7 @@ lang: de
 pageSlug: "elopement"
 serviceKey: elopement
 seoTitle: "Elopement Fotograf Mallorca | Intime Hochzeitsmomente zu zweit"
-metaDescription: "Elopement Fotograf auf Mallorca für intime Zeremonien und Paarshootings in Sóller, Deià und der Sierra de Tramuntana. Pünktlich, diskret und mit schneller Lieferung."
+metaDescription: "Privater Elopement Fotograf auf Mallorca für intime Zeremonien und Paarshootings in Sóller, Deià und der Sierra de Tramuntana. Pünktlich, diskret und mit schneller Lieferung."
 h1: "Fotograf für Elopement auf Mallorca"
 subtitle: "Intime Zeremonien und Paarshootings an den schönsten Orten der Insel – ohne Gästeliste, ohne Protokoll, nur ihr zwei und die Landschaft."
 heroImage: "/images/elopement-fotograf-mallorca-01.webp"
@@ -37,7 +37,7 @@ faqs:
     a: "Eine erste bearbeitete Auswahl erhaltet ihr innerhalb von 3-5 Tagen, damit ihr den Moment schnell mit Familie und Freunden teilen könnt, die vollständige Galerie folgt innerhalb von 1-2 Wochen."
 ---
 
-Ein Elopement auf Mallorca ist die ehrlichste Art zu heiraten oder eure Verbindung zu feiern: kein Protokoll, kein Fest für hundert Leute, nur ihr zwei und die Landschaft. Als **Elopement Fotograf Mallorca** habe ich mich genau darauf spezialisiert — einfangen, was ihr fühlt, statt eine Produktion zu inszenieren.
+Ein Elopement auf Mallorca ist die ehrlichste Art zu heiraten oder eure Verbindung zu feiern: kein Protokoll, kein Fest für hundert Leute, <span class="highlight">nur ihr zwei und die Landschaft</span>. Als **privater Elopement Fotograf Mallorca** habe ich mich genau darauf spezialisiert — einfangen, was ihr fühlt, statt eine Produktion zu inszenieren.
 
 ### Was ist im Service enthalten
 

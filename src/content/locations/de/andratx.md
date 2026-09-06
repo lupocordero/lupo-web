@@ -22,7 +22,7 @@ faqs:
     a: "Nicht allzu weit — ich brauche etwas mehr als eine halbe Stunde, das bedeutet also keinen besonderen Anfahrtsaufschlag und schränkt die Uhrzeit der Session nicht ein."
 ---
 
-Andratx, ganz im Südwesten der Insel, ändert je nach Ecke sein Gesicht: **Port d'Andratx** mit seinem Yachthafen und den Luxusrestaurants, **Sant Elm** mit Blick auf die Insel Sa Dragonera, und das eigentliche Dorf Andratx, ruhiger und mit wöchentlichem Markt. Als **Fotograf in Andratx** bin ich häufig in dieser Gegend unterwegs – hier lebt eine der größten deutschen Communities Mallorcas außerhalb Palmas, und ich arbeite hier problemlos sowohl auf Deutsch als auch auf Spanisch.
+Andratx, ganz im Südwesten der Insel, ändert je nach Ecke sein Gesicht: **Port d'Andratx** mit seinem Yachthafen und den Luxusrestaurants, **Sant Elm** mit Blick auf die Insel Sa Dragonera, und das eigentliche Dorf Andratx, ruhiger und mit wöchentlichem Markt. Als **Fotograf in Andratx** bin ich häufig in dieser Gegend unterwegs – hier lebt eine der größten deutschen Communities Mallorcas außerhalb Palmas, und <span class="highlight">ich arbeite hier problemlos sowohl auf Deutsch als auch auf Spanisch</span>.
 
 ### Welche Art von Sessions ich in Andratx mache
 

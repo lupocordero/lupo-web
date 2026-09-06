@@ -3,14 +3,14 @@ lang: en
 pageSlug: "about"
 pageKey: about
 seoTitle: "About Me | Lupo, Mallorca Photographer"
-metaDescription: "Meet Lupo, a Mallorca-based photographer specializing in events, portraits and elopements. Natural, documentary style, punctuality and a personal approach for international clients."
+metaDescription: "Meet Lupo, a private Mallorca-based photographer specializing in events, portraits and elopements. Natural, documentary style, punctuality and a personal approach for international clients."
 h1: "About Me"
 subtitle: "The photographer behind the photos: how and why I work this way"
 heroImage: "/images/about-lupo-mallorca-photographer.webp"
 heroImageAlt: "Portrait of Lupo, Mallorca photographer, holding his camera in the countryside"
 ---
 
-I'm Lupo, a photographer based on Mallorca. The island is woven into almost everything I shoot — between Palma, the Serra de Tramuntana and the coastal villages. Before committing fully to documentary photography, I spent years behind the camera learning through practice — friends' weddings, spontaneous portraits, food photos for small local businesses — until it became clear that what I was actually good at wasn't "taking pretty pictures" but telling the truth of what was happening in front of me, without forcing it.
+I'm Lupo, a photographer based on Mallorca. The island is woven into almost everything I shoot — between Palma, the Serra de Tramuntana and the coastal villages. Before committing fully to documentary photography, I spent years behind the camera learning through practice — friends' weddings, spontaneous portraits, food photos for small local businesses — until it became clear that what I was actually good at wasn't "taking pretty pictures" but <span class="highlight">telling the truth of what was happening in front of me, without forcing it</span>.
 
 **My style is casual, natural and documentary.** That means you won't find stiff poses or artificial setups in my portfolio. I'd rather you walk, talk, laugh with your partner or your family, and let me capture that as it happens. The result is clean, bright, honest images — the kind of photos that still tell the truth of that day five years later.
 

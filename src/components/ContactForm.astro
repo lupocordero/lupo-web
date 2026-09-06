@@ -5,11 +5,30 @@ import type { Lang } from '../data/routes';
 export interface Props {
   lang: Lang;
   idPrefix?: string;
+  /** 'ink' (default, used on the full contact page) or 'rust' (pink accent, used in the modal). */
+  accent?: 'ink' | 'rust';
 }
 
-const { lang, idPrefix = '' } = Astro.props;
+const { lang, idPrefix = '', accent = 'ink' } = Astro.props;
 const ui = UI[lang];
 const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
+
+// Where Formspree sends the visitor back after a successful submission —
+// a branded thank-you page instead of Formspree's own confirmation screen
+// or (worse) landing back on this same form, primed to resubmit. Resolved
+// to a full URL client-side (see script below) against the current origin,
+// so it keeps working whether the site is on the vercel.app preview host
+// or on lupo.pm.
+const THANKS_PATH: Record<Lang, string> = {
+  es: '/es/gracias',
+  de: '/de/danke',
+  en: '/en/thank-you',
+};
+
+const buttonClass =
+  accent === 'rust'
+    ? 'mt-2 w-full bg-rust py-3 font-sans font-semibold text-ink transition hover:bg-highlight'
+    : 'mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust';
 ---
 
 <!--
@@ -21,7 +40,13 @@ const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
   The `_gotcha` honeypot + `data-loaded-at` timestamp below are an
   additional, instant layer of spam filtering on top of that.
 -->
-<form action="https://formspree.io/f/xyeydzrp" method="POST" class="space-y-5" data-contact-form>
+<form
+  action="https://formspree.io/f/xyeydzrp"
+  method="POST"
+  class="space-y-5"
+  data-contact-form
+  data-thanks-path={THANKS_PATH[lang]}
+>
   <div>
     <label class="eyebrow mb-1 block" for={id('name')}>{ui.formName}</label>
     <input id={id('name')} name="name" type="text" required autocomplete="name" class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none" />
@@ -46,8 +71,9 @@ const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
     <input id={id('gotcha')} name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
   </div>
   <input type="hidden" name="loadedAt" data-loaded-at value="" />
+  <input type="hidden" name="_next" data-next value="" />
 
-  <button type="submit" class="mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust">
+  <button type="submit" class={buttonClass}>
     {ui.formSubmit}
   </button>
 </form>
@@ -60,6 +86,15 @@ const id = (base: string) => (idPrefix ? `${idPrefix}-${base}` : base);
     const loadedAt = Date.now();
     const loadedAtInput = form.querySelector('[data-loaded-at]');
     if (loadedAtInput) loadedAtInput.value = String(loadedAt);
+
+    // Send Formspree back to our own branded thank-you page instead of
+    // its generic confirmation screen — resolved against the current
+    // origin so it works on the vercel.app preview and on lupo.pm alike.
+    const nextInput = form.querySelector('[data-next]');
+    const thanksPath = form.getAttribute('data-thanks-path');
+    if (nextInput && thanksPath) {
+      nextInput.value = `${window.location.origin}${thanksPath}`;
+    }
 
     form.addEventListener('submit', (e) => {
       const gotcha = form.querySelector('input[name="_gotcha"]');

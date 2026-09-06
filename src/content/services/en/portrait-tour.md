@@ -33,7 +33,7 @@ faqs:
     a: "You'll get an edited selection within a few days, same as my other sessions."
 ---
 
-The **Portrait Tour** brings together two things: actually getting to know Palma, and coming home with photos that don't look like tourist snapshots. We walk through the corners of the city I like most — the ones a map won't show you — and at every stop I photograph you calmly, with no rush and no forced poses.
+The **Portrait Tour** brings together two things: actually getting to know Palma, and <span class="highlight">coming home with photos that don't look like tourist snapshots</span>. We walk through the corners of the city I like most — the ones a map won't show you — and at every stop I photograph you calmly, with no rush and no forced poses.
 
 ### What's included
 

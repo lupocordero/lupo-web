@@ -18,13 +18,13 @@ gallery:
   - src: "/images/fotografo-palma-mallorca-05.webp"
     alt: "Calle empedrada del barrio de La Lonja en Palma de Mallorca"
 faqs:
-  - q: "¿Cuáles son los mejores lugares para hacer fotos en Palma?"
-    a: "El casco antiguo (Barrio de La Lonja, Calatrava), la Catedral y el Parc de la Mar, el paseo marítimo, y barrios con encanto como Santa Catalina son mis favoritos según el tipo de sesión. Para retratos de familia prefiero horarios de poca gente (primera hora de la mañana); para elopements y bodas, la luz del atardecer sobre la Catedral es difícil de superar."
+  - q: "¿Podemos hacer la sesión en Palma con toda la familia, incluidos abuelos o la mascota?"
+    a: "Sí, sin problema — cuantas más generaciones o compañeros peludos, mejor. Solo lo tengo en cuenta para elegir una ubicación con buen acceso y sombra, y para planificar pausas si hay niños pequeños o personas mayores en el grupo."
   - q: "¿Necesito permiso para hacer fotos en la Catedral de Palma o el casco antiguo?"
     a: "Para fotografía casual en la calle no hace falta permiso, pero para sesiones con equipo grande (varios flashes, trípodes ocupando espacio) en ciertas zonas del centro histórico sí puede requerirse autorización municipal. Te oriento sobre esto según la ubicación exacta que elijamos."
 ---
 
-Palma es donde tengo mi base y una de las zonas donde trabajo con más frecuencia como **fotógrafo en Palma de Mallorca** — no solo porque vivo cerca, sino porque la ciudad ofrece una combinación difícil de igualar: casco histórico con siglos de carácter, luz mediterránea junto al mar, y la infraestructura de una capital para bodas, eventos corporativos y ferias.
+Palma es donde tengo mi base y una de las zonas donde trabajo con más frecuencia como **fotógrafo en Palma de Mallorca** — no solo porque vivo cerca, sino porque la ciudad ofrece <span class="highlight">una combinación difícil de igualar</span>: casco histórico con siglos de carácter, luz mediterránea junto al mar, y la infraestructura de una capital para bodas, eventos corporativos y ferias.
 
 ### Qué tipo de sesiones hago en Palma
 

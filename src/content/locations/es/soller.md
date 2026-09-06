@@ -22,7 +22,7 @@ faqs:
     a: "El pueblo tiene aparcamiento limitado en temporada alta, así que suelo recomendar ubicaciones específicas con acceso fácil y, si la sesión incluye varias localizaciones, planifico la ruta para minimizar desplazamientos en coche."
 ---
 
-Sóller es probablemente la localización que más me piden después de Palma, y no es casualidad: como **fotógrafo en Sóller**, tengo la suerte de trabajar en un valle rodeado de montañas, cubierto de naranjos, con un pueblo de arquitectura modernista y un puerto natural a pocos minutos. Pocas zonas de Mallorca ofrecen tanta variedad de escenarios en un radio tan pequeño.
+Sóller es probablemente la localización que más me piden después de Palma, y no es casualidad: como **fotógrafo en Sóller**, tengo la suerte de trabajar en un valle rodeado de montañas, cubierto de naranjos, con un pueblo de arquitectura modernista y un puerto natural a pocos minutos. <span class="highlight">Pocas zonas de Mallorca ofrecen tanta variedad de escenarios en un radio tan pequeño</span>.
 
 ### Qué tipo de sesiones hago en Sóller
 

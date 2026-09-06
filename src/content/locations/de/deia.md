@@ -22,7 +22,7 @@ faqs:
     a: "Ja, allerdings ist der Zugang ein steiler Abstieg und die Parkplätze sind in der Hochsaison begrenzt. Für Sessions in der Bucht empfehle ich die frühen Morgenstunden."
 ---
 
-Deià ist, ohne zu übertreiben, eines der fotogensten Dörfer im gesamten Mittelmeerraum – Steinhäuser, die sich kaskadenartig den Berghang hinabziehen, mit dem Meer als Kulisse. Als **Fotograf Deià** ist es eine meiner liebsten Kulissen für Elopements und Paarshootings, genau weil es kaum Regie braucht: der Ort erledigt schon die halbe Arbeit.
+Deià ist, ohne zu übertreiben, eines der fotogensten Dörfer im gesamten Mittelmeerraum – Steinhäuser, die sich kaskadenartig den Berghang hinabziehen, mit dem Meer als Kulisse. Als **Fotograf Deià** ist es eine meiner liebsten Kulissen für Elopements und Paarshootings, genau weil es kaum Regie braucht: <span class="highlight">der Ort erledigt schon die halbe Arbeit</span>.
 
 ### Welche Art von Sessions ich in Deià mache
 

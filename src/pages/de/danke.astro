@@ -1,0 +1,31 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import WhatsAppCTA from '../../components/WhatsAppCTA.astro';
+---
+
+<Layout
+  lang="de"
+  title="Nachricht gesendet | Lupo Fotograf Mallorca"
+  description="Danke für deine Nachricht — Lupo antwortet noch am selben Tag."
+  path="/de/danke"
+  alternates={{ es: '/es/gracias', de: '/de/danke', en: '/en/thank-you' }}
+  noindex={true}
+>
+  <div class="mx-auto max-w-xl px-5 py-24 text-center md:py-32">
+    <p class="eyebrow mb-4 text-ink/50">Nachricht gesendet</p>
+    <h1 class="font-display text-display-2 font-bold">Danke!</h1>
+    <p class="mt-5 text-lg text-ink/60">
+      Deine Nachricht ist angekommen. Ich melde mich noch am selben Tag mit Verfügbarkeit und Preis.
+    </p>
+    <a href="/de" class="link-arrow mt-10 text-lg">
+      Zurück zur Startseite →
+    </a>
+  </div>
+
+  <WhatsAppCTA
+    lang="de"
+    compact={true}
+    heading="Lieber gleich sprechen?"
+    body="Schreib mir direkt auf WhatsApp, dann machen wir dort weiter."
+  />
+</Layout>

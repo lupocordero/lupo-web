@@ -22,7 +22,7 @@ faqs:
     a: "No demasiado — llego en poco más de media hora, así que no supone ningún recargo especial de desplazamiento ni limita la hora de la sesión."
 ---
 
-Andratx, en el extremo suroeste de la isla, cambia de ambiente según el rincón: **Port d'Andratx** con su puerto deportivo y restaurantes de lujo, **Sant Elm** con vistas a la isla de Sa Dragonera, y el propio pueblo de Andratx, más tranquilo y con mercado semanal. Como **fotógrafo en Andratx**, es una zona que visito con frecuencia — tiene una de las comunidades alemanas más consolidadas de Mallorca fuera de Palma, y trabajo aquí tanto en alemán como en español sin ningún problema.
+Andratx, en el extremo suroeste de la isla, cambia de ambiente según el rincón: **Port d'Andratx** con su puerto deportivo y restaurantes de lujo, **Sant Elm** con vistas a la isla de Sa Dragonera, y el propio pueblo de Andratx, más tranquilo y con mercado semanal. Como **fotógrafo en Andratx**, es una zona que visito con frecuencia — tiene una de las comunidades alemanas más consolidadas de Mallorca fuera de Palma, y <span class="highlight">trabajo aquí tanto en alemán como en español sin ningún problema</span>.
 
 ### Qué tipo de sesiones hago en Andratx
 

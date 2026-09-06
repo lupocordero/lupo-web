@@ -48,7 +48,7 @@ Llamada previa para entender el programa y los momentos clave, cobertura durante
 
 ### Por qué elegirme
 
-La puntualidad es innegociable en un evento, y la edición no se alarga semanas: mi flujo de trabajo está pensado para que tengas tus fotos rápido, normalmente en un día o dos. Mi experiencia con clientes alemanes e internacionales significa que entiendo cómo funcionan los eventos centroeuropeos: agenda cerrada, entregas rápidas.
+La puntualidad es innegociable en un evento, y la edición no se alarga semanas: mi flujo de trabajo está pensado para que tengas tus fotos rápido, <span class="highlight">normalmente en un día o dos</span>. Mi experiencia con clientes alemanes e internacionales significa que entiendo cómo funcionan los eventos centroeuropeos: agenda cerrada, entregas rápidas.
 
 ### Zonas donde trabajo
 

@@ -22,7 +22,7 @@ faqs:
     a: "Yes, though it's a fairly steep walk down and parking is limited in high season. For sessions at the cove, I recommend early morning."
 ---
 
-Deià is, without exaggeration, one of the most photogenic villages on the Mediterranean — stone houses cascading down the mountainside, with the sea as a backdrop. As a **photographer in Deià**, it's one of my favorite settings for elopements and couple's sessions, precisely because it barely needs any direction: the place does half the work on its own.
+Deià is, without exaggeration, one of the most photogenic villages on the Mediterranean — stone houses cascading down the mountainside, with the sea as a backdrop. As a **photographer in Deià**, it's one of my favorite settings for elopements and couple's sessions, precisely because it barely needs any direction: <span class="highlight">the place does half the work on its own</span>.
 
 It's a small village — you can walk from one end to the other in ten minutes — but the concentration of good light, texture and views per square meter is hard to find anywhere else on the island, which is exactly why it draws couples from all over the world for exactly this kind of session.
 

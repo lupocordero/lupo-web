@@ -2,15 +2,15 @@
 lang: en
 pageSlug: ""
 pageKey: home
-seoTitle: "Lupo — Event, Portrait & Elopement Photographer in Mallorca"
-metaDescription: "Lupo, a Mallorca photographer: weddings, parties, corporate events, family portraits and elopements. Fast delivery, service in English, German and Spanish."
-h1: "Event, portrait and elopement photographer in Mallorca"
-subtitle: "Weddings, parties and corporate events; family portraits in natural light; elopements in Sóller and Deià. Punctual, in your language, fast delivery."
+seoTitle: "Lupo — Private Photographer in Mallorca | Events, Portraits & Elopement"
+metaDescription: "Lupo, a private photographer in Mallorca: weddings, parties, corporate events, family portraits and elopements. Fast delivery, service in English, German and Spanish."
+h1: "Photographer in Mallorca"
+subtitle: "Portraits, weddings, sports or corporate events; family portraits in natural light; elopements in Sóller and Deià. Punctual, in your language, fast delivery."
 heroImage: "/images/mallorca-photographer-hero.webp"
 heroImageAlt: "Photographer capturing a moment at a wedding in Mallorca at sunset"
 ---
 
-I'm Lupo. I live on Mallorca and my focus is **events** — weddings, private parties, corporate events and trade fairs. It's the area where I have the most experience, the most real material, and where I deliver fastest, usually within a day or two. Alongside that I shoot **portraits** of families in natural light, and accompany **elopements** in Sóller and Deià for anyone looking for an intimate ceremony, no guest list, no protocol.
+I'm Lupo, a <span class="highlight">private photographer in Mallorca</span>. My focus is **events** — weddings, private parties, corporate events and trade fairs. It's the area where I have the most experience, the most real material, and where I deliver fastest, usually within a day or two. Alongside that I shoot **portraits** of families in natural light, and accompany **elopements** in Sóller and Deià for anyone looking for an intimate ceremony, no guest list, no protocol.
 
 I mostly work with German and international couples, families and companies. I speak English, German and Spanish, I'm punctual, and I deliver fast.
 
@@ -30,6 +30,6 @@ Sóller and Deià are my favourite ground for an **elopement in Mallorca**: clif
 
 ## Why couples and families choose me
 
-I coordinate everything remotely, in whichever language you prefer, and deliver fast — I know the moment matters, and you shouldn't wait weeks to see it. I live on the island, know the light in every area through every season, and work only with people who fit this approach: calm, honesty, and no artificial direction.
+I coordinate everything remotely, in whichever language you prefer, and <span class="highlight">deliver fast</span> — I know the moment matters, and you shouldn't wait weeks to see it. I live on the island, know the light in every area through every season, and work only with people who fit this approach: calm, honesty, and no artificial direction.
 
 If that sounds like what you're after, tell me what you have in mind.

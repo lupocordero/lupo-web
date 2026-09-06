@@ -3,14 +3,14 @@ lang: de
 pageSlug: "uber-mich"
 pageKey: about
 seoTitle: "Über mich | Lupo, Fotograf auf Mallorca"
-metaDescription: "Lerne Lupo kennen, Fotograf auf Mallorca für Events, Porträts und Elopements. Natürlicher, dokumentarischer Stil, Pünktlichkeit und persönlicher Kontakt mit internationalen Kunden."
+metaDescription: "Lerne Lupo kennen, privater Fotograf auf Mallorca für Events, Porträts und Elopements. Natürlicher, dokumentarischer Stil, Pünktlichkeit und persönlicher Kontakt mit internationalen Kunden."
 h1: "Über mich"
 subtitle: "Der Fotograf hinter den Bildern: wie und warum ich arbeite"
 heroImage: "/images/uber-mich-lupo-fotograf-mallorca.webp"
 heroImageAlt: "Porträt von Lupo, Fotograf auf Mallorca, mit Kamera im Feld"
 ---
 
-Ich bin Lupo, Fotograf mit Sitz auf Mallorca. Die Insel steckt in meiner Arbeit: Fast alles, was ich fotografiere, entsteht hier — zwischen Palma, der Serra de Tramuntana und den Küstendörfern. Bevor ich mich ganz der dokumentarischen Fotografie verschrieben habe, habe ich Jahre hinter der Kamera verbracht und mir alles durch Praxis beigebracht — Hochzeiten von Freunden, spontane Porträts, Food-Fotos für kleine lokale Betriebe —, bis mir klar wurde, dass meine eigentliche Stärke nicht "schöne Bilder machen" war, sondern zu erzählen, was wirklich vor mir passiert, ohne es zu erzwingen.
+Ich bin Lupo, Fotograf mit Sitz auf Mallorca. Die Insel steckt in meiner Arbeit: Fast alles, was ich fotografiere, entsteht hier — zwischen Palma, der Serra de Tramuntana und den Küstendörfern. Bevor ich mich ganz der dokumentarischen Fotografie verschrieben habe, habe ich Jahre hinter der Kamera verbracht und mir alles durch Praxis beigebracht — Hochzeiten von Freunden, spontane Porträts, Food-Fotos für kleine lokale Betriebe —, bis mir klar wurde, dass meine eigentliche Stärke nicht "schöne Bilder machen" war, sondern <span class="highlight">zu erzählen, was wirklich vor mir passiert, ohne es zu erzwingen</span>.
 
 **Mein Stil ist casual, natürlich und dokumentarisch.** Das bedeutet: In meinem Portfolio findest du keine steifen Posen oder künstlichen Kulissen. Ich lasse euch lieber gehen, reden, miteinander lachen — als Paar oder als Familie — und halte das fest, während es passiert. Das Ergebnis sind klare, helle, ehrliche Bilder — die Art von Fotos, die auch fünf Jahre später noch die Wahrheit dieses Tages erzählen.
 

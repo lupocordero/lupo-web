@@ -18,13 +18,13 @@ gallery:
   - src: "/images/palma-photographer-mallorca-05.webp"
     alt: "Cobbled street in the La Lonja neighborhood of Palma de Mallorca"
 faqs:
-  - q: "What are the best spots for photos in Palma?"
-    a: "The old town (La Lonja and Calatrava), the Cathedral and Parc de la Mar, the seafront promenade, and charming neighborhoods like Santa Catalina are my favorites, depending on the type of session. For family portraits I prefer quieter times (early morning); for elopements and weddings, sunset light on the Cathedral is hard to beat."
+  - q: "Can we do the Palma session with the whole family, grandparents or the family dog included?"
+    a: "Absolutely — the more generations or furry companions, the better. I just factor that in when picking a location with easy access and shade, and build in rest breaks if there are young kids or older family members in the group."
   - q: "Do I need a permit to shoot at Palma Cathedral or the old town?"
     a: "Casual street photography doesn't need a permit, but sessions with a larger setup (multiple flashes, tripods taking up space) in certain parts of the historic center may require municipal authorization. I'll advise you on this based on the exact location we choose."
 ---
 
-Palma is where I'm based and one of the areas I work in most often as a **photographer in Palma de Mallorca** — not just because I live nearby, but because the city offers a combination that's hard to match: centuries of character in its historic center, Mediterranean light right by the sea, and the infrastructure of a capital city for weddings, corporate events and trade fairs.
+Palma is where I'm based and one of the areas I work in most often as a **photographer in Palma de Mallorca** — not just because I live nearby, but because the city offers <span class="highlight">a combination that's hard to match</span>: centuries of character in its historic center, Mediterranean light right by the sea, and the infrastructure of a capital city for weddings, corporate events and trade fairs.
 
 It's also the easiest place on the island to reach — a short drive from the airport, well connected to the rest of Mallorca, and full of hotels and rental apartments, which makes it a natural base for visiting couples and families who want to combine a session here with day trips to Sóller, Deià or the beaches further along the coast.
 

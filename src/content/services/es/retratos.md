@@ -33,7 +33,7 @@ faqs:
     a: "Selección editada en 3-5 días para sesiones de familia y retratos, y en 24-48 horas para headshots profesionales, ya que suelen necesitarse rápido para LinkedIn o webs corporativas."
 ---
 
-Un buen retrato no necesita una sonrisa fingida. Como **fotógrafo de retratos en Mallorca**, dejo que las personas sean ellas mismas y capturo eso, en vez de dirigir una sesión rígida.
+Un buen retrato no necesita una sonrisa fingida. Como **fotógrafo de retratos en Mallorca**, <span class="highlight">dejo que las personas sean ellas mismas</span> y capturo eso, en vez de dirigir una sesión rígida.
 
 ### Qué incluye el servicio
 

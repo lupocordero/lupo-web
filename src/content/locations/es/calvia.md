@@ -22,7 +22,7 @@ faqs:
     a: "La temporada alta (mayo a octubre) ofrece el mejor clima, pero también más gente y precios más altos en algunas fincas. Primavera y principios de otoño suelen dar la mejor combinación de buen tiempo y menos aglomeración."
 ---
 
-Calvià —que incluye zonas tan conocidas como Puerto Portals, Santa Ponça, Bendinat y Portals Nous— es probablemente la zona de la isla con mayor concentración de villas de lujo, puertos deportivos y fincas de alto nivel. Como **fotógrafo en Calvià**, es una de las áreas donde trabajo más a menudo tanto bodas como eventos privados y corporativos.
+Calvià —que incluye zonas tan conocidas como Puerto Portals, Santa Ponça, Bendinat y Portals Nous— es probablemente la zona de la isla con mayor concentración de villas de lujo, puertos deportivos y fincas de alto nivel. Como **fotógrafo en Calvià**, es una de las áreas donde trabajo más a menudo tanto bodas como <span class="highlight">eventos privados</span> y corporativos.
 
 ### Qué tipo de sesiones hago en Calvià
 

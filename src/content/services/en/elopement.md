@@ -3,7 +3,7 @@ lang: en
 pageSlug: "elopement"
 serviceKey: elopement
 seoTitle: "Elopement Photographer in Mallorca | Intimate Couple Sessions"
-metaDescription: "Elopement photographer in Mallorca specializing in intimate couple sessions in Sóller, Deià and the whole Tramuntana mountains. Punctual, low-key, and fast delivery."
+metaDescription: "Private elopement photographer in Mallorca specializing in intimate couple sessions in Sóller, Deià and the whole Tramuntana mountains. Punctual, low-key, and fast delivery."
 h1: "Elopement Photographer in Mallorca"
 subtitle: "Intimate ceremonies and couple sessions in the island's most beautiful corners — no guest list, no schedule to manage, just the two of you and the landscape."
 heroImage: "/images/elopement-photographer-mallorca-01.webp"
@@ -37,7 +37,7 @@ faqs:
     a: "You'll get a first edited selection within 3-5 days so you can share the moment right away, with the full gallery delivered within 1-2 weeks."
 ---
 
-An elopement in Mallorca is the most honest way to get married or celebrate your commitment: no protocol, no hundred guests, just the two of you and the landscape. As an **elopement photographer in Mallorca**, this is exactly what I specialize in — capturing what you feel, not directing a production.
+An elopement in Mallorca is the most honest way to get married or celebrate your commitment: no protocol, no hundred guests, <span class="highlight">just the two of you and the landscape</span>. As a **private elopement photographer in Mallorca**, this is exactly what I specialize in — capturing what you feel, not directing a production.
 
 ### What's included
 

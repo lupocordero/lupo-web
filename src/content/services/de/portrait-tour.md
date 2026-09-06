@@ -33,7 +33,7 @@ faqs:
     a: "Ihr bekommt eine bearbeitete Auswahl innerhalb weniger Tage, genau wie bei meinen anderen Sessions."
 ---
 
-Der **Portrait Tour** verbindet zwei Dinge: Palma wirklich kennenlernen und Fotos mitnehmen, die nicht wie Touristenschnappschüsse aussehen. Wir laufen durch die Ecken der Stadt, die ich am meisten mag — die, die kein Stadtplan zeigt — und ich fotografiere euch bei jedem Stopp in Ruhe, ohne Eile und ohne gestellte Posen.
+Der **Portrait Tour** verbindet zwei Dinge: Palma wirklich kennenlernen und <span class="highlight">Fotos mitnehmen, die nicht wie Touristenschnappschüsse aussehen</span>. Wir laufen durch die Ecken der Stadt, die ich am meisten mag — die, die kein Stadtplan zeigt — und ich fotografiere euch bei jedem Stopp in Ruhe, ohne Eile und ohne gestellte Posen.
 
 ### Was ist im Service enthalten
 

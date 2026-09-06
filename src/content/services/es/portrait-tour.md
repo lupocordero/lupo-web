@@ -33,7 +33,7 @@ faqs:
     a: "Recibiréis una selección editada en pocos días, igual que en el resto de mis sesiones."
 ---
 
-El **Portrait Tour** es la forma que tengo de unir dos cosas: conocer Palma de verdad y llevaros fotos que no parecen turísticas. Caminamos por los rincones que más me gustan de la ciudad — los que un mapa no enseña — y en cada parada os hago fotos con calma, sin prisa y sin posados forzados.
+El **Portrait Tour** es la forma que tengo de unir dos cosas: conocer Palma de verdad y <span class="highlight">llevaros fotos que no parecen turísticas</span>. Caminamos por los rincones que más me gustan de la ciudad — los que un mapa no enseña — y en cada parada os hago fotos con calma, sin prisa y sin posados forzados.
 
 ### Qué incluye el servicio
 

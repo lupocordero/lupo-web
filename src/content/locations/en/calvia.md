@@ -22,7 +22,7 @@ faqs:
     a: "Peak season (May to October) offers the best weather, but also more crowds and higher prices at some venues. Spring and early autumn tend to give the best balance of good weather and fewer crowds."
 ---
 
-Calvià — which includes well-known areas like Puerto Portals, Santa Ponça, Bendinat and Portals Nous — is probably the area on the island with the highest concentration of luxury villas, marinas and high-end estates. As a **photographer in Calvià**, it's one of the areas where I work most often, covering both weddings as well as private and corporate events.
+Calvià — which includes well-known areas like Puerto Portals, Santa Ponça, Bendinat and Portals Nous — is probably the area on the island with the highest concentration of luxury villas, marinas and high-end estates. As a **photographer in Calvià**, it's one of the areas where I work most often, covering both weddings as well as <span class="highlight">private and corporate events</span>.
 
 It's also one of the most international parts of Mallorca, home to a large community of German, British and Scandinavian residents alongside seasonal visitors, which shapes a lot of how I work here — clear, fast communication and a polished final product matter as much as the photos themselves.
 

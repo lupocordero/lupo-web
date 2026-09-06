@@ -22,7 +22,7 @@ faqs:
     a: "Die Hochsaison (Mai bis Oktober) bietet das beste Wetter, aber auch mehr Trubel und höhere Preise bei manchen Fincas. Frühling und früher Herbst bieten meist die beste Kombination aus gutem Wetter und weniger Andrang."
 ---
 
-Calvià – mit bekannten Gegenden wie Puerto Portals, Santa Ponça, Bendinat und Portals Nous – ist wahrscheinlich die Region der Insel mit der höchsten Konzentration an Luxusvillen, Yachthäfen und erstklassigen Fincas. Als **Fotograf Calvià** ist das eine der Gegenden, in denen ich am häufigsten sowohl Hochzeiten als auch private und geschäftliche Events fotografiere.
+Calvià – mit bekannten Gegenden wie Puerto Portals, Santa Ponça, Bendinat und Portals Nous – ist wahrscheinlich die Region der Insel mit der höchsten Konzentration an Luxusvillen, Yachthäfen und erstklassigen Fincas. Als **Fotograf Calvià** ist das eine der Gegenden, in denen ich am häufigsten sowohl Hochzeiten als auch <span class="highlight">private und geschäftliche Events</span> fotografiere.
 
 ### Welche Art von Sessions ich in Calvià mache
 

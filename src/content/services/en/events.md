@@ -48,7 +48,7 @@ A pre-event call to understand the program and key moments, coverage for the boo
 
 ### Why choose me
 
-Punctuality is non-negotiable at an event, and editing doesn't drag on for weeks: my workflow is built so you get your photos fast, usually within a day or two. My experience with German and international clients means I understand how central European events run: tight agendas, fast turnarounds.
+Punctuality is non-negotiable at an event, and editing doesn't drag on for weeks: my workflow is built so you get your photos fast, <span class="highlight">usually within a day or two</span>. My experience with German and international clients means I understand how central European events run: tight agendas, fast turnarounds.
 
 ### Areas I cover
 

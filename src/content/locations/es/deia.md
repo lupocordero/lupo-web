@@ -22,7 +22,7 @@ faqs:
     a: "Sí, aunque el acceso es una bajada pronunciada y el aparcamiento es limitado en temporada alta. Para sesiones en la cala, recomiendo horarios de primera hora de la mañana."
 ---
 
-Deià es, sin exagerar, uno de los pueblos más fotogénicos del Mediterráneo — casas de piedra en cascada sobre la ladera de la montaña, con el mar como telón de fondo. Como **fotógrafo en Deià**, es uno de mis escenarios favoritos para elopements y sesiones de pareja, precisamente porque no necesita casi nada de dirección: el lugar ya hace la mitad del trabajo.
+Deià es, sin exagerar, uno de los pueblos más fotogénicos del Mediterráneo — casas de piedra en cascada sobre la ladera de la montaña, con el mar como telón de fondo. Como **fotógrafo en Deià**, es uno de mis escenarios favoritos para elopements y sesiones de pareja, precisamente porque no necesita casi nada de dirección: <span class="highlight">el lugar ya hace la mitad del trabajo</span>.
 
 ### Qué tipo de sesiones hago en Deià
 

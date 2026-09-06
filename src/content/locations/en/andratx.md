@@ -22,7 +22,7 @@ faqs:
     a: "Not far at all — a little over half an hour, so it doesn't come with any extra travel surcharge or limit what time of day the session can happen."
 ---
 
-Andratx, right at the southwest tip of the island, shifts character depending on the corner: **Port d'Andratx** with its marina and upscale restaurants, **Sant Elm** looking out at the island of Sa Dragonera, and the inland town of Andratx itself, quieter and with a weekly market. As a **photographer in Andratx**, it's an area I visit often — it's home to one of Mallorca's most established German communities outside Palma, and I work here comfortably in both German and Spanish.
+Andratx, right at the southwest tip of the island, shifts character depending on the corner: **Port d'Andratx** with its marina and upscale restaurants, **Sant Elm** looking out at the island of Sa Dragonera, and the inland town of Andratx itself, quieter and with a weekly market. As a **photographer in Andratx**, it's an area I visit often — it's home to one of Mallorca's most established German communities outside Palma, and <span class="highlight">I work here comfortably in both German and Spanish</span>.
 
 ### The kind of sessions I do in Andratx
 

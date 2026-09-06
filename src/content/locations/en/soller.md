@@ -22,7 +22,7 @@ faqs:
     a: "The town has limited parking during peak season, so I usually recommend specific spots with easy access and, if the session includes several locations, I plan the route to minimize driving between them."
 ---
 
-Sóller is probably the location I'm asked for most after Palma, and it's no coincidence: as a **photographer in Sóller**, I get to work in a valley ringed by mountains, covered in orange groves, with a village of Modernist architecture and a natural harbor just minutes away. Few areas of Mallorca offer this much variety in such a small radius.
+Sóller is probably the location I'm asked for most after Palma, and it's no coincidence: as a **photographer in Sóller**, I get to work in a valley ringed by mountains, covered in orange groves, with a village of Modernist architecture and a natural harbor just minutes away. <span class="highlight">Few areas of Mallorca offer this much variety in such a small radius</span>.
 
 It's also close enough to Palma — about 30 minutes by car through the Sóller tunnel, or a slower, more scenic drive over the mountain pass — that it works well both as a standalone destination and as a natural add-on to a session that starts elsewhere on the island.
 

@@ -29,4 +29,12 @@ export default {
     },
   },
   plugins: [],
+  future: {
+    // Scope all `hover:` utilities to devices that actually support real
+    // hovering (@media (hover: hover)). Without this, tapping a link on a
+    // touch device "locks in" its hover color (e.g. hover:text-rust) until
+    // something else is tapped — including after navigating back, since
+    // the tapped/hover state gets restored along with the cached page.
+    hoverOnlyWhenSupported: true,
+  },
 };

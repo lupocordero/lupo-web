@@ -3,14 +3,14 @@ lang: es
 pageSlug: "sobre-mi"
 pageKey: about
 seoTitle: "Sobre mí | Lupo, fotógrafo en Mallorca"
-metaDescription: "Conoce a Lupo, fotógrafo en Mallorca especializado en eventos, retratos y elopements. Estilo natural y documental, puntualidad y trato cercano con clientes internacionales."
+metaDescription: "Conoce a Lupo, fotógrafo privado en Mallorca especializado en eventos, retratos y elopements. Estilo natural y documental, puntualidad y trato cercano con clientes internacionales."
 h1: "Sobre mí"
 subtitle: "El fotógrafo detrás de las fotos: cómo trabajo y por qué"
 heroImage: "/images/sobre-mi-lupo-fotografo-mallorca.webp"
 heroImageAlt: "Retrato de Lupo, fotógrafo en Mallorca, con su cámara en el campo"
 ---
 
-Soy Lupo, fotógrafo afincado en Mallorca. Llevo la isla en el nombre y en el trabajo: prácticamente toda mi actividad ocurre aquí, entre Palma, la Sierra de Tramuntana y los pueblos de la costa. Antes de dedicarme por completo a la fotografía documental, pasé años detrás de la cámara aprendiendo a base de práctica — bodas de amigos, retratos improvisados, fotos de comida para pequeños negocios locales — hasta que entendí que lo que realmente se me daba bien no era "hacer fotos bonitas" sino contar lo que de verdad pasaba delante de mí, sin forzarlo.
+Soy Lupo, fotógrafo afincado en Mallorca. Llevo la isla en el nombre y en el trabajo: prácticamente toda mi actividad ocurre aquí, entre Palma, la Sierra de Tramuntana y los pueblos de la costa. Antes de dedicarme por completo a la fotografía documental, pasé años detrás de la cámara aprendiendo a base de práctica — bodas de amigos, retratos improvisados, fotos de comida para pequeños negocios locales — hasta que entendí que lo que realmente se me daba bien no era "hacer fotos bonitas" sino <span class="highlight">contar lo que de verdad pasaba delante de mí, sin forzarlo</span>.
 
 **Mi estilo es casual, natural y documental.** Eso significa que no vas a ver en mi portfolio poses rígidas ni escenarios artificiales. Prefiero que camines, que hables, que te rías con tu pareja o tu familia, y capturar eso mientras ocurre. El resultado son imágenes limpias, luminosas y honestas — el tipo de fotos que, cinco años después, siguen contando la verdad de ese día.
 

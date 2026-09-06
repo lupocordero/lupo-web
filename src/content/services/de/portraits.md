@@ -33,7 +33,7 @@ faqs:
     a: "Eine bearbeitete Auswahl in 3-5 Tagen für Familien- und Porträt-Sessions, und 24-48 Stunden für Business-Headshots, da diese meist schnell für LinkedIn oder Firmenwebsites gebraucht werden."
 ---
 
-Ein gutes Porträt braucht kein gespieltes Lächeln. Als **Portraitfotograf Mallorca** lasse ich Menschen einfach sie selbst sein und halte genau das fest, statt eine steife Session zu inszenieren.
+Ein gutes Porträt braucht kein gespieltes Lächeln. Als **Portraitfotograf Mallorca** <span class="highlight">lasse ich Menschen einfach sie selbst sein</span> und halte genau das fest, statt eine steife Session zu inszenieren.
 
 ### Was ist im Service enthalten
 

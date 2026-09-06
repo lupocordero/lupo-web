@@ -18,13 +18,13 @@ gallery:
   - src: "/images/fotograf-palma-mallorca-05.webp"
     alt: "Kopfsteinpflastergasse im Viertel La Lonja in Palma de Mallorca"
 faqs:
-  - q: "Welche sind die besten Orte für Fotos in Palma?"
-    a: "Die Altstadt (Viertel La Lonja, Calatrava), die Kathedrale und der Parc de la Mar, die Strandpromenade und charmante Viertel wie Santa Catalina sind meine Favoriten, je nach Art der Session. Für Familienportraits bevorzuge ich Zeiten mit wenig Trubel (früh morgens); für Elopements und Hochzeiten ist das Abendlicht über der Kathedrale kaum zu übertreffen."
+  - q: "Können wir die Session in Palma mit der ganzen Familie machen, inklusive Großeltern oder Haustier?"
+    a: "Ja, kein Problem – je mehr Generationen oder pelzige Begleiter, desto besser. Ich berücksichtige das nur bei der Wahl einer Location mit gutem Zugang und Schatten und plane Pausen ein, wenn kleine Kinder oder ältere Familienmitglieder dabei sind."
   - q: "Brauche ich eine Genehmigung für Fotos an der Kathedrale von Palma oder in der Altstadt?"
     a: "Für lockere Straßenfotografie ist keine Genehmigung nötig, aber für Sessions mit großem Equipment (mehrere Blitze, Stative, die Platz beanspruchen) in bestimmten Bereichen der Altstadt kann eine städtische Genehmigung erforderlich sein. Ich berate euch dazu je nach genau gewähltem Ort."
 ---
 
-Palma ist meine Homebase und eine der Gegenden, in denen ich als **Fotograf Palma de Mallorca** am häufigsten arbeite – nicht nur, weil ich in der Nähe wohne, sondern weil die Stadt eine kaum zu schlagende Kombination bietet: eine jahrhundertealte Altstadt mit Charakter, mediterranes Licht direkt am Meer und die Infrastruktur einer Hauptstadt für Hochzeiten, Firmenevents und Messen.
+Palma ist meine Homebase und eine der Gegenden, in denen ich als **Fotograf Palma de Mallorca** am häufigsten arbeite – nicht nur, weil ich in der Nähe wohne, sondern weil die Stadt <span class="highlight">eine kaum zu schlagende Kombination</span> bietet: eine jahrhundertealte Altstadt mit Charakter, mediterranes Licht direkt am Meer und die Infrastruktur einer Hauptstadt für Hochzeiten, Firmenevents und Messen.
 
 ### Welche Art von Sessions ich in Palma mache
 

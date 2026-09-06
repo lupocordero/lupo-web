@@ -33,7 +33,7 @@ faqs:
     a: "An edited selection within 3-5 days for family and portrait sessions, and 24-48 hours for professional headshots, since those are usually needed quickly for LinkedIn or company websites."
 ---
 
-A good portrait doesn't require faking a smile. As a **portrait photographer in Mallorca**, I let people be themselves and capture that, instead of directing a stiff session.
+A good portrait doesn't require faking a smile. As a **portrait photographer in Mallorca**, <span class="highlight">I let people be themselves</span> and capture that, instead of directing a stiff session.
 
 ### What's included
 

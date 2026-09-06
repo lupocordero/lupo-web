@@ -48,7 +48,7 @@ Vorgespräch zum Ablauf und den wichtigsten Momenten, Coverage während der gebu
 
 ### Warum ihr euch für mich entscheiden solltet
 
-Pünktlichkeit ist bei einem Event nicht verhandelbar, und die Bearbeitung zieht sich nicht wochenlang hin: Mein Workflow ist darauf ausgelegt, dass ihr eure Fotos schnell bekommt, meist innerhalb von ein oder zwei Tagen. Meine Erfahrung mit deutschen und internationalen Kunden bedeutet, dass ich weiß, wie mitteleuropäische Events funktionieren: fester Ablauf, schnelle Lieferung.
+Pünktlichkeit ist bei einem Event nicht verhandelbar, und die Bearbeitung zieht sich nicht wochenlang hin: Mein Workflow ist darauf ausgelegt, dass ihr eure Fotos schnell bekommt, <span class="highlight">meist innerhalb von ein oder zwei Tagen</span>. Meine Erfahrung mit deutschen und internationalen Kunden bedeutet, dass ich weiß, wie mitteleuropäische Events funktionieren: fester Ablauf, schnelle Lieferung.
 
 ### Gebiete, in denen ich arbeite
 

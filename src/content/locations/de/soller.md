@@ -22,7 +22,7 @@ faqs:
     a: "Der Ort hat in der Hochsaison nur begrenzte Parkmöglichkeiten, deshalb empfehle ich meist bestimmte Orte mit einfachem Zugang, und wenn die Session mehrere Locations umfasst, plane ich die Route so, dass Fahrten minimiert werden."
 ---
 
-Sóller ist wahrscheinlich der nach Palma am meisten gefragte Ort, und das ist kein Zufall: Als **Fotograf Sóller** habe ich das Glück, in einem von Bergen umgebenen Tal voller Orangenbäume zu arbeiten, mit einem Dorf im Modernisme-Stil und einem Naturhafen nur wenige Minuten entfernt. Kaum eine andere Gegend Mallorcas bietet so viel Vielfalt an Kulissen auf so kleinem Raum.
+Sóller ist wahrscheinlich der nach Palma am meisten gefragte Ort, und das ist kein Zufall: Als **Fotograf Sóller** habe ich das Glück, in einem von Bergen umgebenen Tal voller Orangenbäume zu arbeiten, mit einem Dorf im Modernisme-Stil und einem Naturhafen nur wenige Minuten entfernt. <span class="highlight">Kaum eine andere Gegend Mallorcas bietet so viel Vielfalt an Kulissen auf so kleinem Raum</span>.
 
 ### Welche Art von Sessions ich in Sóller mache
 
