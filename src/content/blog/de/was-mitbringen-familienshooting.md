@@ -8,7 +8,7 @@ h1: "Was ihr zu eurem Familienshooting auf Mallorca mitbringen solltet"
 excerpt: "Kleidung, Schuhwerk, Timing und kleine Tricks, damit euer Familienfotoshooting auf Mallorca gelingt – ganz ohne Last-Minute-Stress."
 publishDate: 2026-05-14
 heroImage: "/images/blog-was-mitbringen-familienshooting-01.webp"
-heroImageAlt: "Familie bereitet sich auf ein Fotoshooting in der Natur auf Mallorca vor"
+heroImageAlt: "Mit Pinien bewachsene Klippen am Meer auf Mallorca"
 relatedServiceKeys: ["portraits"]
 relatedLocationKeys: ["palma", "soller"]
 ---

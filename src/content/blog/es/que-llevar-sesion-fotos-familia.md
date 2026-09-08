@@ -8,7 +8,7 @@ h1: "Qué llevar a tu sesión de fotos de familia en Mallorca"
 excerpt: "Ropa, calzado, horarios y pequeños trucos para que tu sesión de fotos de familia en Mallorca salga bien, sin estrés de última hora."
 publishDate: 2026-05-14
 heroImage: "/images/blog-que-llevar-sesion-familia-01.webp"
-heroImageAlt: "Familia preparándose para una sesión de fotos en la naturaleza en Mallorca"
+heroImageAlt: "Acantilados cubiertos de pinos junto al mar en Mallorca"
 relatedServiceKeys: ["portraits"]
 relatedLocationKeys: ["palma", "soller"]
 ---

@@ -8,7 +8,7 @@ h1: "Best Locations for Family Photos in Mallorca"
 excerpt: "A practical guide to the corners of Mallorca where family photos turn out best, based on the light, the atmosphere and how comfortable each spot is with kids in tow."
 publishDate: 2026-03-10
 heroImage: "/images/blog-family-photos-mallorca-01.webp"
-heroImageAlt: "Family walking along the beach at sunset in Mallorca"
+heroImageAlt: "Panoramic view of Mallorca's mountains with the sea in the distance, one of the best spots for family photos"
 relatedServiceKeys: ["portraits", "elopement"]
 relatedLocationKeys: ["palma", "soller", "calvia"]
 ---

@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import ServiceCard from '../../components/ServiceCard.astro';
 import WhatsAppCTA from '../../components/WhatsAppCTA.astro';
 import Marquee from '../../components/Marquee.astro';
+import Gallery from '../../components/Gallery.astro';
 import {
   LANGS,
   type Lang,
@@ -90,6 +91,13 @@ const path = localePath(lang, '');
       <Content />
     </div>
   </section>
+
+  {entry.data.gallery && entry.data.gallery.length > 0 && (
+    <section class="mx-auto max-w-5xl px-5 pb-16 md:px-8 md:pb-24">
+      <h2 class="eyebrow mb-8">{ui.reelsHeading}</h2>
+      <Gallery images={entry.data.gallery} />
+    </section>
+  )}
 
   <section class="mx-auto max-w-5xl px-5 py-16 md:px-8 md:py-24">
     <h2 class="eyebrow mb-8">{ui.servicesHeading}</h2>

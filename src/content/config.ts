@@ -58,6 +58,7 @@ const pages = defineCollection({
     subtitle: z.string().optional(),
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
+    gallery: z.array(z.object({ src: z.string(), alt: z.string() })).default([]),
   }),
 });
 

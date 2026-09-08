@@ -8,7 +8,7 @@ h1: "What to Bring to Your Family Photo Session in Mallorca"
 excerpt: "Clothing, footwear, timing and small tricks to make sure your family photo session in Mallorca goes smoothly, without last-minute stress."
 publishDate: 2026-05-14
 heroImage: "/images/blog-what-to-bring-family-session-01.webp"
-heroImageAlt: "Family getting ready for an outdoor photo session in Mallorca"
+heroImageAlt: "Pine-covered cliffs by the sea in Mallorca"
 relatedServiceKeys: ["portraits"]
 relatedLocationKeys: ["palma", "soller"]
 ---

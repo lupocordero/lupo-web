@@ -7,7 +7,18 @@ metaDescription: "Lupo, fotógrafo privado en Mallorca: bodas, fiestas, eventos 
 h1: "Fotógrafo en Mallorca"
 subtitle: "Retratos, bodas, eventos deportivos o de empresa; retratos de familia con luz natural; elopements en Sóller y Deià. Puntual, en tu idioma, entrega rápida."
 heroImage: "/images/fotografo-mallorca-hero.webp"
-heroImageAlt: "Fotógrafo captando un momento durante una boda al atardecer en Mallorca"
+heroImageAlt: "Cresta de montaña envuelta en bruma con el sol asomando en la Sierra de Tramuntana"
+gallery:
+  - src: "/images/fotografo-mallorca-galeria-01.webp"
+    alt: "Vista aérea de acantilados con pinares y el mar de Mallorca"
+  - src: "/images/fotografo-mallorca-galeria-02.webp"
+    alt: "Vista panorámica de las montañas de la Sierra de Tramuntana con el mar al fondo"
+  - src: "/images/fotografo-mallorca-galeria-03.webp"
+    alt: "Cabras salvajes sobre las rocas de la Sierra de Tramuntana"
+  - src: "/images/fotografo-mallorca-galeria-04.webp"
+    alt: "Vista aérea de un pueblo de montaña con luz dorada de atardecer"
+  - src: "/images/fotografo-mallorca-galeria-05.webp"
+    alt: "Cielo estrellado con una estrella fugaz sobre la silueta de la montaña"
 ---
 
 Me llamo Lupo, <span class="highlight">fotógrafo privado en Mallorca</span>. Mi trabajo se centra en **eventos** — bodas, fiestas privadas, eventos de empresa y ferias. Es lo que más he hecho a lo largo de mi carrera, donde tengo más material real y desde donde entrego más rápido, normalmente en un día o dos. A partir de ahí hago también **retratos** de familia con luz natural, y acompaño **elopements** en Sóller y Deià para quien busca una ceremonia íntima, sin invitados ni protocolo.
