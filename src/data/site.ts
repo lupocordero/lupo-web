@@ -74,9 +74,9 @@ export const SERVICE_META = {
 
 export const HOME_SERVICE_BLURBS = {
   events: {
-    es: 'Bodas, fiestas, eventos de empresa y ferias — cobertura completa y entrega rápida.',
-    de: 'Hochzeiten, Feiern, Firmenevents und Messen — volle Abdeckung, schnelle Lieferung.',
-    en: 'Weddings, parties, corporate events and trade fairs — full coverage, fast delivery.',
+    es: 'Fiestas, eventos de empresa y ferias — cobertura completa y entrega rápida.',
+    de: 'Feiern, Firmenevents und Messen — volle Abdeckung, schnelle Lieferung.',
+    en: 'Parties, corporate events and trade fairs — full coverage, fast delivery.',
   },
   portraits: {
     es: 'Familia, niños y retratos personales, siempre naturales.',
@@ -84,9 +84,9 @@ export const HOME_SERVICE_BLURBS = {
     en: 'Family, kids and personal portraits, always natural.',
   },
   elopement: {
-    es: 'Ceremonias íntimas de pareja en los rincones más bonitos de la isla.',
-    de: 'Intime Paar-Zeremonien an den schönsten Orten der Insel.',
-    en: 'Intimate couple ceremonies in the island’s most beautiful corners.',
+    es: 'Elopements y bodas íntimas en los rincones más bonitos de la isla.',
+    de: 'Elopements und intime Hochzeiten an den schönsten Orten der Insel.',
+    en: 'Elopements and intimate weddings in the island’s most beautiful corners.',
   },
   portraittour: {
     es: 'Un paseo fotográfico por Palma en el que te retrato mientras descubrimos la ciudad.',

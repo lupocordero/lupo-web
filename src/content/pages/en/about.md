@@ -6,9 +6,11 @@ seoTitle: "About Me | Lupo, Mallorca Photographer"
 metaDescription: "Meet Lupo, a private Mallorca-based photographer specializing in events, portraits and elopements. Natural, documentary style, punctuality and a personal approach for international clients."
 h1: "About Me"
 subtitle: "The photographer behind the photos: how and why I work this way"
-heroImage: "/images/about-lupo-mallorca-photographer.webp"
-heroImageAlt: "Lupo, photographer in Mallorca, leaning against an olive tree trunk"
+heroImage: "/images/about-lupo-mallorca-photographer-hero.webp"
+heroImageAlt: "Lupo, photographer in Mallorca, holding his camera taking a photo"
 ---
+
+<img src="/images/about-lupo-mallorca-photographer.webp" alt="Lupo, photographer in Mallorca, leaning against an olive tree trunk" class="mb-8 aspect-[4/3] w-full rounded-sm object-cover" loading="lazy" decoding="async" />
 
 I'm Lupo, a photographer based on Mallorca. The island is woven into almost everything I shoot — between Palma, the Serra de Tramuntana and the coastal villages. Before committing fully to documentary photography, I spent years behind the camera learning through practice — friends' weddings, spontaneous portraits, food photos for small local businesses — until it became clear that what I was actually good at wasn't "taking pretty pictures" but <span class="highlight">telling the truth of what was happening in front of me, without forcing it</span>.
 

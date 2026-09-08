@@ -6,9 +6,11 @@ seoTitle: "Sobre mí | Lupo, fotógrafo en Mallorca"
 metaDescription: "Conoce a Lupo, fotógrafo privado en Mallorca especializado en eventos, retratos y elopements. Estilo natural y documental, puntualidad y trato cercano con clientes internacionales."
 h1: "Sobre mí"
 subtitle: "El fotógrafo detrás de las fotos: cómo trabajo y por qué"
-heroImage: "/images/sobre-mi-lupo-fotografo-mallorca.webp"
-heroImageAlt: "Lupo, fotógrafo en Mallorca, apoyado en el tronco de un olivo"
+heroImage: "/images/sobre-mi-lupo-fotografo-mallorca-hero.webp"
+heroImageAlt: "Lupo, fotógrafo en Mallorca, sujetando su cámara y haciendo una foto"
 ---
+
+<img src="/images/sobre-mi-lupo-fotografo-mallorca.webp" alt="Lupo, fotógrafo en Mallorca, apoyado en el tronco de un olivo" class="mb-8 aspect-[4/3] w-full rounded-sm object-cover" loading="lazy" decoding="async" />
 
 Soy Lupo, fotógrafo afincado en Mallorca. Llevo la isla en el nombre y en el trabajo: prácticamente toda mi actividad ocurre aquí, entre Palma, la Sierra de Tramuntana y los pueblos de la costa. Antes de dedicarme por completo a la fotografía documental, pasé años detrás de la cámara aprendiendo a base de práctica — bodas de amigos, retratos improvisados, fotos de comida para pequeños negocios locales — hasta que entendí que lo que realmente se me daba bien no era "hacer fotos bonitas" sino <span class="highlight">contar lo que de verdad pasaba delante de mí, sin forzarlo</span>.
 
