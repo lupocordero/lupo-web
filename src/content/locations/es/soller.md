@@ -7,14 +7,10 @@ metaDescription: "Fotógrafo en Sóller, Mallorca especializado en elopements, b
 h1: "Fotógrafo en Sóller, Mallorca"
 subtitle: "Naranjos, montañas y un tren centenario — uno de los escenarios más pedidos para elopements y bodas."
 heroImage: "/images/fotografo-soller-mallorca-01.webp"
-heroImageAlt: "Pareja caminando entre naranjos en Sóller, Mallorca, durante su elopement"
+heroImageAlt: "Tranvía histórico de Sóller junto al mar en el Puerto de Sóller"
 gallery:
   - src: "/images/fotografo-soller-mallorca-02.webp"
-    alt: "Boda íntima en una finca con vistas a la Sierra de Tramuntana cerca de Sóller"
-  - src: "/images/fotografo-soller-mallorca-03.webp"
-    alt: "Familia paseando por la plaza de Sóller durante una sesión de fotos"
-  - src: "/images/fotografo-soller-mallorca-04.webp"
-    alt: "Vistas del Puerto de Sóller al atardecer durante una sesión de pareja"
+    alt: "Faro del Puerto de Sóller al atardecer"
 faqs:
   - q: "¿Por qué Sóller es tan popular para elopements?"
     a: "La combinación de montaña, naranjos, arquitectura de piedra y un puerto natural en menos de 10 minutos de coche la convierte en una de las zonas más versátiles de la isla — puedes tener tres ambientes completamente distintos en una sola sesión."

@@ -7,14 +7,10 @@ metaDescription: "Photographer in Sóller, Mallorca specializing in elopements, 
 h1: "Photographer in Sóller, Mallorca"
 subtitle: "Orange groves, mountains and a century-old tram — one of the most requested settings for elopements and weddings."
 heroImage: "/images/soller-photographer-mallorca-01.webp"
-heroImageAlt: "Couple walking through the orange groves of Sóller, Mallorca, during their elopement"
+heroImageAlt: "Historic Sóller tram by the sea at Port de Sóller"
 gallery:
   - src: "/images/soller-photographer-mallorca-02.webp"
-    alt: "Intimate wedding at a country estate overlooking the Tramuntana mountains near Sóller"
-  - src: "/images/soller-photographer-mallorca-03.webp"
-    alt: "Family walking through the main square of Sóller during a photo session"
-  - src: "/images/soller-photographer-mallorca-04.webp"
-    alt: "Views of Port de Sóller at sunset during a couple's session"
+    alt: "Lighthouse at Port de Sóller at sunset"
 faqs:
   - q: "Why is Sóller so popular for elopements?"
     a: "The mix of mountains, orange groves, stone architecture and a natural harbor all within a 10-minute drive makes it one of the most versatile areas on the island — you can have three completely different backdrops in a single session."

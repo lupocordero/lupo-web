@@ -7,14 +7,10 @@ metaDescription: "Fotograf in Andratx, Mallorca für Hochzeiten und Events in Po
 h1: "Fotograf in Andratx, Mallorca"
 subtitle: "Yachthafen, Villen am Meer und Sonnenuntergänge über Sa Dragonera – die Ecke im Südwesten mit der größten deutschen Community der Insel."
 heroImage: "/images/fotograf-andratx-mallorca-01.webp"
-heroImageAlt: "Sonnenuntergang über dem Yachthafen von Port d'Andratx, Mallorca"
+heroImageAlt: "Bucht bei Port d'Andratx mit traditionellen Häusern am Meer"
 gallery:
   - src: "/images/fotograf-andratx-mallorca-02.webp"
-    alt: "Restaurantterrasse mit Blick auf den Hafen in Port d'Andratx"
-  - src: "/images/fotograf-andratx-mallorca-03.webp"
-    alt: "Paar auf der Strandpromenade von Sant Elm mit Blick auf Sa Dragonera"
-  - src: "/images/fotograf-andratx-mallorca-04.webp"
-    alt: "Private Feier in einer Villa mit Meerblick in Andratx"
+    alt: "Abendstimmung vor der Küste von Andratx mit einer Yacht am Horizont"
 faqs:
   - q: "Ist Andratx eine gute Gegend für eine Hochzeit, wenn die meisten Gäste deutsch sind?"
     a: "Ja, es ist wahrscheinlich die Gegend Mallorcas mit der größten deutschen Community außerhalb Palmas, deshalb sind Restaurants, Locations und Dienstleister sehr daran gewöhnt, auf Deutsch zu arbeiten. Ich spreche selbst fließend Deutsch, was am Tag des Events sehr hilft."

@@ -7,14 +7,10 @@ metaDescription: "Photographer in Andratx, Mallorca for weddings and events in P
 h1: "Photographer in Andratx, Mallorca"
 subtitle: "Marina life, sea-view villas and sunsets over Sa Dragonera — the corner of the southwest with the island's biggest German community."
 heroImage: "/images/andratx-photographer-mallorca-01.webp"
-heroImageAlt: "Sunset over the marina at Port d'Andratx, Mallorca"
+heroImageAlt: "Cove near Port d'Andratx with traditional seafront houses"
 gallery:
   - src: "/images/andratx-photographer-mallorca-02.webp"
-    alt: "Restaurant terrace overlooking the harbor in Port d'Andratx"
-  - src: "/images/andratx-photographer-mallorca-03.webp"
-    alt: "Couple on the seafront promenade in Sant Elm facing Sa Dragonera"
-  - src: "/images/andratx-photographer-mallorca-04.webp"
-    alt: "Private celebration at a sea-view villa in Andratx"
+    alt: "Sunset views off the Andratx coast, with a yacht on the horizon"
 faqs:
   - q: "Is Andratx a good area for a wedding if most of the guests are German?"
     a: "Yes — it's probably the area of Mallorca with the strongest German community outside Palma, so restaurants, venues and vendors are all very used to working in German. I speak fluent German myself, which helps a lot on the day."

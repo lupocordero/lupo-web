@@ -7,18 +7,8 @@ metaDescription: "Portrait Tour por Palma de Mallorca: recorre el centro histór
 h1: "Portrait Tour por Palma de Mallorca"
 subtitle: "Descubre el casco antiguo de Palma mientras te fotografío: una sesión de retrato que es también un paseo por los rincones más bonitos de la ciudad."
 heroImage: "/images/portrait-tour-fotografo-palma-01.webp"
-heroImageAlt: "Pareja fotografiada durante un Portrait Tour por el casco antiguo de Palma de Mallorca"
-gallery:
-  - src: "/images/portrait-tour-fotografo-palma-02.webp"
-    alt: "Pareja caminando por una calle del casco antiguo de Palma durante un Portrait Tour"
-  - src: "/images/portrait-tour-fotografo-palma-03.webp"
-    alt: "Detalle de un patio interior tradicional en el centro histórico de Palma"
-  - src: "/images/portrait-tour-fotografo-palma-04.webp"
-    alt: "Familia fotografiada frente a la Catedral de Palma durante un recorrido fotográfico"
-  - src: "/images/portrait-tour-fotografo-palma-05.webp"
-    alt: "Grupo de amigos paseando por el paseo marítimo de Palma al atardecer"
-  - src: "/images/portrait-tour-fotografo-palma-06.webp"
-    alt: "Retrato espontáneo en una calle empedrada del centro de Palma de Mallorca"
+heroImageAlt: "Torres de la Catedral de Palma vistas desde una calle del casco antiguo, recorrido habitual del Portrait Tour"
+gallery: []
 areas: ["Casco antiguo", "Santa Catalina", "Paseo Marítimo", "Es Baluard"]
 faqs:
   - q: "¿Cuánto dura el Portrait Tour?"

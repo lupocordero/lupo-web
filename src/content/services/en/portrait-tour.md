@@ -7,18 +7,8 @@ metaDescription: "Portrait Tour through Palma de Mallorca: explore the old town 
 h1: "Portrait Tour through Palma de Mallorca"
 subtitle: "Discover Palma's old town while I photograph you — a portrait session that's also a walk through the city's most beautiful corners."
 heroImage: "/images/portrait-tour-photographer-palma-01.webp"
-heroImageAlt: "Couple photographed during a Portrait Tour through Palma de Mallorca's old town"
-gallery:
-  - src: "/images/portrait-tour-photographer-palma-02.webp"
-    alt: "Couple walking through an old town alley in Palma during a Portrait Tour"
-  - src: "/images/portrait-tour-photographer-palma-03.webp"
-    alt: "Detail of a traditional courtyard in Palma's historic centre"
-  - src: "/images/portrait-tour-photographer-palma-04.webp"
-    alt: "Family photographed in front of Palma Cathedral during a photo walk"
-  - src: "/images/portrait-tour-photographer-palma-05.webp"
-    alt: "Group of friends walking along Palma's seafront promenade at sunset"
-  - src: "/images/portrait-tour-photographer-palma-06.webp"
-    alt: "Candid portrait on a cobblestone street in Palma's old town"
+heroImageAlt: "Palma Cathedral's spires seen from an old-town street, part of the usual Portrait Tour route"
+gallery: []
 areas: ["Old town", "Santa Catalina", "Seafront promenade", "Es Baluard"]
 faqs:
   - q: "How long does the Portrait Tour last?"

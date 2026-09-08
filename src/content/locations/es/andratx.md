@@ -7,14 +7,10 @@ metaDescription: "Fotógrafo en Andratx, Mallorca para bodas y eventos en Port d
 h1: "Fotógrafo en Andratx, Mallorca"
 subtitle: "Puerto deportivo, villas frente al mar y atardeceres sobre Sa Dragonera — el rincón del suroeste con más comunidad alemana de la isla."
 heroImage: "/images/fotografo-andratx-mallorca-01.webp"
-heroImageAlt: "Puesta de sol sobre el puerto deportivo de Port d'Andratx, Mallorca"
+heroImageAlt: "Cala junto a Port d'Andratx con casas tradicionales frente al mar"
 gallery:
   - src: "/images/fotografo-andratx-mallorca-02.webp"
-    alt: "Terraza de un restaurante frente al puerto en Port d'Andratx"
-  - src: "/images/fotografo-andratx-mallorca-03.webp"
-    alt: "Pareja en el paseo marítimo de Sant Elm frente a Sa Dragonera"
-  - src: "/images/fotografo-andratx-mallorca-04.webp"
-    alt: "Celebración privada en una villa con vistas al mar en Andratx"
+    alt: "Vistas al atardecer frente a la costa de Andratx, con un yate en el horizonte"
 faqs:
   - q: "¿Es Andratx buena zona para una boda si la mayoría de invitados son alemanes?"
     a: "Sí, es probablemente la zona de Mallorca con mayor presencia de residentes y visitantes alemanes fuera de Palma, así que restaurantes, venues y proveedores están muy acostumbrados a trabajar en alemán. Yo mismo hablo alemán con fluidez, lo cual ayuda mucho el día del evento."

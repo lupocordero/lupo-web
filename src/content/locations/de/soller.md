@@ -7,14 +7,10 @@ metaDescription: "Fotograf in Sóller, Mallorca, spezialisiert auf Elopements, H
 h1: "Fotograf in Sóller, Mallorca"
 subtitle: "Orangenbäume, Berge und eine jahrhundertealte Bahn – eine der gefragtesten Kulissen für Elopements und Hochzeiten."
 heroImage: "/images/fotograf-soller-mallorca-01.webp"
-heroImageAlt: "Paar geht zwischen Orangenbäumen in Sóller, Mallorca, während seines Elopements spazieren"
+heroImageAlt: "Historische Sóller-Straßenbahn am Meer im Hafen von Sóller"
 gallery:
   - src: "/images/fotograf-soller-mallorca-02.webp"
-    alt: "Intime Hochzeit auf einer Finca mit Blick auf die Sierra de Tramuntana nahe Sóller"
-  - src: "/images/fotograf-soller-mallorca-03.webp"
-    alt: "Familie spaziert über den Platz von Sóller während einer Fotosession"
-  - src: "/images/fotograf-soller-mallorca-04.webp"
-    alt: "Blick auf den Hafen von Sóller bei Sonnenuntergang während einer Paarsession"
+    alt: "Leuchtturm im Hafen von Sóller bei Sonnenuntergang"
 faqs:
   - q: "Warum ist Sóller so beliebt für Elopements?"
     a: "Die Kombination aus Berg, Orangenbäumen, Steinarchitektur und einem Naturhafen in weniger als 10 Autominuten macht die Gegend zu einer der vielseitigsten der Insel – ihr könnt drei völlig unterschiedliche Atmosphären in einer einzigen Session erleben."

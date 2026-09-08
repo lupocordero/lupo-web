@@ -7,16 +7,10 @@ metaDescription: "Fotograf in Palma de Mallorca für Hochzeiten, Elopements, Fam
 h1: "Fotograf in Palma, Mallorca"
 subtitle: "Meine Homebase und eine der Gegenden, in denen ich am häufigsten arbeite: Altstadt, Strandpromenade und Umgebung."
 heroImage: "/images/fotograf-palma-mallorca-01.webp"
-heroImageAlt: "Paar spaziert bei Sonnenuntergang vor der Kathedrale von Palma de Mallorca"
+heroImageAlt: "Kathedrale von Palma de Mallorca, Blick vom Parc de la Mar"
 gallery:
   - src: "/images/fotograf-palma-mallorca-02.webp"
-    alt: "Familienportrait-Session in der Altstadt von Palma de Mallorca"
-  - src: "/images/fotograf-palma-mallorca-03.webp"
-    alt: "Firmenevent in einem Hotel im Zentrum von Palma de Mallorca"
-  - src: "/images/fotograf-palma-mallorca-04.webp"
-    alt: "Kleine Hochzeit auf einer Terrasse mit Blick auf die Bucht von Palma"
-  - src: "/images/fotograf-palma-mallorca-05.webp"
-    alt: "Kopfsteinpflastergasse im Viertel La Lonja in Palma de Mallorca"
+    alt: "Detailansicht der Türme der Kathedrale von Palma von einer Gasse der Altstadt aus"
 faqs:
   - q: "Können wir die Session in Palma mit der ganzen Familie machen, inklusive Großeltern oder Haustier?"
     a: "Ja, kein Problem – je mehr Generationen oder pelzige Begleiter, desto besser. Ich berücksichtige das nur bei der Wahl einer Location mit gutem Zugang und Schatten und plane Pausen ein, wenn kleine Kinder oder ältere Familienmitglieder dabei sind."
