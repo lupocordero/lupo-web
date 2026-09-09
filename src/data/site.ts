@@ -102,3 +102,10 @@ export const LOCATION_META = {
   calvia: { es: 'Calvià', de: 'Calvià', en: 'Calvià' },
   andratx: { es: 'Andratx', de: 'Andratx', en: 'Andratx' },
 };
+
+// Footer-only pages, intentionally excluded from Header.astro's main nav —
+// see routes.ts's extraSlugs comment.
+export const EXTRA_META = {
+  'food-products': { es: 'Food & Producto', de: 'Food & Produkt', en: 'Food & Product' },
+  properties: { es: 'Propiedades', de: 'Immobilien', en: 'Properties' },
+};

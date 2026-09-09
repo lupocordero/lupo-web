@@ -11,8 +11,10 @@ import {
   serviceHref,
   locationHref,
   pageHref,
+  extraHref,
   type ServiceKey,
   type LocationKey,
+  type ExtraKey,
 } from '../../data/routes';
 import { SITE, UI, SERVICE_META, LOCATION_META, SERVICE_AREA, whatsappHref } from '../../data/site';
 import { serviceSchema, faqSchema, breadcrumbSchema, localBusinessSchema } from '../../data/schema';
@@ -21,16 +23,19 @@ import { SITE_URL } from '../../../astro.config.mjs';
 type ServiceEntry = CollectionEntry<'services'>;
 type LocationEntry = CollectionEntry<'locations'>;
 type PageEntry = CollectionEntry<'pages'>;
+type ExtraEntry = CollectionEntry<'extras'>;
 
 type Props =
   | { type: 'service'; entry: ServiceEntry }
   | { type: 'location'; entry: LocationEntry }
-  | { type: 'page'; entry: PageEntry };
+  | { type: 'page'; entry: PageEntry }
+  | { type: 'extra'; entry: ExtraEntry };
 
 export async function getStaticPaths() {
   const services = await getCollection('services');
   const locations = await getCollection('locations');
   const pages = (await getCollection('pages')).filter((p) => p.data.pageKey !== 'home');
+  const extras = await getCollection('extras');
 
   return [
     ...services.map((entry) => ({
@@ -44,6 +49,10 @@ export async function getStaticPaths() {
     ...pages.map((entry) => ({
       params: { lang: entry.data.lang, slug: entry.data.pageSlug },
       props: { type: 'page' as const, entry },
+    })),
+    ...extras.map((entry) => ({
+      params: { lang: entry.data.lang, slug: entry.data.pageSlug },
+      props: { type: 'extra' as const, entry },
     })),
   ];
 }
@@ -102,6 +111,23 @@ if (type === 'service') {
       { name: entry.data.h1, url: locationHref(key, lang) },
     ])
   );
+} else if (type === 'extra') {
+  const key = entry.data.extraKey as ExtraKey;
+  for (const l of LANGS) alternates[l] = extraHref(key, l);
+  heroImage = entry.data.heroImage;
+  heroImageAlt = entry.data.heroImageAlt;
+  jsonLd.push(
+    serviceSchema({
+      name: entry.data.h1,
+      description: entry.data.metaDescription,
+      url: `${SITE_URL}${extraHref(key, lang)}`,
+      serviceType: entry.data.h1,
+      lang,
+    })
+  );
+  const faq = faqSchema(entry.data.faqs);
+  if (faq) jsonLd.push(faq);
+  jsonLd.push(breadcrumbSchema([{ name: entry.data.h1, url: extraHref(key, lang) }]));
 } else {
   const key = entry.data.pageKey as 'about' | 'contact';
   for (const l of LANGS) alternates[l] = pageHref(key, l);

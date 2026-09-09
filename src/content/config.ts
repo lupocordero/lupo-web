@@ -62,6 +62,23 @@ const pages = defineCollection({
   }),
 });
 
+// "Extras" are pages reachable only via a footer link — never listed in the
+// main nav (Header.astro doesn't loop over this collection at all). Used for
+// secondary portfolio categories (food & product photography, real estate)
+// that don't warrant a spot among the core services.
+const extras = defineCollection({
+  type: 'content',
+  schema: z.object({
+    ...baseSeo,
+    extraKey: z.enum(['food-products', 'properties']),
+    subtitle: z.string(),
+    heroImage: z.string(),
+    heroImageAlt: z.string(),
+    gallery: z.array(z.object({ src: z.string(), alt: z.string() })).default([]),
+    faqs: z.array(faqSchema).default([]),
+  }),
+});
+
 const blog = defineCollection({
   type: 'content',
   schema: z.object({
@@ -76,4 +93,4 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { services, locations, pages, blog };
+export const collections = { services, locations, pages, blog, extras };

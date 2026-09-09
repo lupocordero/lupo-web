@@ -8,7 +8,7 @@ h1: "Mejores lugares para fotos de familia en Mallorca"
 excerpt: "Una guía práctica con los rincones de Mallorca donde mejor salen las fotos de familia, según la luz, el ambiente y la comodidad para ir con niños."
 publishDate: 2026-03-10
 heroImage: "/images/blog-fotos-familia-mallorca-01.webp"
-heroImageAlt: "Vista panorámica de las montañas de Mallorca con el mar al fondo, uno de los mejores lugares para fotos de familia"
+heroImageAlt: "Familia caminando junta por la orilla de una playa en Mallorca"
 relatedServiceKeys: ["portraits", "elopement"]
 relatedLocationKeys: ["palma", "soller", "calvia"]
 ---

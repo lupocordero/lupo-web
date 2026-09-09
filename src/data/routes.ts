@@ -56,6 +56,17 @@ export const locationSlugs = {
 export type LocationKey = keyof typeof locationSlugs;
 export const LOCATION_KEYS = Object.keys(locationSlugs) as LocationKey[];
 
+// "Extras" pages are reachable only via a footer link — never linked from
+// Header.astro's main nav. Slugs kept identical across all 3 languages,
+// same treatment as "elopement" and "portrait-tour".
+export const extraSlugs = {
+  'food-products': { es: 'food-products', de: 'food-products', en: 'food-products' },
+  properties: { es: 'properties', de: 'properties', en: 'properties' },
+} as const;
+
+export type ExtraKey = keyof typeof extraSlugs;
+export const EXTRA_KEYS = Object.keys(extraSlugs) as ExtraKey[];
+
 export const pageSlugs = {
   home: { es: '', de: '', en: '' },
   about: { es: 'sobre-mi', de: 'uber-mich', en: 'about' },
@@ -95,6 +106,10 @@ export function serviceHref(key: ServiceKey, lang: Lang): string {
 
 export function locationHref(key: LocationKey, lang: Lang): string {
   return localePath(lang, locationSlugs[key][lang]);
+}
+
+export function extraHref(key: ExtraKey, lang: Lang): string {
+  return localePath(lang, extraSlugs[key][lang]);
 }
 
 export function pageHref(key: keyof typeof pageSlugs, lang: Lang): string {

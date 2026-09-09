@@ -1,6 +1,6 @@
 ---
-import { SITE, NAV, SERVICE_META, LOCATION_META, SERVICE_AREA, whatsappHref } from '../data/site';
-import { type Lang, SERVICE_KEYS, LOCATION_KEYS, serviceHref, locationHref, pageHref, blogIndexHref } from '../data/routes';
+import { SITE, NAV, SERVICE_META, LOCATION_META, EXTRA_META, SERVICE_AREA, whatsappHref } from '../data/site';
+import { type Lang, SERVICE_KEYS, LOCATION_KEYS, EXTRA_KEYS, serviceHref, locationHref, pageHref, extraHref, blogIndexHref } from '../data/routes';
 
 export interface Props {
   lang: Lang;
@@ -50,6 +50,9 @@ const year = new Date().getFullYear();
           <li><a href={pageHref('about', lang)} class="text-paper/70 hover:text-rust">{nav.about}</a></li>
           <li><a href={blogIndexHref(lang)} class="text-paper/70 hover:text-rust">{nav.journal}</a></li>
           <li><a href={pageHref('contact', lang)} class="text-paper/70 hover:text-rust">{nav.contact}</a></li>
+          {EXTRA_KEYS.map((key) => (
+            <li><a href={extraHref(key, lang)} class="text-paper/70 hover:text-rust">{EXTRA_META[key][lang]}</a></li>
+          ))}
         </ul>
       </div>
     </div>

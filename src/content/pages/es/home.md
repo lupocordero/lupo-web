@@ -6,8 +6,8 @@ seoTitle: "Lupo — Fotógrafo Privado en Mallorca | Eventos, Retratos y Elopeme
 metaDescription: "Lupo, fotógrafo privado en Mallorca: bodas, fiestas, eventos de empresa, retratos de familia y elopements. Entrega rápida, trato en español, alemán e inglés."
 h1: "Fotógrafo en Mallorca"
 subtitle: "Retratos, bodas, eventos deportivos o de empresa; retratos de familia con luz natural; elopements en Sóller y Deià. Puntual, en tu idioma, entrega rápida."
-heroImage: "/images/fotografo-contacto-mallorca.webp"
-heroImageAlt: "Hojas de palmera recortadas contra el cielo azul de Mallorca"
+heroImage: "/images/fotografo-mallorca-hero.webp"
+heroImageAlt: "Novia caminando sola entre olivos con luz cálida de atardecer"
 gallery:
   - src: "/images/fotografo-eventos-mallorca-07.webp"
     alt: "Grupo de participantes posando juntos en un evento deportivo bajo el cartel LA NAVE"

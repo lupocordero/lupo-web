@@ -6,8 +6,8 @@ seoTitle: "Lupo — Private Photographer in Mallorca | Events, Portraits & Elope
 metaDescription: "Lupo, a private photographer in Mallorca: weddings, parties, corporate events, family portraits and elopements. Fast delivery, service in English, German and Spanish."
 h1: "Photographer in Mallorca"
 subtitle: "Portraits, weddings, sports or corporate events; family portraits in natural light; elopements in Sóller and Deià. Punctual, in your language, fast delivery."
-heroImage: "/images/contact-photographer-mallorca.webp"
-heroImageAlt: "Palm fronds silhouetted against the blue sky in Mallorca"
+heroImage: "/images/mallorca-photographer-hero.webp"
+heroImageAlt: "Bride walking alone through olive trees in warm sunset light"
 gallery:
   - src: "/images/event-photographer-mallorca-07.webp"
     alt: "Group of participants posing together at a sports event under the LA NAVE sign"

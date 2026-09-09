@@ -8,7 +8,7 @@ h1: "Elopement in Sóller / Deià – Ein kleiner Guide"
 excerpt: "Orte, Lichtzeiten, Logistik und praktische Tipps für die Planung eures Traum-Elopements in der Sierra de Tramuntana."
 publishDate: 2026-04-02
 heroImage: "/images/blog-elopement-soller-deia-01.webp"
-heroImageAlt: "Luftaufnahme einer Bucht und Klippen an der Küste von Sóller und Deià"
+heroImageAlt: "Paar umarmt sich zwischen Blumen und Grün während eines Elopements in Sóller und Deià"
 relatedServiceKeys: ["elopement"]
 relatedLocationKeys: ["soller", "deia"]
 ---
