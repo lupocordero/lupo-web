@@ -36,4 +36,4 @@ Al ser mi zona base, la logística en Palma es especialmente ágil: puedo propon
 
 Una pareja alemana que eligió Palma para un elopement de última hora antes de coger un vuelo, con ceremonia simbólica frente al mar y sesión de fotos por el casco antiguo en menos de dos horas. Una familia inglesa de vacaciones que quería fotos actualizadas de sus tres hijos y aprovechó una tarde en el paseo marítimo. Una empresa alemana que necesitaba cobertura urgente de una cena de networking en un hotel del centro — entregada en 24 horas.
 
-Si buscas un fotógrafo en Palma para tu boda, sesión de familia o evento, [escríbeme por WhatsApp](https://wa.me/34623066432) y hablamos de fechas y ubicaciones concretas.
+Si buscas un fotógrafo en Palma para tu boda, sesión de familia o evento, [escríbeme por WhatsApp](https://wa.me/4915679748568) y hablamos de fechas y ubicaciones concretas.

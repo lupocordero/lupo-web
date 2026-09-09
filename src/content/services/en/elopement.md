@@ -134,4 +134,4 @@ I work with couples from across Europe used to coordinating remotely, in several
 
 Sóller and Deià, with their viewpoints and hidden coves; the coast of [Andratx](/en/andratx) and Calvià for more dramatic cliffs; private estates inland for something more secluded.
 
-If you're planning an elopement or an intimate wedding in Mallorca, [message me on WhatsApp](https://wa.me/34623066432) with your date and area, and I'll get back to you with availability.
+If you're planning an elopement or an intimate wedding in Mallorca, [message me on WhatsApp](https://wa.me/4915679748568) with your date and area, and I'll get back to you with availability.

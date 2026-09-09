@@ -36,4 +36,4 @@ Aufgrund des internationalen Profils der Gegend sind viele meiner Kunden hier de
 
 Ein Jahrestagsessen eines deutschen Paares mit Wohnsitz in Port d'Andratx, mit Fotos auf der Restaurantterrasse und einem anschließenden abendlichen Spaziergang am Hafen. Eine Familiensession in Sant Elm mit Großeltern, Eltern und Kindern während der Sommerferien. Eine kleine Firmenfeier für ein skandinavisches Team in einem Beachclub in Camp de Mar.
 
-Habt ihr eine Hochzeit, Feier oder Session in der Gegend von Andratx geplant, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir organisieren alles.
+Habt ihr eine Hochzeit, Feier oder Session in der Gegend von Andratx geplant, [schreib mir auf WhatsApp](https://wa.me/4915679748568) und wir organisieren alles.

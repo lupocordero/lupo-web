@@ -44,4 +44,4 @@ I live on the island and know Palma beyond the tourist route. I speak English, G
 
 Old town and cathedral, the Santa Catalina neighbourhood, the seafront promenade and Es Baluard — we combine these depending on the light and what you feel like seeing.
 
-If you'd like a Portrait Tour through Palma, [message me on WhatsApp](https://wa.me/34623066432) with your approximate date and group size, and I'll let you know what's possible.
+If you'd like a Portrait Tour through Palma, [message me on WhatsApp](https://wa.me/4915679748568) with your approximate date and group size, and I'll let you know what's possible.

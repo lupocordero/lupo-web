@@ -36,4 +36,4 @@ Dado el perfil internacional de la zona, buena parte de mis clientes aquí son p
 
 Una cena de aniversario de una pareja alemana residente en Port d'Andratx, con fotos en la terraza del restaurante y un paseo posterior por el puerto ya de noche. Una sesión familiar en Sant Elm con abuelos, padres e hijos aprovechando unas vacaciones de verano. Una pequeña celebración de empresa para un equipo escandinavo en un beach club de Camp de Mar.
 
-Si tienes una boda, celebración o sesión en la zona de Andratx, [escríbeme por WhatsApp](https://wa.me/34623066432) y lo organizamos.
+Si tienes una boda, celebración o sesión en la zona de Andratx, [escríbeme por WhatsApp](https://wa.me/4915679748568) y lo organizamos.

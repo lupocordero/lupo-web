@@ -86,4 +86,4 @@ Punctuality is non-negotiable at an event, and editing doesn't drag on for weeks
 
 Hotels, estates and villas in **Palma**, **Marratxí** and **Calvià**, and locations further inland or along the west coast if your event calls for it.
 
-If you've got a party or corporate event on the calendar, [message me on WhatsApp](https://wa.me/34623066432) with the date, type and roughly how long you need coverage for.
+If you've got a party or corporate event on the calendar, [message me on WhatsApp](https://wa.me/4915679748568) with the date, type and roughly how long you need coverage for.

@@ -36,4 +36,4 @@ Da es meine Homebase ist, ist die Logistik in Palma besonders flexibel: Ich kann
 
 Ein deutsches Paar, das sich für Palma für ein spontanes Elopement kurz vor einem Flug entschied, mit einer symbolischen Zeremonie direkt am Meer und einer Fotosession durch die Altstadt in weniger als zwei Stunden. Eine englische Familie im Urlaub, die aktuelle Fotos ihrer drei Kinder wollte und dafür einen Nachmittag an der Strandpromenade nutzte. Ein deutsches Unternehmen, das kurzfristig Fotos eines Networking-Dinners in einem Hotel im Zentrum brauchte – geliefert innerhalb von 24 Stunden.
 
-Sucht ihr einen Fotografen in Palma für eure Hochzeit, Familiensession oder euer Event, [schreib mir auf WhatsApp](https://wa.me/34623066432) und wir besprechen Termine und konkrete Orte. Interessiert euch auch die Bergregion, schaut euch meine Seite zu [Sóller](/de/soller) an.
+Sucht ihr einen Fotografen in Palma für eure Hochzeit, Familiensession oder euer Event, [schreib mir auf WhatsApp](https://wa.me/4915679748568) und wir besprechen Termine und konkrete Orte. Interessiert euch auch die Bergregion, schaut euch meine Seite zu [Sóller](/de/soller) an.

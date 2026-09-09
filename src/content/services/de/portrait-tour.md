@@ -44,4 +44,4 @@ Ich lebe auf der Insel und kenne Palma jenseits der Touristenroute. Ich spreche 
 
 Altstadt und Kathedrale, das Viertel Santa Catalina, die Strandpromenade und Es Baluard — wir kombinieren je nach Licht und dem, worauf ihr Lust habt.
 
-Wenn ihr einen Portrait Tour durch Palma machen wollt, [schreibt mir auf WhatsApp](https://wa.me/34623066432) mit ungefährem Datum und Gruppengröße, und ich sage euch, was möglich ist.
+Wenn ihr einen Portrait Tour durch Palma machen wollt, [schreibt mir auf WhatsApp](https://wa.me/4915679748568) mit ungefährem Datum und Gruppengröße, und ich sage euch, was möglich ist.

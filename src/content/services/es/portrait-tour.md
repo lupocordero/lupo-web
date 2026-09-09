@@ -44,4 +44,4 @@ Vivo en la isla y conozco Palma más allá de la ruta turística. Hablo español
 
 Casco antiguo y catedral, el barrio de Santa Catalina, el paseo marítimo y Es Baluard — elegimos la combinación según la luz y lo que os apetezca ver.
 
-Si os apetece un Portrait Tour por Palma, [escribidme por WhatsApp](https://wa.me/34623066432) con la fecha aproximada y cuántos seríais, y os cuento disponibilidad.
+Si os apetece un Portrait Tour por Palma, [escribidme por WhatsApp](https://wa.me/4915679748568) con la fecha aproximada y cuántos seríais, y os cuento disponibilidad.

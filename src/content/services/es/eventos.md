@@ -86,4 +86,4 @@ La puntualidad es innegociable en un evento, y la edición no se alarga semanas:
 
 Hoteles, fincas y villas en Palma, Marratxí y Calvià, y localizaciones en el interior o la costa oeste si tu evento lo requiere.
 
-Si tienes una fiesta o evento de empresa en el calendario, [escríbeme por WhatsApp](https://wa.me/34623066432) con fecha, tipo y duración aproximada.
+Si tienes una fiesta o evento de empresa en el calendario, [escríbeme por WhatsApp](https://wa.me/4915679748568) con fecha, tipo y duración aproximada.

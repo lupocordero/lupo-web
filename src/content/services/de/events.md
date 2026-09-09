@@ -86,4 +86,4 @@ Pünktlichkeit ist bei einem Event nicht verhandelbar, und die Bearbeitung zieht
 
 Hotels, Fincas und Villen in [Palma](/de/palma), Marratxí und [Calvià](/de/calvia), und Locations im Landesinneren oder an der Westküste bei Bedarf.
 
-Steht eure Party oder euer Firmenevent im Kalender, [schreib mir auf WhatsApp](https://wa.me/34623066432) mit Datum, Art und ungefährer Dauer.
+Steht eure Party oder euer Firmenevent im Kalender, [schreib mir auf WhatsApp](https://wa.me/4915679748568) mit Datum, Art und ungefährer Dauer.

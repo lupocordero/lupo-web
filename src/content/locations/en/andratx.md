@@ -36,4 +36,4 @@ Given the area's international profile, a good share of my clients here are Germ
 
 An anniversary dinner for a German couple living in Port d'Andratx, with photos on the restaurant terrace followed by an evening walk along the harbor. A family session in Sant Elm with grandparents, parents and kids on a summer holiday. A small corporate gathering for a Scandinavian team at a beach club in Camp de Mar.
 
-If you have a wedding, celebration or session planned in the Andratx area, [message me on WhatsApp](https://wa.me/34623066432) and we'll set it up.
+If you have a wedding, celebration or session planned in the Andratx area, [message me on WhatsApp](https://wa.me/4915679748568) and we'll set it up.

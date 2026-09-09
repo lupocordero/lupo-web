@@ -40,4 +40,4 @@ Muchas de las propiedades y venues de esta zona son privados, con normas de acce
 
 Una boda de 40 invitados en una villa privada de Bendinat con ceremonia frente al mar y sesión de pareja al atardecer sobre la piscina infinita. Una feria náutica en Puerto Portals para una marca alemana de yates, con una selección exprés de fotos entregada el mismo día para redes sociales. Una sesión familiar de una familia inglesa en la playa de Santa Ponça durante sus vacaciones de verano.
 
-Si tienes una boda o evento en la zona de Calvià, [escríbeme por WhatsApp](https://wa.me/34623066432) y coordinamos los detalles. Si tu venue está más hacia el oeste, en Port d'Andratx o Sant Elm, echa un vistazo a mi página de [Andratx](/es/andratx).
+Si tienes una boda o evento en la zona de Calvià, [escríbeme por WhatsApp](https://wa.me/4915679748568) y coordinamos los detalles. Si tu venue está más hacia el oeste, en Port d'Andratx o Sant Elm, echa un vistazo a mi página de [Andratx](/es/andratx).

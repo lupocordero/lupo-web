@@ -59,4 +59,4 @@ Calzado cómodo es imprescindible — varias de las mejores ubicaciones de Deià
 
 Normalmente empezamos con una llamada o intercambio de mensajes para entender qué ambiente buscáis — más íntimo y de montaña, o con el mar como protagonista — y a partir de ahí os propongo un itinerario con 2-3 ubicaciones que combinen bien entre sí sin desplazamientos largos. El día de la sesión, nos movemos con calma, dejando tiempo para que disfrutéis cada momento sin sentir prisa por la cámara.
 
-Si Sóller o Deià suenan como el lugar perfecto para vuestro elopement, [escríbeme por WhatsApp](https://wa.me/34623066432) contándome la fecha aproximada y el ambiente que buscáis, y empezamos a planificar.
+Si Sóller o Deià suenan como el lugar perfecto para vuestro elopement, [escríbeme por WhatsApp](https://wa.me/4915679748568) contándome la fecha aproximada y el ambiente que buscáis, y empezamos a planificar.

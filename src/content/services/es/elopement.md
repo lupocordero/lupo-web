@@ -134,4 +134,4 @@ Trabajo con parejas de toda Europa acostumbradas a coordinar todo a distancia y 
 
 Sóller y Deià, con sus miradores y calas escondidas; la costa de [Andratx](/es/andratx) y Calvià para acantilados más dramáticos; y fincas privadas del interior si preferís algo más resguardado.
 
-Si estáis planeando un elopement o una boda íntima en Mallorca, [escribidme por WhatsApp](https://wa.me/34623066432) con fecha aproximada y zona, y os propongo disponibilidad.
+Si estáis planeando un elopement o una boda íntima en Mallorca, [escribidme por WhatsApp](https://wa.me/4915679748568) con fecha aproximada y zona, y os propongo disponibilidad.
