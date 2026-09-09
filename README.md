@@ -41,3 +41,5 @@ public/
   images/           Imágenes placeholder (reemplazar por fotos reales manteniendo el nombre de archivo)
   robots.txt
 ```
+
+<!-- staging redeploy trigger: 2026-09-09T09:48:15Z -->
