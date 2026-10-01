@@ -123,3 +123,5 @@ Reportaje completo del interior y exterior de la propiedad, con atención especi
 ### Cómo trabajo
 
 Visito la propiedad con luz de día siempre que es posible, ordeno ligeramente cada estancia antes de fotografiar si hace falta, y entrego una selección editada que prioriza claridad y sensación de espacio por encima de efectos artificiales.
+
+¿Necesitas también vídeo de la propiedad? Hago [vídeo inmobiliario](/es/video) con el mismo criterio que en fotografía.

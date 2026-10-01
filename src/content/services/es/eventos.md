@@ -86,4 +86,6 @@ La puntualidad es innegociable en un evento, y la edición no se alarga semanas:
 
 Hoteles, fincas y villas en Palma, Marratxí y Calvià, y localizaciones en el interior o la costa oeste si tu evento lo requiere.
 
+¿Buscas también vídeo del evento? Hago [producción de vídeo](/es/video) con el mismo enfoque, ideal combinado con la cobertura fotográfica.
+
 Si tienes una fiesta o evento de empresa en el calendario, [escríbeme por WhatsApp](https://wa.me/4915679748568) con fecha, tipo y duración aproximada.

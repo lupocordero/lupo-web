@@ -27,7 +27,7 @@ const services = defineCollection({
   type: 'content',
   schema: z.object({
     ...baseSeo,
-    serviceKey: z.enum(['elopement', 'portraits', 'events', 'portraittour']),
+    serviceKey: z.enum(['elopement', 'portraits', 'events', 'portraittour', 'video']),
     subtitle: z.string(),
     heroImage: z.string(),
     heroImageAlt: z.string(),

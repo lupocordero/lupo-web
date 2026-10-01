@@ -86,4 +86,6 @@ Pünktlichkeit ist bei einem Event nicht verhandelbar, und die Bearbeitung zieht
 
 Hotels, Fincas und Villen in [Palma](/de/palma), Marratxí und [Calvià](/de/calvia), und Locations im Landesinneren oder an der Westküste bei Bedarf.
 
+Suchst du auch ein Video vom Event? Ich biete [Videoproduktion](/de/video) mit demselben Ansatz an – ideal kombiniert mit der Fotoabdeckung.
+
 Steht eure Party oder euer Firmenevent im Kalender, [schreib mir auf WhatsApp](https://wa.me/4915679748568) mit Datum, Art und ungefährer Dauer.

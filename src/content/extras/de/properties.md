@@ -123,3 +123,5 @@ Eine vollständige Innen- und Außenaufnahme der Immobilie, mit besonderem Augen
 ### So arbeite ich
 
 Ich besuche die Immobilie nach Möglichkeit bei Tageslicht, räume bei Bedarf jeden Raum vor dem Fotografieren leicht auf und liefere eine bearbeitete Auswahl, die Klarheit und Raumgefühl über künstliche Effekte stellt.
+
+Brauchst du auch ein Video der Immobilie? Ich biete [Immobilienvideo](/de/video) mit demselben Anspruch wie in der Fotografie an.

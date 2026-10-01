@@ -70,6 +70,7 @@ export const SERVICE_META = {
   portraits: { es: 'Retratos', de: 'Porträts', en: 'Portraits' },
   elopement: { es: 'Elopement', de: 'Elopement', en: 'Elopement' },
   portraittour: { es: 'Portrait Tour', de: 'Portrait Tour', en: 'Portrait Tour' },
+  video: { es: 'Vídeo', de: 'Video', en: 'Video' },
 };
 
 export const HOME_SERVICE_BLURBS = {
@@ -92,6 +93,11 @@ export const HOME_SERVICE_BLURBS = {
     es: 'Un paseo fotográfico por Palma en el que te retrato mientras descubrimos la ciudad.',
     de: 'Ein fotografischer Spaziergang durch Palma, bei dem ich euch unterwegs porträtiere.',
     en: 'A photo walk through Palma where I portrait you as we explore the city.',
+  },
+  video: {
+    es: 'Producción de vídeo para bodas, inmobiliarias y empresas — showreel y entrevistas.',
+    de: 'Videoproduktion für Hochzeiten, Immobilien und Unternehmen — Showreel und Interviews.',
+    en: 'Video production for weddings, real estate and companies — showreel and interviews.',
   },
 };
 

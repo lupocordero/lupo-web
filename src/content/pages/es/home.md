@@ -5,7 +5,7 @@ pageKey: home
 seoTitle: "Lupo — Fotógrafo Privado en Mallorca | Eventos, Retratos y Elopement"
 metaDescription: "Lupo, fotógrafo privado en Mallorca: bodas, fiestas, eventos de empresa, retratos de familia y elopements. Entrega rápida, trato en español, alemán e inglés."
 h1: "Fotógrafo en Mallorca"
-subtitle: "Retratos, bodas, eventos deportivos o de empresa; retratos de familia con luz natural; elopements en Sóller y Deià. Puntual, en tu idioma, entrega rápida."
+subtitle: "Fotógrafo y producción de vídeo en Mallorca. Retratos, bodas, eventos deportivos o de empresa; retratos de familia con luz natural; elopements en Sóller y Deià. Puntual, en tu idioma, entrega rápida."
 heroImage: "/images/fotografo-mallorca-hero.webp"
 heroImageAlt: "Novia caminando sola entre olivos con luz cálida de atardecer"
 gallery:
@@ -62,6 +62,10 @@ Para los **retratos de familia**, evito el estudio y las poses forzadas. Prefier
 ## Elopements en Mallorca
 
 Sóller y Deià son mi terreno favorito para un **elopement en Mallorca**: acantilados, calas escondidas y pueblos de piedra a pocos minutos entre sí. Trabajo la sesión como un acompañamiento, no como una producción — planifico la luz, sugiero ubicaciones según la época del año y dejo que la ceremonia, simbólica o legal, marque el ritmo.
+
+## Producción de vídeo en Mallorca
+
+Cada vez más clientes piden también **vídeo**: de la boda, del evento, de la propiedad. Ahora ofrezco [producción de vídeo en Mallorca](/es/video) con el mismo enfoque documental — bodas y elopements, vídeo inmobiliario y entrevistas a empresa.
 
 ## Por qué elegirme
 

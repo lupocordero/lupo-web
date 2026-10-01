@@ -42,6 +42,9 @@ const otherLangs = LANGS.filter((l) => l !== lang);
       <a href={serviceHref('portraittour', lang)} class="border-b border-transparent pb-1 text-paper/90 transition hover:border-rust hover:text-rust">
         {SERVICE_META.portraittour[lang]}
       </a>
+      <a href={serviceHref('video', lang)} class="border-b border-transparent pb-1 text-paper/90 transition hover:border-rust hover:text-rust">
+        {SERVICE_META.video[lang]}
+      </a>
 
       <a href={blogIndexHref(lang)} class="border-b border-transparent pb-1 text-paper/90 transition hover:border-rust hover:text-rust">{nav.journal}</a>
       <a href={pageHref('about', lang)} class="border-b border-transparent pb-1 text-paper/90 transition hover:border-rust hover:text-rust">{nav.about}</a>
@@ -103,6 +106,7 @@ const otherLangs = LANGS.filter((l) => l !== lang);
     <a href={serviceHref('portraits', lang)} class="py-2 text-paper/90">{SERVICE_META.portraits[lang]}</a>
     <a href={serviceHref('elopement', lang)} class="py-2 text-paper/90">{SERVICE_META.elopement[lang]}</a>
     <a href={serviceHref('portraittour', lang)} class="py-2 text-paper/90">{SERVICE_META.portraittour[lang]}</a>
+    <a href={serviceHref('video', lang)} class="py-2 text-paper/90">{SERVICE_META.video[lang]}</a>
     <a href={blogIndexHref(lang)} class="py-2 text-paper/90">{nav.journal}</a>
     <a href={pageHref('about', lang)} class="py-2 text-paper/90">{nav.about}</a>
     <a href={pageHref('contact', lang)} class="link-arrow mt-3 w-fit !border-paper text-paper sm:hidden">{nav.contact}</a>

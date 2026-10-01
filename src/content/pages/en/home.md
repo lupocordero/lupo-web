@@ -5,7 +5,7 @@ pageKey: home
 seoTitle: "Lupo — Private Photographer in Mallorca | Events, Portraits & Elopement"
 metaDescription: "Lupo, a private photographer in Mallorca: weddings, parties, corporate events, family portraits and elopements. Fast delivery, service in English, German and Spanish."
 h1: "Photographer in Mallorca"
-subtitle: "Portraits, weddings, sports or corporate events; family portraits in natural light; elopements in Sóller and Deià. Punctual, in your language, fast delivery."
+subtitle: "Photographer and video production in Mallorca. Portraits, weddings, sports or corporate events; family portraits in natural light; elopements in Sóller and Deià. Punctual, in your language, fast delivery."
 heroImage: "/images/mallorca-photographer-hero.webp"
 heroImageAlt: "Bride walking alone through olive trees in warm sunset light"
 gallery:
@@ -62,6 +62,10 @@ For **family portraits**, I skip the studio and the forced poses. I prefer natur
 ## Elopements in Mallorca
 
 Sóller and Deià are my favourite ground for an **elopement in Mallorca**: cliffs, hidden coves and stone villages just minutes apart. I treat the session as something to accompany, not stage — planning the light, suggesting locations by season, and letting the ceremony, symbolic or legal, set the pace.
+
+## Video production in Mallorca
+
+More and more clients also ask for **video**: of the wedding, the event, the property. I now offer [video production in Mallorca](/en/video) with the same documentary approach — weddings and elopements, real estate video and corporate interviews.
 
 ## Why couples and families choose me
 
