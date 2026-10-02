@@ -4,12 +4,12 @@
 // the footer, and is only ever shared directly via WhatsApp — see
 // src/pages/{es,de,en}/little-eyes.astro and src/components/LittleEyesForm.astro.
 //
-// NOTE: [EMAIL] below is a placeholder left on purpose (in the withdrawal-
-// of-consent bullet) — fill it in once you decide which inbox should
-// receive withdrawal requests. Controller identity (name/DNI/location) and
-// the privacy-policy link are already filled in — see controllerLine /
-// moreInfoPrefix / privacyLinkLabel in each language block, and
-// src/data/privacyPolicy.ts for the linked page itself.
+// Controller identity (name/DNI/location), the withdrawal-of-consent inbox
+// (lupo.cordero@gmail.com), and the privacy-policy link are all filled in —
+// see controllerLine / moreInfoPrefix / privacyLinkLabel in each language
+// block, and src/data/privacyPolicy.ts for the linked page itself. The
+// optional "add me to the course WhatsApp group" consent was removed
+// (2026-10-02) at the owner's request.
 
 import type { Lang } from './routes';
 
@@ -28,7 +28,6 @@ export interface LittleEyesText {
   fields: {
     childName: string;
     consentImages: string;
-    consentWhatsapp: string;
     consentFirstName: string;
   };
   requiredNote: string;
@@ -50,7 +49,7 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       'No se publican en internet, ni en redes sociales, ni en mi web. No se venden ni se ceden a terceros.',
       'Nunca se suben fotos de los niños y niñas a herramientas de inteligencia artificial.',
       'Las guardo en un único lugar seguro y las borro al terminar el curso (junio de 2027). Cada niño se lleva sus fotos impresas.',
-      'Podéis retirar el permiso cuando queráis escribiendo a [EMAIL]: borraré las imágenes de vuestro hijo/a.',
+      'Podéis retirar el permiso cuando queráis escribiendo a lupo.cordero@gmail.com: borraré las imágenes de vuestro hijo/a.',
     ],
     controllerLine: 'Responsable: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
     moreInfoPrefix: 'Más información:',
@@ -59,8 +58,6 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       childName: 'Nombre y apellidos del niño/a',
       consentImages:
         'Soy su padre, madre o tutor legal y doy mi consentimiento para que se hagan y se usen imágenes de mi hijo/a como se describe arriba.',
-      consentWhatsapp:
-        'Podéis añadirme al grupo de WhatsApp del taller (los números son visibles para el resto de familias).',
       consentFirstName:
         'El nombre de mi hijo/a puede aparecer en la etiqueta de su foto en la exposición (si no, solo las iniciales).',
     },
@@ -81,7 +78,7 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       'They are not published online, on social media or on my website. They are not sold or passed to third parties.',
       'Photos of the children are never uploaded to artificial intelligence tools.',
       'I keep them in one secure place and delete them when the course ends (June 2027). Each child takes home their printed photos.',
-      "You can withdraw your consent at any time by writing to [EMAIL]: I will delete your child's images.",
+      "You can withdraw your consent at any time by writing to lupo.cordero@gmail.com: I will delete your child's images.",
     ],
     controllerLine: 'Controller: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
     moreInfoPrefix: 'More information:',
@@ -90,7 +87,6 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       childName: "Child's full name",
       consentImages:
         'I am the child’s parent or legal guardian and I consent to images of my child being taken and used as described above.',
-      consentWhatsapp: 'You may add me to the course WhatsApp group (numbers are visible to the other families).',
       consentFirstName:
         "My child's first name may appear on the label of their photo at the exhibition (otherwise initials only).",
     },
@@ -111,7 +107,7 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       'Sie werden nicht im Internet, nicht in sozialen Netzwerken und nicht auf meiner Website veröffentlicht. Sie werden nicht verkauft und nicht an Dritte weitergegeben.',
       'Fotos der Kinder werden niemals in KI-Werkzeuge hochgeladen.',
       'Ich speichere sie an einem sicheren Ort und lösche sie nach Kursende (Juni 2027). Jedes Kind nimmt seine Abzüge mit nach Hause.',
-      'Ihr könnt die Einwilligung jederzeit widerrufen: schreibt an [EMAIL], und ich lösche die Bilder eures Kindes.',
+      'Ihr könnt die Einwilligung jederzeit widerrufen: schreibt an lupo.cordero@gmail.com, und ich lösche die Bilder eures Kindes.',
     ],
     controllerLine: 'Verantwortlicher: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
     moreInfoPrefix: 'Mehr Informationen:',
@@ -120,8 +116,6 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
       childName: 'Vor- und Nachname des Kindes',
       consentImages:
         'Ich bin Mutter, Vater oder gesetzlicher Vertreter des Kindes und willige ein, dass Bilder meines Kindes wie oben beschrieben gemacht und verwendet werden.',
-      consentWhatsapp:
-        'Ihr könnt mich in die WhatsApp-Gruppe des Kurses aufnehmen (die Nummern sind für die anderen Familien sichtbar).',
       consentFirstName: 'Der Vorname meines Kindes darf auf dem Bildschild bei der Ausstellung stehen (sonst nur die Initialen).',
     },
     requiredNote: '* Pflichtfeld',
