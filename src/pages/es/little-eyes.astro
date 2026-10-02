@@ -1,0 +1,23 @@
+---
+// Private page — not part of any content collection, never linked from nav
+// or footer, excluded from the sitemap (see astro.config.mjs) and marked
+// noindex/nofollow below. Shared with families only via a direct WhatsApp
+// link. See src/components/LittleEyesForm.astro for the form itself and
+// src/data/littleEyes.ts for the copy.
+import Layout from '../../layouts/Layout.astro';
+import LittleEyesForm from '../../components/LittleEyesForm.astro';
+import { LITTLE_EYES_TEXT } from '../../data/littleEyes';
+
+const text = LITTLE_EYES_TEXT.es;
+---
+
+<Layout
+  lang="es"
+  title={text.metaTitle}
+  description={text.metaDescription}
+  path="/es/little-eyes"
+  alternates={{ es: '/es/little-eyes', de: '/de/little-eyes', en: '/en/little-eyes' }}
+  noindex={true}
+>
+  <LittleEyesForm lang="es" />
+</Layout>

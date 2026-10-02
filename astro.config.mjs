@@ -27,6 +27,10 @@ export default defineConfig({
           en: 'en-GB',
         },
       },
+      // "Little Eyes" is a private image-consent page shared only via a
+      // direct WhatsApp link to families — keep it out of the sitemap on
+      // top of its own noindex/nofollow meta tag (see Layout.astro).
+      filter: (page) => !page.includes('/little-eyes'),
     }),
   ],
 });

@@ -1,0 +1,19 @@
+---
+// Private page — see src/pages/es/little-eyes.astro for the full explanation.
+import Layout from '../../layouts/Layout.astro';
+import LittleEyesForm from '../../components/LittleEyesForm.astro';
+import { LITTLE_EYES_TEXT } from '../../data/littleEyes';
+
+const text = LITTLE_EYES_TEXT.en;
+---
+
+<Layout
+  lang="en"
+  title={text.metaTitle}
+  description={text.metaDescription}
+  path="/en/little-eyes"
+  alternates={{ es: '/es/little-eyes', de: '/de/little-eyes', en: '/en/little-eyes' }}
+  noindex={true}
+>
+  <LittleEyesForm lang="en" />
+</Layout>
