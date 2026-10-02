@@ -4,16 +4,21 @@
 // this page must never show up in the sitemap, nav or footer, and is only
 // ever shared directly with families via WhatsApp.
 //
-// Reuses the exact same submission mechanism as ContactForm.astro: the same
-// Formspree endpoint (so it lands in the inbox already configured for the
-// site, with no new service to set up) plus the same honeypot + "too fast to
-// be human" timing check. Submission is done via fetch() with an
-// `Accept: application/json` header so the page never reloads — on success
-// the form is swapped for the localized thank-you message in place. The
-// <form action>/`_next` hidden field are kept as a no-JS fallback: if a
-// visitor somehow has JavaScript disabled, the browser does a normal POST
-// and Formspree redirects to the site's existing (generic) thank-you page
-// for that language.
+// Submission mechanism (2026-10-02, fixed): same Formspree endpoint as
+// ContactForm.astro, same honeypot + "too fast to be human" timing check,
+// AND the same plain <form action> POST navigation — NOT fetch()/AJAX.
+// This form's Formspree endpoint has reCAPTCHA enabled on the dashboard
+// side (see ContactForm.astro's own comment). Formspree's reCAPTCHA
+// challenge only works for a traditional full-page POST, where Formspree
+// can render its own verification page as part of the redirect chain — an
+// AJAX/fetch submission has no page for that widget to render on, so
+// Formspree rejects it outright with a 403, no matter how correctly the
+// form was filled in. An earlier version of this component used fetch() to
+// avoid a page reload, which looked fine in every test that didn't exhaust
+// a real submission against the live, reCAPTCHA-protected endpoint, and
+// every real submission on the published site was silently rejected. Do
+// NOT switch this back to fetch() unless reCAPTCHA is turned off for this
+// Formspree form.
 import { LITTLE_EYES_TEXT, LITTLE_EYES_TEXT_VERSION } from '../data/littleEyes';
 import { pageHref, type Lang } from '../data/routes';
 
@@ -34,98 +39,92 @@ const THANKS_PATH: Record<Lang, string> = {
 ---
 
 <section class="mx-auto max-w-xl px-5 py-14 md:px-8 md:py-20">
-  <div id="le-form-wrap">
-    <h1 class="font-display text-display-2 font-bold">{text.h1}</h1>
-    <p class="mt-5 text-lg text-ink/60">{text.intro}</p>
+  <h1 class="font-display text-display-2 font-bold">{text.h1}</h1>
+  <p class="mt-5 text-lg text-ink/60">{text.intro}</p>
 
-    <div class="prose-lupo mt-10">
-      <h2>{text.promisesHeading}</h2>
-      <ul>
-        {text.promises.map((item) => (
-          <li>{item}</li>
-        ))}
-      </ul>
-      <p class="mt-6 text-sm text-ink/60">
-        {text.controllerLine}
-        <br />
-        {text.moreInfoPrefix}{' '}
-        <a href={pageHref('privacy', lang)} class="border-b border-ink/40 hover:border-rust hover:text-rust">
-          {text.privacyLinkLabel}
-        </a>
-      </p>
+  <div class="prose-lupo mt-10">
+    <h2>{text.promisesHeading}</h2>
+    <ul>
+      {text.promises.map((item) => (
+        <li>{item}</li>
+      ))}
+    </ul>
+    <p class="mt-6 text-sm text-ink/60">
+      {text.controllerLine}
+      <br />
+      {text.moreInfoPrefix}{' '}
+      <a href={pageHref('privacy', lang)} class="border-b border-ink/40 hover:border-rust hover:text-rust">
+        {text.privacyLinkLabel}
+      </a>
+    </p>
+  </div>
+
+  <form
+    id="le-form"
+    action={FORMSPREE_ACTION}
+    method="POST"
+    novalidate
+    class="mt-10 space-y-6"
+    data-thanks-path={THANKS_PATH[lang]}
+  >
+    <div>
+      <label class="eyebrow mb-1 block" for="le-childName">{text.fields.childName}</label>
+      <input
+        id="le-childName"
+        name="childName"
+        type="text"
+        required
+        autocomplete="off"
+        class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none"
+      />
     </div>
 
-    <form
-      id="le-form"
-      action={FORMSPREE_ACTION}
-      method="POST"
-      novalidate
-      class="mt-10 space-y-6"
-      data-thanks-path={THANKS_PATH[lang]}
-    >
-      <div>
-        <label class="eyebrow mb-1 block" for="le-childName">{text.fields.childName}</label>
-        <input
-          id="le-childName"
-          name="childName"
-          type="text"
-          required
-          autocomplete="off"
-          class="w-full border-b border-line bg-transparent py-2 focus:border-ink focus:outline-none"
-        />
-      </div>
+    <div class="flex items-start gap-3">
+      <input
+        id="le-consentImages"
+        name="consentImages"
+        type="checkbox"
+        required
+        value="yes"
+        class="mt-1 h-5 w-5 shrink-0 accent-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rust"
+      />
+      <label for="le-consentImages" class="text-sm text-ink/80">
+        {text.fields.consentImages} <span aria-hidden="true" class="text-rust">*</span>
+      </label>
+    </div>
 
-      <div class="flex items-start gap-3">
-        <input
-          id="le-consentImages"
-          name="consentImages"
-          type="checkbox"
-          required
-          value="yes"
-          class="mt-1 h-5 w-5 shrink-0 accent-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rust"
-        />
-        <label for="le-consentImages" class="text-sm text-ink/80">
-          {text.fields.consentImages} <span aria-hidden="true" class="text-rust">*</span>
-        </label>
-      </div>
+    <div class="flex items-start gap-3">
+      <input
+        id="le-consentFirstName"
+        name="consentFirstName"
+        type="checkbox"
+        value="yes"
+        class="mt-1 h-5 w-5 shrink-0 accent-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rust"
+      />
+      <label for="le-consentFirstName" class="text-sm text-ink/80">{text.fields.consentFirstName}</label>
+    </div>
 
-      <div class="flex items-start gap-3">
-        <input
-          id="le-consentFirstName"
-          name="consentFirstName"
-          type="checkbox"
-          value="yes"
-          class="mt-1 h-5 w-5 shrink-0 accent-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rust"
-        />
-        <label for="le-consentFirstName" class="text-sm text-ink/80">{text.fields.consentFirstName}</label>
-      </div>
+    <p class="text-xs text-ink/50">{text.requiredNote}</p>
 
-      <p class="text-xs text-ink/50">{text.requiredNote}</p>
+    <!-- Honeypot — invisible and unreachable by keyboard, same pattern as
+         ContactForm.astro. A submission that arrives with it filled in is a bot. -->
+    <div class="absolute h-0 w-0 overflow-hidden opacity-0" aria-hidden="true">
+      <label for="le-gotcha">Company</label>
+      <input id="le-gotcha" name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
+    </div>
+    <input type="hidden" name="loadedAt" data-loaded-at value="" />
+    <input type="hidden" name="_next" data-next value="" />
+    <input type="hidden" name="_subject" id="le-subject" value="Little Eyes consent" />
+    <input type="hidden" name="language" value={lang} />
+    <input type="hidden" name="textVersion" value={LITTLE_EYES_TEXT_VERSION} />
+    <input type="hidden" name="timestamp" id="le-timestamp" value="" />
 
-      <!-- Honeypot — invisible and unreachable by keyboard, same pattern as
-           ContactForm.astro. A submission that arrives with it filled in is a bot. -->
-      <div class="absolute h-0 w-0 overflow-hidden opacity-0" aria-hidden="true">
-        <label for="le-gotcha">Company</label>
-        <input id="le-gotcha" name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
-      </div>
-      <input type="hidden" name="loadedAt" data-loaded-at value="" />
-      <input type="hidden" name="_next" data-next value="" />
-      <input type="hidden" name="_subject" id="le-subject" value="Little Eyes consent" />
-      <input type="hidden" name="language" value={lang} />
-      <input type="hidden" name="textVersion" value={LITTLE_EYES_TEXT_VERSION} />
-      <input type="hidden" name="timestamp" id="le-timestamp" value="" />
+    <p id="le-error" role="alert" class="hidden text-sm text-rust" data-error-text={text.error}></p>
 
-      <p id="le-error" role="alert" class="hidden text-sm text-rust" data-error-text={text.error}></p>
-
-      <button type="submit" class="mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust">
-        {text.button}
-      </button>
-    </form>
-  </div>
-
-  <div id="le-thanks-panel" class="hidden" role="status" tabindex="-1">
-    <p class="font-display text-2xl font-bold text-ink">{text.thanks}</p>
-  </div>
+    <button type="submit" class="mt-2 w-full bg-ink py-3 font-sans font-semibold text-paper transition hover:bg-rust">
+      {text.button}
+    </button>
+  </form>
 </section>
 
 <script>
@@ -135,9 +134,8 @@ const THANKS_PATH: Record<Lang, string> = {
     const loadedAtInput = form.querySelector('[data-loaded-at]');
     if (loadedAtInput) loadedAtInput.value = String(loadedAt);
 
-    // No-JS / fetch-failure fallback: point `_next` at this language's
-    // existing thank-you page, resolved against the current origin so it
-    // works on the vercel.app preview and on lupo.pm alike.
+    // Formspree redirects here after a successful submission (see the
+    // top-of-file comment on why this is a plain POST, not fetch()).
     const nextInput = form.querySelector('[data-next]');
     const thanksPath = form.getAttribute('data-thanks-path');
     if (nextInput && thanksPath) {
@@ -145,8 +143,6 @@ const THANKS_PATH: Record<Lang, string> = {
     }
 
     const errorEl = document.getElementById('le-error');
-    const thanksPanel = document.getElementById('le-thanks-panel');
-    const formWrap = document.getElementById('le-form-wrap');
     const childNameInput = document.getElementById('le-childName');
     const consentImagesInput = document.getElementById('le-consentImages');
     const timestampInput = document.getElementById('le-timestamp');
@@ -158,14 +154,14 @@ const THANKS_PATH: Record<Lang, string> = {
       errorEl.classList.remove('hidden');
     };
 
-    form.addEventListener('submit', async (e) => {
-      e.preventDefault();
+    form.addEventListener('submit', (e) => {
       if (errorEl) errorEl.classList.add('hidden');
 
       const nameValue = childNameInput ? childNameInput.value.trim() : '';
       const imagesChecked = consentImagesInput ? consentImagesInput.checked : false;
 
       if (!nameValue || !imagesChecked) {
+        e.preventDefault();
         showError();
         const toFocus = !nameValue ? childNameInput : consentImagesInput;
         if (toFocus) toFocus.focus();
@@ -176,30 +172,16 @@ const THANKS_PATH: Record<Lang, string> = {
       const tooFast = Date.now() - loadedAt < 2500;
       if ((gotcha && gotcha.value) || tooFast) {
         // Likely a bot — drop it silently instead of alarming a real visitor.
+        e.preventDefault();
         return;
       }
 
       if (timestampInput) timestampInput.value = new Date().toISOString();
       if (subjectInput) subjectInput.value = `Little Eyes consent – ${nameValue}`;
 
-      try {
-        const res = await fetch(form.action, {
-          method: 'POST',
-          body: new FormData(form),
-          headers: { Accept: 'application/json' },
-        });
-        if (res.ok) {
-          if (formWrap) formWrap.classList.add('hidden');
-          if (thanksPanel) {
-            thanksPanel.classList.remove('hidden');
-            thanksPanel.focus();
-          }
-        } else {
-          showError();
-        }
-      } catch {
-        showError();
-      }
+      // No e.preventDefault() here: let the browser submit normally.
+      // Formspree completes its reCAPTCHA check (if triggered) as part of
+      // the POST/redirect chain, then sends the visitor to `_next`.
     });
   }
 </script>
