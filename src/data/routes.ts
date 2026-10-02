@@ -76,6 +76,10 @@ export const pageSlugs = {
   home: { es: '', de: '', en: '' },
   about: { es: 'sobre-mi', de: 'uber-mich', en: 'about' },
   contact: { es: 'contacto', de: 'kontakt', en: 'contact' },
+  // Site-wide privacy policy — a standalone hand-written page (like
+  // about/contact), not a content-collection entry. Linked from the footer
+  // and from the Little Eyes consent form.
+  privacy: { es: 'privacidad', de: 'datenschutz', en: 'privacy-policy' },
 } as const;
 
 export const blogIndexSlug = { es: 'blog', de: 'blog', en: 'blog' } as const;

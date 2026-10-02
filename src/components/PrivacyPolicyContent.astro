@@ -1,0 +1,41 @@
+---
+import { PRIVACY_POLICY_TEXT, PRIVACY_POLICY_LAST_UPDATED } from '../data/privacyPolicy';
+import { SITE, whatsappHref } from '../data/site';
+import { pageHref, type Lang } from '../data/routes';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const text = PRIVACY_POLICY_TEXT[lang];
+const lastUpdated = PRIVACY_POLICY_LAST_UPDATED[lang];
+---
+
+<div class="mx-auto max-w-2xl px-5 py-14 md:px-8 md:py-20">
+  <h1 class="font-display text-display-2 font-bold">{text.h1}</h1>
+  <p class="mt-5 text-lg text-ink/60">{text.intro}</p>
+  <p class="eyebrow mt-3">{lastUpdated}</p>
+
+  <div class="prose-lupo mt-10">
+    <h2>{text.controllerHeading}</h2>
+    <p>{text.controllerParagraph}</p>
+    <ul>
+      <li>Email: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></li>
+      <li>WhatsApp: <a href={whatsappHref(lang)} target="_blank" rel="noopener noreferrer">{SITE.whatsappNumber}</a></li>
+    </ul>
+
+    {text.sections.map((section) => (
+      <>
+        <h2>{section.heading}</h2>
+        {section.paragraphs.map((p) => (
+          <p>{p}</p>
+        ))}
+      </>
+    ))}
+  </div>
+
+  <a href={pageHref('home', lang)} class="link-arrow mt-10 inline-flex text-lg">
+    {text.backHome} →
+  </a>
+</div>

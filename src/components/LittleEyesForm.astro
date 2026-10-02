@@ -15,7 +15,7 @@
 // and Formspree redirects to the site's existing (generic) thank-you page
 // for that language.
 import { LITTLE_EYES_TEXT, LITTLE_EYES_TEXT_VERSION } from '../data/littleEyes';
-import type { Lang } from '../data/routes';
+import { pageHref, type Lang } from '../data/routes';
 
 export interface Props {
   lang: Lang;
@@ -48,7 +48,10 @@ const THANKS_PATH: Record<Lang, string> = {
       <p class="mt-6 text-sm text-ink/60">
         {text.controllerLine}
         <br />
-        {text.moreInfoLabel}
+        {text.moreInfoPrefix}{' '}
+        <a href={pageHref('privacy', lang)} class="border-b border-ink/40 hover:border-rust hover:text-rust">
+          {text.privacyLinkLabel}
+        </a>
       </p>
     </div>
 

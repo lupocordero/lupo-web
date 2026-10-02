@@ -4,9 +4,12 @@
 // the footer, and is only ever shared directly via WhatsApp — see
 // src/pages/{es,de,en}/little-eyes.astro and src/components/LittleEyesForm.astro.
 //
-// NOTE: [LEGAL NAME], [TAX ID], [EMAIL] and [PRIVACY POLICY URL] below are
-// placeholders left on purpose — fill them in once you have the real values
-// (see controllerLine / promises in each language block).
+// NOTE: [EMAIL] below is a placeholder left on purpose (in the withdrawal-
+// of-consent bullet) — fill it in once you decide which inbox should
+// receive withdrawal requests. Controller identity (name/DNI/location) and
+// the privacy-policy link are already filled in — see controllerLine /
+// moreInfoPrefix / privacyLinkLabel in each language block, and
+// src/data/privacyPolicy.ts for the linked page itself.
 
 import type { Lang } from './routes';
 
@@ -20,7 +23,8 @@ export interface LittleEyesText {
   promisesHeading: string;
   promises: string[];
   controllerLine: string;
-  moreInfoLabel: string;
+  moreInfoPrefix: string;
+  privacyLinkLabel: string;
   fields: {
     childName: string;
     consentImages: string;
@@ -41,15 +45,16 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
     intro: 'Para que vuestro hijo/a participe en Little Eyes necesitamos vuestro permiso. Son 20 segundos.',
     promisesHeading: 'Lo que prometo',
     promises: [
-      'Hago fotos y vídeos cortos de los niños durante las clases, solo para el taller (aprender, verlos juntos, exposiciones en el colegio).',
+      'Tenemos previstos talleres puntuales en los que se harán fotos, retratos y vídeos cortos de los niños y niñas, con fines de aprendizaje (verlos juntos en clase, exposiciones en el colegio).',
       'Las imágenes solo se muestran en la pantalla de clase, en las exposiciones del colegio (22 dic, 23 mar y 15 jun) y a las familias.',
       'No se publican en internet, ni en redes sociales, ni en mi web. No se venden ni se ceden a terceros.',
-      'Nunca se suben fotos de los niños a herramientas de inteligencia artificial.',
+      'Nunca se suben fotos de los niños y niñas a herramientas de inteligencia artificial.',
       'Las guardo en un único lugar seguro y las borro al terminar el curso (junio de 2027). Cada niño se lleva sus fotos impresas.',
       'Podéis retirar el permiso cuando queráis escribiendo a [EMAIL]: borraré las imágenes de vuestro hijo/a.',
     ],
-    controllerLine: 'Responsable: [LEGAL NAME], [TAX ID], Palma (Illes Balears).',
-    moreInfoLabel: 'Más información: [PRIVACY POLICY URL]',
+    controllerLine: 'Responsable: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
+    moreInfoPrefix: 'Más información:',
+    privacyLinkLabel: 'política de privacidad',
     fields: {
       childName: 'Nombre y apellidos del niño/a',
       consentImages:
@@ -71,15 +76,16 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
     intro: 'To let your child take part in Little Eyes we need your permission. It takes 20 seconds.',
     promisesHeading: 'What I promise',
     promises: [
-      'I take photos and short videos of the children during classes, only for the course (learning, viewing together, exhibitions at the school).',
+      'We have occasional workshops planned in which the children will have photos, portraits and short videos taken, for learning purposes (viewing together in class, exhibitions at the school).',
       'The images are only shown on the classroom screen, at the school exhibitions (22 Dec, 23 Mar and 15 Jun) and to the families.',
       'They are not published online, on social media or on my website. They are not sold or passed to third parties.',
       'Photos of the children are never uploaded to artificial intelligence tools.',
       'I keep them in one secure place and delete them when the course ends (June 2027). Each child takes home their printed photos.',
       "You can withdraw your consent at any time by writing to [EMAIL]: I will delete your child's images.",
     ],
-    controllerLine: 'Controller: [LEGAL NAME], [TAX ID], Palma (Balearic Islands).',
-    moreInfoLabel: 'More information: [PRIVACY POLICY URL]',
+    controllerLine: 'Controller: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
+    moreInfoPrefix: 'More information:',
+    privacyLinkLabel: 'privacy policy',
     fields: {
       childName: "Child's full name",
       consentImages:
@@ -100,15 +106,16 @@ export const LITTLE_EYES_TEXT: Record<Lang, LittleEyesText> = {
     intro: 'Damit euer Kind bei Little Eyes mitmachen kann, brauchen wir eure Erlaubnis. Das dauert 20 Sekunden.',
     promisesHeading: 'Das verspreche ich',
     promises: [
-      'Ich mache während der Kurse Fotos und kurze Videos der Kinder, ausschließlich für den Kurs (lernen, gemeinsam ansehen, Ausstellungen in der Schule).',
+      'Es sind gelegentliche Kurseinheiten geplant, in denen Fotos, Porträts und kurze Videos der Kinder zu Lernzwecken gemacht werden (gemeinsam ansehen im Unterricht, Ausstellungen in der Schule).',
       'Die Bilder werden nur auf dem Bildschirm im Kursraum, bei den Ausstellungen in der Schule (22. Dez., 23. März und 15. Juni) und für die Familien gezeigt.',
       'Sie werden nicht im Internet, nicht in sozialen Netzwerken und nicht auf meiner Website veröffentlicht. Sie werden nicht verkauft und nicht an Dritte weitergegeben.',
       'Fotos der Kinder werden niemals in KI-Werkzeuge hochgeladen.',
       'Ich speichere sie an einem sicheren Ort und lösche sie nach Kursende (Juni 2027). Jedes Kind nimmt seine Abzüge mit nach Hause.',
       'Ihr könnt die Einwilligung jederzeit widerrufen: schreibt an [EMAIL], und ich lösche die Bilder eures Kindes.',
     ],
-    controllerLine: 'Verantwortlicher: [LEGAL NAME], [TAX ID], Palma (Balearen).',
-    moreInfoLabel: 'Mehr Informationen: [PRIVACY POLICY URL]',
+    controllerLine: 'Verantwortlicher: Javier Cordero Pariente, DNI 61561896G, Deià, Mallorca.',
+    moreInfoPrefix: 'Mehr Informationen:',
+    privacyLinkLabel: 'Datenschutzerklärung',
     fields: {
       childName: 'Vor- und Nachname des Kindes',
       consentImages:

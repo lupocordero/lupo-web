@@ -1,0 +1,17 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PrivacyPolicyContent from '../../components/PrivacyPolicyContent.astro';
+import { PRIVACY_POLICY_TEXT } from '../../data/privacyPolicy';
+
+const text = PRIVACY_POLICY_TEXT.es;
+---
+
+<Layout
+  lang="es"
+  title={text.metaTitle}
+  description={text.metaDescription}
+  path="/es/privacidad"
+  alternates={{ es: '/es/privacidad', de: '/de/datenschutz', en: '/en/privacy-policy' }}
+>
+  <PrivacyPolicyContent lang="es" />
+</Layout>
